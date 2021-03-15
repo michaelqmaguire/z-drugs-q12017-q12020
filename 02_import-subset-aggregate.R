@@ -47,7 +47,7 @@ sdud_2017_2020 %>%
   arrange(year, desc(quarter))
 
 ## ------------------------------------------------------------------ ##
-## Step 2: Flag records containing either brand name or generic name. ##
+## Step 2: Flag records using generic name.                           ##
 ## ------------------------------------------------------------------ ##
 
 sdud_2017_2020_gennmes <- 
@@ -92,9 +92,9 @@ ndc_gen_brand_names <-
 ## Also should output an aggregate by drug.
 
 sdud_2017_2020_zdrugs_rx <-
-sdud_2017_2020_z_flags %>%
-  group_by(year, quarter, state, gennme_c, suppression_used) %>%
-  summarize(total_prescriptions = sum(number_of_prescriptions))
+  sdud_2017_2020_z_flags %>%
+    group_by(state, year, quarter, gennme_c, suppression_used) %>%
+    summarize(total_prescriptions = sum(number_of_prescriptions))
 
 ## Keeping the Suppression Used column once I get direction from JHC.
 
