@@ -248,3 +248,139 @@ ggplot(data = sdud_2017_2020_zdrugs) +
 ```
 
 ![](03_create-rmarkdown-report_files/figure-gfm/plotrx-1.png)<!-- -->
+\#\# JHC noticed GA has missing observations in 2018.
+
+Repeat process without GA records.
+
+### Step 5: Aggregate by state, year, quarter and sum, without GA.
+
+``` r
+# Filter off on flags created above.
+sdud_2017_2020_z_flags_rm_ga <-
+  sdud_2017_2020_gennmes %>%
+  filter(
+    (eszcopiclone_flag == "1" | zaleplon_flag == "1" | zolpidem_flag == "1") & state != "ga"
+  )
+```
+
+    ## filter: removed 14,518,968 rows (>99%), 55,120 rows remaining
+
+``` r
+# Create data set containing generic name, brand name, and ndc number.
+ndc_gen_brand_names_rm_ga <- 
+  sdud_2017_2020_z_flags_rm_ga %>%
+  distinct(gennme_c, prodnme, ndc)
+```
+
+    ## distinct: removed 54,968 rows (>99%), 152 rows remaining
+
+``` r
+# Examine data set.
+ndc_gen_brand_names_rm_ga
+```
+
+    ## # A tibble: 152 x 3
+    ##    ndc         gennme_c          prodnme          
+    ##    <chr>       <chr>             <chr>            
+    ##  1 65862096730 Eszopiclone       ESZOPICLONE      
+    ##  2 57237024001 Zaleplon          ZALEPLON         
+    ##  3 65862015901 Zolpidem Tartrate ZOLPIDEM TARTRATE
+    ##  4 00378531005 Zolpidem Tartrate ZOLPIDEM TARTRATE
+    ##  5 10370011610 Zolpidem Tartrate ZOLPIDEM TARTRATE
+    ##  6 00093007401 Zolpidem Tartrate ZOLPIDEM TARTRATE
+    ##  7 68462038401 Eszopiclone       ESZOPICLONE      
+    ##  8 00093553756 Eszopiclone       ESZOPICLONE      
+    ##  9 47335030888 Zolpidem Tartrate ZOLPIDEM TARTRATE
+    ## 10 00054008525 Zaleplon          ZALEPLON         
+    ## # ... with 142 more rows
+
+``` r
+# Create aggregate by state, year, quarter, and suppression.
+sdud_2017_2020_zdrugs_rm_ga <- 
+  sdud_2017_2020_z_flags_rm_ga %>%
+    group_by(state, year, quarter, suppression_used) %>%
+    summarize(total_prescriptions = sum(number_of_prescriptions))
+```
+
+    ## group_by: 4 grouping variables (state, year, quarter, suppression_used)
+
+    ## summarize: now 1,249 rows and 5 columns, 3 group variables remaining (state, year, quarter)
+
+``` r
+# Create aggregate by state, year, quarter, generic name, and suppression. 
+sdud_2017_2020_zdrugs_rx_rm_ga <-
+  sdud_2017_2020_z_flags_rm_ga %>%
+    group_by(state, year, quarter, gennme_c, suppression_used) %>%
+    summarize(total_prescriptions = sum(number_of_prescriptions))
+```
+
+    ## group_by: 5 grouping variables (state, year, quarter, gennme_c, suppression_used)
+
+    ## summarize: now 3,622 rows and 6 columns, 4 group variables remaining (state, year, quarter, gennme_c)
+
+### Step 6: Plot number of prescriptions over time, without GA.
+
+``` r
+# Plot showing number of prescriptions by year and quarter.
+ggplot(data = sdud_2017_2020_zdrugs_rm_ga) +
+  geom_col(aes(x = paste0(year, "-", quarter), y = total_prescriptions), fill = "forestgreen", alpha = 0.95) +
+    scale_y_continuous(labels = scales::comma) + 
+    theme_ipsum_rc(axis_title_just = "ct") +
+    ggtitle("Number of Prescriptions by Year and Quarter") +
+    xlab("Year-Quarter") +
+    ylab("Total Number of Prescriptions") +
+    theme(
+      axis.text.x = element_text(color = "black"),
+      axis.text.y = element_text(color = "black"),
+      axis.title.x = element_text(color = "black", size = 10),
+      axis.title.y = element_text(color = "black", size = 10),
+    ) +
+    coord_cartesian(expand = FALSE)
+```
+
+![](03_create-rmarkdown-report_files/figure-gfm/plots_rm_ga-1.png)<!-- -->
+
+``` r
+# Plot showing number of prescriptions by year, quarter, and generic name.
+ggplot(data = sdud_2017_2020_zdrugs_rx_rm_ga) +
+  geom_col(aes(x = paste0(year, "-", quarter), y = total_prescriptions, fill = gennme_c)) +
+    scale_fill_viridis_d(direction = -1) +
+    scale_y_continuous(labels = scales::comma) +
+    theme_ipsum_rc(axis_title_just = "ct") +
+    ggtitle("Number of Prescriptions by Generic Name, Year, and Quarter") +
+    xlab("Year-Quarter") +
+    ylab("Total Number of Prescriptions") +
+    labs(fill = "Generic Name") +
+    theme(
+      axis.text.x = element_text(color = "black"),
+      axis.text.y = element_text(color = "black"),
+      axis.title.x = element_text(color = "black", size = 12),
+      axis.title.y = element_text(color = "black", size = 12)
+    ) +
+    coord_cartesian(expand = FALSE)
+```
+
+![](03_create-rmarkdown-report_files/figure-gfm/plots_rm_ga-2.png)<!-- -->
+
+``` r
+# Plot showing number of prescriptions by year, quarter, and state.
+ggplot(data = sdud_2017_2020_zdrugs_rm_ga) +
+  geom_col(aes(x = paste0(year, "-", quarter), y = total_prescriptions, fill = state), alpha = 0.95) +
+    scale_fill_viridis_d() +
+    scale_y_continuous(labels = scales::comma) + 
+    theme_ipsum_rc(axis_title_just = "ct") +
+    ggtitle("Number of Prescriptions by Year, Quarter, and State") +
+    xlab("Year-Quarter") +
+    ylab("Total Number of Prescriptions") +
+    theme(
+      axis.text.x = element_text(color = "black", angle = 90, size = 10, hjust = 0.25, vjust = 0.25),
+      axis.text.y = element_text(color = "black"),
+      axis.title.x = element_text(color = "black", size = 10),
+      axis.title.y = element_text(color = "black", size = 10),
+      legend.position = "none"
+    ) +
+    facet_wrap(~state) +
+    coord_cartesian(expand = FALSE)
+```
+
+![](03_create-rmarkdown-report_files/figure-gfm/plotrx_rm_ga-1.png)<!-- -->
