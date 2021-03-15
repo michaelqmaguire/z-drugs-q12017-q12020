@@ -1,0 +1,3670 @@
+year,quarter,state,gennme_c,suppression_used,total_prescriptions
+2017,1,ak,Eszopiclone,FALSE,233
+2017,1,ak,Eszopiclone,TRUE,0
+2017,1,ak,Zaleplon,FALSE,63
+2017,1,ak,Zaleplon,TRUE,0
+2017,1,ak,Zolpidem Tartrate,FALSE,2338
+2017,1,ak,Zolpidem Tartrate,TRUE,0
+2017,1,al,Eszopiclone,FALSE,381
+2017,1,al,Eszopiclone,TRUE,0
+2017,1,al,Zaleplon,FALSE,15
+2017,1,al,Zaleplon,TRUE,0
+2017,1,al,Zolpidem Tartrate,FALSE,3953
+2017,1,al,Zolpidem Tartrate,TRUE,0
+2017,1,ar,Eszopiclone,TRUE,0
+2017,1,ar,Zaleplon,FALSE,477
+2017,1,ar,Zolpidem Tartrate,FALSE,7013
+2017,1,ar,Zolpidem Tartrate,TRUE,0
+2017,1,az,Eszopiclone,FALSE,1053
+2017,1,az,Eszopiclone,TRUE,0
+2017,1,az,Zaleplon,FALSE,510
+2017,1,az,Zaleplon,TRUE,0
+2017,1,az,Zolpidem Tartrate,FALSE,18482
+2017,1,az,Zolpidem Tartrate,TRUE,0
+2017,1,ca,Eszopiclone,FALSE,2039
+2017,1,ca,Eszopiclone,TRUE,0
+2017,1,ca,Zaleplon,FALSE,893
+2017,1,ca,Zaleplon,TRUE,0
+2017,1,ca,Zolpidem Tartrate,FALSE,91331
+2017,1,ca,Zolpidem Tartrate,TRUE,0
+2017,1,co,Eszopiclone,FALSE,2916
+2017,1,co,Eszopiclone,TRUE,0
+2017,1,co,Zaleplon,FALSE,468
+2017,1,co,Zaleplon,TRUE,0
+2017,1,co,Zolpidem Tartrate,FALSE,15823
+2017,1,co,Zolpidem Tartrate,TRUE,0
+2017,1,ct,Eszopiclone,FALSE,906
+2017,1,ct,Eszopiclone,TRUE,0
+2017,1,ct,Zaleplon,FALSE,113
+2017,1,ct,Zaleplon,TRUE,0
+2017,1,ct,Zolpidem Tartrate,FALSE,15964
+2017,1,ct,Zolpidem Tartrate,TRUE,0
+2017,1,dc,Eszopiclone,TRUE,0
+2017,1,dc,Zaleplon,TRUE,0
+2017,1,dc,Zolpidem Tartrate,FALSE,2127
+2017,1,dc,Zolpidem Tartrate,TRUE,0
+2017,1,de,Eszopiclone,FALSE,84
+2017,1,de,Eszopiclone,TRUE,0
+2017,1,de,Zaleplon,FALSE,42
+2017,1,de,Zaleplon,TRUE,0
+2017,1,de,Zolpidem Tartrate,FALSE,3989
+2017,1,de,Zolpidem Tartrate,TRUE,0
+2017,1,fl,Eszopiclone,FALSE,51
+2017,1,fl,Eszopiclone,TRUE,0
+2017,1,fl,Zaleplon,TRUE,0
+2017,1,fl,Zolpidem Tartrate,FALSE,24729
+2017,1,fl,Zolpidem Tartrate,TRUE,0
+2017,1,ga,Eszopiclone,TRUE,0
+2017,1,ga,Zaleplon,FALSE,103
+2017,1,ga,Zaleplon,TRUE,0
+2017,1,ga,Zolpidem Tartrate,FALSE,16587
+2017,1,ga,Zolpidem Tartrate,TRUE,0
+2017,1,hi,Eszopiclone,FALSE,22
+2017,1,hi,Eszopiclone,TRUE,0
+2017,1,hi,Zaleplon,TRUE,0
+2017,1,hi,Zolpidem Tartrate,FALSE,4213
+2017,1,hi,Zolpidem Tartrate,TRUE,0
+2017,1,ia,Eszopiclone,FALSE,214
+2017,1,ia,Eszopiclone,TRUE,0
+2017,1,ia,Zaleplon,FALSE,116
+2017,1,ia,Zaleplon,TRUE,0
+2017,1,ia,Zolpidem Tartrate,FALSE,2930
+2017,1,ia,Zolpidem Tartrate,TRUE,0
+2017,1,id,Eszopiclone,FALSE,147
+2017,1,id,Eszopiclone,TRUE,0
+2017,1,id,Zaleplon,FALSE,31
+2017,1,id,Zaleplon,TRUE,0
+2017,1,id,Zolpidem Tartrate,FALSE,3594
+2017,1,id,Zolpidem Tartrate,TRUE,0
+2017,1,il,Eszopiclone,FALSE,306
+2017,1,il,Eszopiclone,TRUE,0
+2017,1,il,Zaleplon,FALSE,301
+2017,1,il,Zaleplon,TRUE,0
+2017,1,il,Zolpidem Tartrate,FALSE,27785
+2017,1,il,Zolpidem Tartrate,TRUE,0
+2017,1,in,Eszopiclone,FALSE,1264
+2017,1,in,Eszopiclone,TRUE,0
+2017,1,in,Zaleplon,FALSE,418
+2017,1,in,Zaleplon,TRUE,0
+2017,1,in,Zolpidem Tartrate,FALSE,13011
+2017,1,in,Zolpidem Tartrate,TRUE,0
+2017,1,ks,Eszopiclone,FALSE,293
+2017,1,ks,Eszopiclone,TRUE,0
+2017,1,ks,Zaleplon,FALSE,37
+2017,1,ks,Zaleplon,TRUE,0
+2017,1,ks,Zolpidem Tartrate,FALSE,4161
+2017,1,ks,Zolpidem Tartrate,TRUE,0
+2017,1,ky,Eszopiclone,FALSE,181
+2017,1,ky,Eszopiclone,TRUE,0
+2017,1,ky,Zaleplon,FALSE,71
+2017,1,ky,Zaleplon,TRUE,0
+2017,1,ky,Zolpidem Tartrate,FALSE,13289
+2017,1,ky,Zolpidem Tartrate,TRUE,0
+2017,1,la,Eszopiclone,FALSE,280
+2017,1,la,Eszopiclone,TRUE,0
+2017,1,la,Zaleplon,FALSE,370
+2017,1,la,Zaleplon,TRUE,0
+2017,1,la,Zolpidem Tartrate,FALSE,22089
+2017,1,la,Zolpidem Tartrate,TRUE,0
+2017,1,ma,Eszopiclone,FALSE,388
+2017,1,ma,Eszopiclone,TRUE,0
+2017,1,ma,Zaleplon,FALSE,377
+2017,1,ma,Zaleplon,TRUE,0
+2017,1,ma,Zolpidem Tartrate,FALSE,19798
+2017,1,ma,Zolpidem Tartrate,TRUE,0
+2017,1,md,Eszopiclone,FALSE,1093
+2017,1,md,Eszopiclone,TRUE,0
+2017,1,md,Zaleplon,FALSE,420
+2017,1,md,Zaleplon,TRUE,0
+2017,1,md,Zolpidem Tartrate,FALSE,19571
+2017,1,md,Zolpidem Tartrate,TRUE,0
+2017,1,me,Eszopiclone,FALSE,56
+2017,1,me,Eszopiclone,TRUE,0
+2017,1,me,Zaleplon,FALSE,59
+2017,1,me,Zaleplon,TRUE,0
+2017,1,me,Zolpidem Tartrate,FALSE,2283
+2017,1,me,Zolpidem Tartrate,TRUE,0
+2017,1,mi,Eszopiclone,FALSE,624
+2017,1,mi,Eszopiclone,TRUE,0
+2017,1,mi,Zaleplon,FALSE,149
+2017,1,mi,Zaleplon,TRUE,0
+2017,1,mi,Zolpidem Tartrate,FALSE,23196
+2017,1,mi,Zolpidem Tartrate,TRUE,0
+2017,1,mn,Eszopiclone,FALSE,1532
+2017,1,mn,Eszopiclone,TRUE,0
+2017,1,mn,Zaleplon,FALSE,739
+2017,1,mn,Zaleplon,TRUE,0
+2017,1,mn,Zolpidem Tartrate,FALSE,15650
+2017,1,mn,Zolpidem Tartrate,TRUE,0
+2017,1,mo,Eszopiclone,FALSE,2519
+2017,1,mo,Eszopiclone,TRUE,0
+2017,1,mo,Zaleplon,FALSE,394
+2017,1,mo,Zaleplon,TRUE,0
+2017,1,mo,Zolpidem Tartrate,FALSE,13476
+2017,1,mo,Zolpidem Tartrate,TRUE,0
+2017,1,ms,Eszopiclone,TRUE,0
+2017,1,ms,Zaleplon,FALSE,50
+2017,1,ms,Zaleplon,TRUE,0
+2017,1,ms,Zolpidem Tartrate,FALSE,2302
+2017,1,ms,Zolpidem Tartrate,TRUE,0
+2017,1,mt,Eszopiclone,FALSE,170
+2017,1,mt,Eszopiclone,TRUE,0
+2017,1,mt,Zaleplon,FALSE,38
+2017,1,mt,Zaleplon,TRUE,0
+2017,1,mt,Zolpidem Tartrate,FALSE,4032
+2017,1,mt,Zolpidem Tartrate,TRUE,0
+2017,1,nc,Eszopiclone,FALSE,858
+2017,1,nc,Eszopiclone,TRUE,0
+2017,1,nc,Zaleplon,FALSE,170
+2017,1,nc,Zaleplon,TRUE,0
+2017,1,nc,Zolpidem Tartrate,FALSE,17189
+2017,1,nc,Zolpidem Tartrate,TRUE,0
+2017,1,nd,Eszopiclone,FALSE,71
+2017,1,nd,Eszopiclone,TRUE,0
+2017,1,nd,Zaleplon,TRUE,0
+2017,1,nd,Zolpidem Tartrate,FALSE,1454
+2017,1,nd,Zolpidem Tartrate,TRUE,0
+2017,1,ne,Eszopiclone,FALSE,159
+2017,1,ne,Eszopiclone,TRUE,0
+2017,1,ne,Zaleplon,FALSE,193
+2017,1,ne,Zaleplon,TRUE,0
+2017,1,ne,Zolpidem Tartrate,FALSE,3244
+2017,1,ne,Zolpidem Tartrate,TRUE,0
+2017,1,nh,Eszopiclone,FALSE,15
+2017,1,nh,Eszopiclone,TRUE,0
+2017,1,nh,Zaleplon,FALSE,28
+2017,1,nh,Zaleplon,TRUE,0
+2017,1,nh,Zolpidem Tartrate,FALSE,1236
+2017,1,nh,Zolpidem Tartrate,TRUE,0
+2017,1,nj,Eszopiclone,FALSE,326
+2017,1,nj,Eszopiclone,TRUE,0
+2017,1,nj,Zaleplon,FALSE,977
+2017,1,nj,Zaleplon,TRUE,0
+2017,1,nj,Zolpidem Tartrate,FALSE,28851
+2017,1,nj,Zolpidem Tartrate,TRUE,0
+2017,1,nm,Eszopiclone,FALSE,222
+2017,1,nm,Eszopiclone,TRUE,0
+2017,1,nm,Zaleplon,FALSE,89
+2017,1,nm,Zaleplon,TRUE,0
+2017,1,nm,Zolpidem Tartrate,FALSE,8545
+2017,1,nm,Zolpidem Tartrate,TRUE,0
+2017,1,nv,Eszopiclone,FALSE,50
+2017,1,nv,Eszopiclone,TRUE,0
+2017,1,nv,Zaleplon,FALSE,100
+2017,1,nv,Zaleplon,TRUE,0
+2017,1,nv,Zolpidem Tartrate,FALSE,11034
+2017,1,nv,Zolpidem Tartrate,TRUE,0
+2017,1,ny,Eszopiclone,FALSE,1603
+2017,1,ny,Eszopiclone,TRUE,0
+2017,1,ny,Zaleplon,FALSE,1118
+2017,1,ny,Zaleplon,TRUE,0
+2017,1,ny,Zolpidem Tartrate,FALSE,98872
+2017,1,ny,Zolpidem Tartrate,TRUE,0
+2017,1,oh,Eszopiclone,FALSE,1778
+2017,1,oh,Eszopiclone,TRUE,0
+2017,1,oh,Zaleplon,FALSE,1303
+2017,1,oh,Zaleplon,TRUE,0
+2017,1,oh,Zolpidem Tartrate,FALSE,43563
+2017,1,oh,Zolpidem Tartrate,TRUE,0
+2017,1,ok,Eszopiclone,FALSE,608
+2017,1,ok,Eszopiclone,TRUE,0
+2017,1,ok,Zaleplon,FALSE,156
+2017,1,ok,Zaleplon,TRUE,0
+2017,1,ok,Zolpidem Tartrate,FALSE,5910
+2017,1,ok,Zolpidem Tartrate,TRUE,0
+2017,1,or,Eszopiclone,FALSE,55
+2017,1,or,Eszopiclone,TRUE,0
+2017,1,or,Zaleplon,FALSE,89
+2017,1,or,Zaleplon,TRUE,0
+2017,1,or,Zolpidem Tartrate,FALSE,6092
+2017,1,or,Zolpidem Tartrate,TRUE,0
+2017,1,pa,Eszopiclone,FALSE,644
+2017,1,pa,Eszopiclone,TRUE,0
+2017,1,pa,Zaleplon,FALSE,1240
+2017,1,pa,Zaleplon,TRUE,0
+2017,1,pa,Zolpidem Tartrate,FALSE,50341
+2017,1,pa,Zolpidem Tartrate,TRUE,0
+2017,1,ri,Eszopiclone,FALSE,125
+2017,1,ri,Eszopiclone,TRUE,0
+2017,1,ri,Zaleplon,FALSE,162
+2017,1,ri,Zaleplon,TRUE,0
+2017,1,ri,Zolpidem Tartrate,FALSE,4729
+2017,1,ri,Zolpidem Tartrate,TRUE,0
+2017,1,sc,Eszopiclone,FALSE,70
+2017,1,sc,Eszopiclone,TRUE,0
+2017,1,sc,Zaleplon,FALSE,77
+2017,1,sc,Zaleplon,TRUE,0
+2017,1,sc,Zolpidem Tartrate,FALSE,4104
+2017,1,sc,Zolpidem Tartrate,TRUE,0
+2017,1,sd,Eszopiclone,FALSE,74
+2017,1,sd,Eszopiclone,TRUE,0
+2017,1,sd,Zaleplon,TRUE,0
+2017,1,sd,Zolpidem Tartrate,FALSE,843
+2017,1,sd,Zolpidem Tartrate,TRUE,0
+2017,1,tn,Eszopiclone,FALSE,22
+2017,1,tn,Eszopiclone,TRUE,0
+2017,1,tn,Zaleplon,FALSE,155
+2017,1,tn,Zaleplon,TRUE,0
+2017,1,tn,Zolpidem Tartrate,FALSE,3791
+2017,1,tn,Zolpidem Tartrate,TRUE,0
+2017,1,tx,Eszopiclone,FALSE,1357
+2017,1,tx,Eszopiclone,TRUE,0
+2017,1,tx,Zaleplon,FALSE,178
+2017,1,tx,Zaleplon,TRUE,0
+2017,1,tx,Zolpidem Tartrate,FALSE,29112
+2017,1,tx,Zolpidem Tartrate,TRUE,0
+2017,1,ut,Eszopiclone,FALSE,122
+2017,1,ut,Eszopiclone,TRUE,0
+2017,1,ut,Zaleplon,FALSE,74
+2017,1,ut,Zaleplon,TRUE,0
+2017,1,ut,Zolpidem Tartrate,FALSE,4835
+2017,1,ut,Zolpidem Tartrate,TRUE,0
+2017,1,va,Eszopiclone,FALSE,270
+2017,1,va,Eszopiclone,TRUE,0
+2017,1,va,Zaleplon,FALSE,115
+2017,1,va,Zaleplon,TRUE,0
+2017,1,va,Zolpidem Tartrate,FALSE,9391
+2017,1,va,Zolpidem Tartrate,TRUE,0
+2017,1,vt,Eszopiclone,FALSE,175
+2017,1,vt,Eszopiclone,TRUE,0
+2017,1,vt,Zaleplon,FALSE,76
+2017,1,vt,Zaleplon,TRUE,0
+2017,1,vt,Zolpidem Tartrate,FALSE,2474
+2017,1,vt,Zolpidem Tartrate,TRUE,0
+2017,1,wa,Eszopiclone,FALSE,426
+2017,1,wa,Eszopiclone,TRUE,0
+2017,1,wa,Zaleplon,FALSE,482
+2017,1,wa,Zaleplon,TRUE,0
+2017,1,wa,Zolpidem Tartrate,FALSE,18051
+2017,1,wa,Zolpidem Tartrate,TRUE,0
+2017,1,wi,Eszopiclone,FALSE,731
+2017,1,wi,Eszopiclone,TRUE,0
+2017,1,wi,Zaleplon,FALSE,760
+2017,1,wi,Zaleplon,TRUE,0
+2017,1,wi,Zolpidem Tartrate,FALSE,20121
+2017,1,wi,Zolpidem Tartrate,TRUE,0
+2017,1,wv,Eszopiclone,FALSE,59
+2017,1,wv,Eszopiclone,TRUE,0
+2017,1,wv,Zaleplon,TRUE,0
+2017,1,wv,Zolpidem Tartrate,FALSE,9553
+2017,1,wv,Zolpidem Tartrate,TRUE,0
+2017,1,wy,Eszopiclone,TRUE,0
+2017,1,wy,Zaleplon,FALSE,17
+2017,1,wy,Zaleplon,TRUE,0
+2017,1,wy,Zolpidem Tartrate,FALSE,491
+2017,1,wy,Zolpidem Tartrate,TRUE,0
+2017,2,ak,Eszopiclone,FALSE,276
+2017,2,ak,Eszopiclone,TRUE,0
+2017,2,ak,Zaleplon,FALSE,62
+2017,2,ak,Zaleplon,TRUE,0
+2017,2,ak,Zolpidem Tartrate,FALSE,2369
+2017,2,ak,Zolpidem Tartrate,TRUE,0
+2017,2,al,Eszopiclone,FALSE,356
+2017,2,al,Eszopiclone,TRUE,0
+2017,2,al,Zaleplon,FALSE,22
+2017,2,al,Zaleplon,TRUE,0
+2017,2,al,Zolpidem Tartrate,FALSE,3681
+2017,2,al,Zolpidem Tartrate,TRUE,0
+2017,2,ar,Eszopiclone,TRUE,0
+2017,2,ar,Zaleplon,FALSE,463
+2017,2,ar,Zaleplon,TRUE,0
+2017,2,ar,Zolpidem Tartrate,FALSE,6868
+2017,2,ar,Zolpidem Tartrate,TRUE,0
+2017,2,az,Eszopiclone,FALSE,1133
+2017,2,az,Eszopiclone,TRUE,0
+2017,2,az,Zaleplon,FALSE,491
+2017,2,az,Zaleplon,TRUE,0
+2017,2,az,Zolpidem Tartrate,FALSE,18248
+2017,2,az,Zolpidem Tartrate,TRUE,0
+2017,2,ca,Eszopiclone,FALSE,2264
+2017,2,ca,Eszopiclone,TRUE,0
+2017,2,ca,Zaleplon,FALSE,881
+2017,2,ca,Zaleplon,TRUE,0
+2017,2,ca,Zolpidem Tartrate,FALSE,88504
+2017,2,ca,Zolpidem Tartrate,TRUE,0
+2017,2,co,Eszopiclone,FALSE,2822
+2017,2,co,Eszopiclone,TRUE,0
+2017,2,co,Zaleplon,FALSE,474
+2017,2,co,Zaleplon,TRUE,0
+2017,2,co,Zolpidem Tartrate,FALSE,15419
+2017,2,co,Zolpidem Tartrate,TRUE,0
+2017,2,ct,Eszopiclone,FALSE,959
+2017,2,ct,Eszopiclone,TRUE,0
+2017,2,ct,Zaleplon,FALSE,139
+2017,2,ct,Zaleplon,TRUE,0
+2017,2,ct,Zolpidem Tartrate,FALSE,15408
+2017,2,ct,Zolpidem Tartrate,TRUE,0
+2017,2,dc,Eszopiclone,TRUE,0
+2017,2,dc,Zaleplon,TRUE,0
+2017,2,dc,Zolpidem Tartrate,FALSE,2093
+2017,2,dc,Zolpidem Tartrate,TRUE,0
+2017,2,de,Eszopiclone,FALSE,111
+2017,2,de,Eszopiclone,TRUE,0
+2017,2,de,Zaleplon,FALSE,27
+2017,2,de,Zolpidem Tartrate,FALSE,4391
+2017,2,de,Zolpidem Tartrate,TRUE,0
+2017,2,fl,Eszopiclone,FALSE,55
+2017,2,fl,Eszopiclone,TRUE,0
+2017,2,fl,Zaleplon,FALSE,12
+2017,2,fl,Zaleplon,TRUE,0
+2017,2,fl,Zolpidem Tartrate,FALSE,29787
+2017,2,fl,Zolpidem Tartrate,TRUE,0
+2017,2,ga,Eszopiclone,FALSE,34
+2017,2,ga,Eszopiclone,TRUE,0
+2017,2,ga,Zaleplon,FALSE,126
+2017,2,ga,Zaleplon,TRUE,0
+2017,2,ga,Zolpidem Tartrate,FALSE,16845
+2017,2,ga,Zolpidem Tartrate,TRUE,0
+2017,2,hi,Eszopiclone,TRUE,0
+2017,2,hi,Zaleplon,TRUE,0
+2017,2,hi,Zolpidem Tartrate,FALSE,3873
+2017,2,hi,Zolpidem Tartrate,TRUE,0
+2017,2,ia,Eszopiclone,FALSE,285
+2017,2,ia,Eszopiclone,TRUE,0
+2017,2,ia,Zaleplon,FALSE,131
+2017,2,ia,Zaleplon,TRUE,0
+2017,2,ia,Zolpidem Tartrate,FALSE,3226
+2017,2,ia,Zolpidem Tartrate,TRUE,0
+2017,2,id,Eszopiclone,FALSE,164
+2017,2,id,Eszopiclone,TRUE,0
+2017,2,id,Zaleplon,FALSE,49
+2017,2,id,Zaleplon,TRUE,0
+2017,2,id,Zolpidem Tartrate,FALSE,3429
+2017,2,id,Zolpidem Tartrate,TRUE,0
+2017,2,il,Eszopiclone,FALSE,193
+2017,2,il,Eszopiclone,TRUE,0
+2017,2,il,Zaleplon,FALSE,190
+2017,2,il,Zaleplon,TRUE,0
+2017,2,il,Zolpidem Tartrate,FALSE,17433
+2017,2,il,Zolpidem Tartrate,TRUE,0
+2017,2,in,Eszopiclone,FALSE,1393
+2017,2,in,Eszopiclone,TRUE,0
+2017,2,in,Zaleplon,FALSE,321
+2017,2,in,Zaleplon,TRUE,0
+2017,2,in,Zolpidem Tartrate,FALSE,12514
+2017,2,in,Zolpidem Tartrate,TRUE,0
+2017,2,ks,Eszopiclone,FALSE,635
+2017,2,ks,Eszopiclone,TRUE,0
+2017,2,ks,Zaleplon,FALSE,185
+2017,2,ks,Zaleplon,TRUE,0
+2017,2,ks,Zolpidem Tartrate,FALSE,9904
+2017,2,ks,Zolpidem Tartrate,TRUE,0
+2017,2,ky,Eszopiclone,FALSE,167
+2017,2,ky,Eszopiclone,TRUE,0
+2017,2,ky,Zaleplon,FALSE,46
+2017,2,ky,Zaleplon,TRUE,0
+2017,2,ky,Zolpidem Tartrate,FALSE,13284
+2017,2,ky,Zolpidem Tartrate,TRUE,0
+2017,2,la,Eszopiclone,FALSE,289
+2017,2,la,Eszopiclone,TRUE,0
+2017,2,la,Zaleplon,FALSE,448
+2017,2,la,Zaleplon,TRUE,0
+2017,2,la,Zolpidem Tartrate,FALSE,25078
+2017,2,la,Zolpidem Tartrate,TRUE,0
+2017,2,ma,Eszopiclone,FALSE,399
+2017,2,ma,Eszopiclone,TRUE,0
+2017,2,ma,Zaleplon,FALSE,382
+2017,2,ma,Zaleplon,TRUE,0
+2017,2,ma,Zolpidem Tartrate,FALSE,20773
+2017,2,ma,Zolpidem Tartrate,TRUE,0
+2017,2,md,Eszopiclone,FALSE,1117
+2017,2,md,Eszopiclone,TRUE,0
+2017,2,md,Zaleplon,FALSE,414
+2017,2,md,Zaleplon,TRUE,0
+2017,2,md,Zolpidem Tartrate,FALSE,18753
+2017,2,md,Zolpidem Tartrate,TRUE,0
+2017,2,me,Eszopiclone,FALSE,24
+2017,2,me,Eszopiclone,TRUE,0
+2017,2,me,Zaleplon,FALSE,53
+2017,2,me,Zaleplon,TRUE,0
+2017,2,me,Zolpidem Tartrate,FALSE,2283
+2017,2,me,Zolpidem Tartrate,TRUE,0
+2017,2,mi,Eszopiclone,FALSE,606
+2017,2,mi,Eszopiclone,TRUE,0
+2017,2,mi,Zaleplon,FALSE,179
+2017,2,mi,Zaleplon,TRUE,0
+2017,2,mi,Zolpidem Tartrate,FALSE,24459
+2017,2,mi,Zolpidem Tartrate,TRUE,0
+2017,2,mn,Eszopiclone,FALSE,1683
+2017,2,mn,Eszopiclone,TRUE,0
+2017,2,mn,Zaleplon,FALSE,876
+2017,2,mn,Zaleplon,TRUE,0
+2017,2,mn,Zolpidem Tartrate,FALSE,16433
+2017,2,mn,Zolpidem Tartrate,TRUE,0
+2017,2,mo,Eszopiclone,FALSE,2470
+2017,2,mo,Eszopiclone,TRUE,0
+2017,2,mo,Zaleplon,FALSE,388
+2017,2,mo,Zaleplon,TRUE,0
+2017,2,mo,Zolpidem Tartrate,FALSE,12563
+2017,2,mo,Zolpidem Tartrate,TRUE,0
+2017,2,ms,Eszopiclone,TRUE,0
+2017,2,ms,Zaleplon,FALSE,68
+2017,2,ms,Zaleplon,TRUE,0
+2017,2,ms,Zolpidem Tartrate,FALSE,2222
+2017,2,ms,Zolpidem Tartrate,TRUE,0
+2017,2,mt,Eszopiclone,FALSE,187
+2017,2,mt,Eszopiclone,TRUE,0
+2017,2,mt,Zaleplon,FALSE,47
+2017,2,mt,Zaleplon,TRUE,0
+2017,2,mt,Zolpidem Tartrate,FALSE,4208
+2017,2,mt,Zolpidem Tartrate,TRUE,0
+2017,2,nc,Eszopiclone,FALSE,581
+2017,2,nc,Eszopiclone,TRUE,0
+2017,2,nc,Zaleplon,FALSE,140
+2017,2,nc,Zaleplon,TRUE,0
+2017,2,nc,Zolpidem Tartrate,FALSE,13845
+2017,2,nc,Zolpidem Tartrate,TRUE,0
+2017,2,nd,Eszopiclone,FALSE,60
+2017,2,nd,Eszopiclone,TRUE,0
+2017,2,nd,Zaleplon,TRUE,0
+2017,2,nd,Zolpidem Tartrate,FALSE,1472
+2017,2,nd,Zolpidem Tartrate,TRUE,0
+2017,2,ne,Eszopiclone,FALSE,72
+2017,2,ne,Eszopiclone,TRUE,0
+2017,2,ne,Zaleplon,FALSE,185
+2017,2,ne,Zaleplon,TRUE,0
+2017,2,ne,Zolpidem Tartrate,FALSE,2857
+2017,2,ne,Zolpidem Tartrate,TRUE,0
+2017,2,nh,Eszopiclone,FALSE,17
+2017,2,nh,Eszopiclone,TRUE,0
+2017,2,nh,Zaleplon,FALSE,38
+2017,2,nh,Zaleplon,TRUE,0
+2017,2,nh,Zolpidem Tartrate,FALSE,1230
+2017,2,nh,Zolpidem Tartrate,TRUE,0
+2017,2,nj,Eszopiclone,FALSE,276
+2017,2,nj,Eszopiclone,TRUE,0
+2017,2,nj,Zaleplon,FALSE,975
+2017,2,nj,Zaleplon,TRUE,0
+2017,2,nj,Zolpidem Tartrate,FALSE,27746
+2017,2,nj,Zolpidem Tartrate,TRUE,0
+2017,2,nm,Eszopiclone,FALSE,249
+2017,2,nm,Eszopiclone,TRUE,0
+2017,2,nm,Zaleplon,FALSE,83
+2017,2,nm,Zaleplon,TRUE,0
+2017,2,nm,Zolpidem Tartrate,FALSE,8109
+2017,2,nm,Zolpidem Tartrate,TRUE,0
+2017,2,nv,Eszopiclone,FALSE,61
+2017,2,nv,Eszopiclone,TRUE,0
+2017,2,nv,Zaleplon,FALSE,121
+2017,2,nv,Zaleplon,TRUE,0
+2017,2,nv,Zolpidem Tartrate,FALSE,10503
+2017,2,nv,Zolpidem Tartrate,TRUE,0
+2017,2,ny,Eszopiclone,FALSE,1667
+2017,2,ny,Eszopiclone,TRUE,0
+2017,2,ny,Zaleplon,FALSE,1288
+2017,2,ny,Zaleplon,TRUE,0
+2017,2,ny,Zolpidem Tartrate,FALSE,101290
+2017,2,ny,Zolpidem Tartrate,TRUE,0
+2017,2,oh,Eszopiclone,FALSE,2172
+2017,2,oh,Eszopiclone,TRUE,0
+2017,2,oh,Zaleplon,FALSE,1576
+2017,2,oh,Zaleplon,TRUE,0
+2017,2,oh,Zolpidem Tartrate,FALSE,50958
+2017,2,oh,Zolpidem Tartrate,TRUE,0
+2017,2,ok,Eszopiclone,FALSE,601
+2017,2,ok,Eszopiclone,TRUE,0
+2017,2,ok,Zaleplon,FALSE,140
+2017,2,ok,Zaleplon,TRUE,0
+2017,2,ok,Zolpidem Tartrate,FALSE,5718
+2017,2,ok,Zolpidem Tartrate,TRUE,0
+2017,2,or,Eszopiclone,FALSE,54
+2017,2,or,Eszopiclone,TRUE,0
+2017,2,or,Zaleplon,FALSE,139
+2017,2,or,Zaleplon,TRUE,0
+2017,2,or,Zolpidem Tartrate,FALSE,8260
+2017,2,or,Zolpidem Tartrate,TRUE,0
+2017,2,pa,Eszopiclone,FALSE,1006
+2017,2,pa,Eszopiclone,TRUE,0
+2017,2,pa,Zaleplon,FALSE,1932
+2017,2,pa,Zaleplon,TRUE,0
+2017,2,pa,Zolpidem Tartrate,FALSE,64188
+2017,2,pa,Zolpidem Tartrate,TRUE,0
+2017,2,ri,Eszopiclone,FALSE,178
+2017,2,ri,Eszopiclone,TRUE,0
+2017,2,ri,Zaleplon,FALSE,164
+2017,2,ri,Zaleplon,TRUE,0
+2017,2,ri,Zolpidem Tartrate,FALSE,4805
+2017,2,ri,Zolpidem Tartrate,TRUE,0
+2017,2,sc,Eszopiclone,FALSE,40
+2017,2,sc,Eszopiclone,TRUE,0
+2017,2,sc,Zaleplon,FALSE,56
+2017,2,sc,Zaleplon,TRUE,0
+2017,2,sc,Zolpidem Tartrate,FALSE,3986
+2017,2,sc,Zolpidem Tartrate,TRUE,0
+2017,2,sd,Eszopiclone,FALSE,51
+2017,2,sd,Eszopiclone,TRUE,0
+2017,2,sd,Zaleplon,TRUE,0
+2017,2,sd,Zolpidem Tartrate,FALSE,774
+2017,2,sd,Zolpidem Tartrate,TRUE,0
+2017,2,tn,Eszopiclone,FALSE,30
+2017,2,tn,Eszopiclone,TRUE,0
+2017,2,tn,Zaleplon,FALSE,127
+2017,2,tn,Zaleplon,TRUE,0
+2017,2,tn,Zolpidem Tartrate,FALSE,3283
+2017,2,tn,Zolpidem Tartrate,TRUE,0
+2017,2,tx,Eszopiclone,FALSE,1302
+2017,2,tx,Eszopiclone,TRUE,0
+2017,2,tx,Zaleplon,FALSE,187
+2017,2,tx,Zaleplon,TRUE,0
+2017,2,tx,Zolpidem Tartrate,FALSE,28049
+2017,2,tx,Zolpidem Tartrate,TRUE,0
+2017,2,ut,Eszopiclone,FALSE,148
+2017,2,ut,Eszopiclone,TRUE,0
+2017,2,ut,Zaleplon,FALSE,63
+2017,2,ut,Zaleplon,TRUE,0
+2017,2,ut,Zolpidem Tartrate,FALSE,4829
+2017,2,ut,Zolpidem Tartrate,TRUE,0
+2017,2,va,Eszopiclone,FALSE,273
+2017,2,va,Eszopiclone,TRUE,0
+2017,2,va,Zaleplon,FALSE,124
+2017,2,va,Zaleplon,TRUE,0
+2017,2,va,Zolpidem Tartrate,FALSE,8678
+2017,2,va,Zolpidem Tartrate,TRUE,0
+2017,2,vt,Eszopiclone,FALSE,161
+2017,2,vt,Eszopiclone,TRUE,0
+2017,2,vt,Zaleplon,FALSE,48
+2017,2,vt,Zaleplon,TRUE,0
+2017,2,vt,Zolpidem Tartrate,FALSE,2429
+2017,2,vt,Zolpidem Tartrate,TRUE,0
+2017,2,wa,Eszopiclone,FALSE,422
+2017,2,wa,Eszopiclone,TRUE,0
+2017,2,wa,Zaleplon,FALSE,533
+2017,2,wa,Zaleplon,TRUE,0
+2017,2,wa,Zolpidem Tartrate,FALSE,16598
+2017,2,wa,Zolpidem Tartrate,TRUE,0
+2017,2,wi,Eszopiclone,FALSE,730
+2017,2,wi,Eszopiclone,TRUE,0
+2017,2,wi,Zaleplon,FALSE,790
+2017,2,wi,Zaleplon,TRUE,0
+2017,2,wi,Zolpidem Tartrate,FALSE,19155
+2017,2,wi,Zolpidem Tartrate,TRUE,0
+2017,2,wv,Eszopiclone,FALSE,154
+2017,2,wv,Eszopiclone,TRUE,0
+2017,2,wv,Zaleplon,TRUE,0
+2017,2,wv,Zolpidem Tartrate,FALSE,10077
+2017,2,wv,Zolpidem Tartrate,TRUE,0
+2017,2,wy,Eszopiclone,TRUE,0
+2017,2,wy,Zaleplon,TRUE,0
+2017,2,wy,Zolpidem Tartrate,FALSE,492
+2017,2,wy,Zolpidem Tartrate,TRUE,0
+2017,3,ak,Eszopiclone,FALSE,292
+2017,3,ak,Eszopiclone,TRUE,0
+2017,3,ak,Zaleplon,FALSE,66
+2017,3,ak,Zaleplon,TRUE,0
+2017,3,ak,Zolpidem Tartrate,FALSE,2461
+2017,3,ak,Zolpidem Tartrate,TRUE,0
+2017,3,al,Eszopiclone,FALSE,379
+2017,3,al,Eszopiclone,TRUE,0
+2017,3,al,Zaleplon,FALSE,24
+2017,3,al,Zaleplon,TRUE,0
+2017,3,al,Zolpidem Tartrate,FALSE,3653
+2017,3,al,Zolpidem Tartrate,TRUE,0
+2017,3,ar,Eszopiclone,TRUE,0
+2017,3,ar,Zaleplon,FALSE,501
+2017,3,ar,Zaleplon,TRUE,0
+2017,3,ar,Zolpidem Tartrate,FALSE,6912
+2017,3,ar,Zolpidem Tartrate,TRUE,0
+2017,3,az,Eszopiclone,FALSE,1066
+2017,3,az,Eszopiclone,TRUE,0
+2017,3,az,Zaleplon,FALSE,482
+2017,3,az,Zaleplon,TRUE,0
+2017,3,az,Zolpidem Tartrate,FALSE,17321
+2017,3,az,Zolpidem Tartrate,TRUE,0
+2017,3,ca,Eszopiclone,FALSE,2163
+2017,3,ca,Eszopiclone,TRUE,0
+2017,3,ca,Zaleplon,FALSE,898
+2017,3,ca,Zaleplon,TRUE,0
+2017,3,ca,Zolpidem Tartrate,FALSE,77135
+2017,3,ca,Zolpidem Tartrate,TRUE,0
+2017,3,co,Eszopiclone,FALSE,2697
+2017,3,co,Eszopiclone,TRUE,0
+2017,3,co,Zaleplon,FALSE,473
+2017,3,co,Zaleplon,TRUE,0
+2017,3,co,Zolpidem Tartrate,FALSE,15079
+2017,3,co,Zolpidem Tartrate,TRUE,0
+2017,3,ct,Eszopiclone,FALSE,851
+2017,3,ct,Eszopiclone,TRUE,0
+2017,3,ct,Zaleplon,FALSE,128
+2017,3,ct,Zaleplon,TRUE,0
+2017,3,ct,Zolpidem Tartrate,FALSE,15008
+2017,3,ct,Zolpidem Tartrate,TRUE,0
+2017,3,dc,Eszopiclone,TRUE,0
+2017,3,dc,Zaleplon,TRUE,0
+2017,3,dc,Zolpidem Tartrate,FALSE,1873
+2017,3,dc,Zolpidem Tartrate,TRUE,0
+2017,3,de,Eszopiclone,FALSE,106
+2017,3,de,Eszopiclone,TRUE,0
+2017,3,de,Zaleplon,FALSE,24
+2017,3,de,Zaleplon,TRUE,0
+2017,3,de,Zolpidem Tartrate,FALSE,3958
+2017,3,de,Zolpidem Tartrate,TRUE,0
+2017,3,fl,Eszopiclone,FALSE,63
+2017,3,fl,Eszopiclone,TRUE,0
+2017,3,fl,Zaleplon,TRUE,0
+2017,3,fl,Zolpidem Tartrate,FALSE,24911
+2017,3,fl,Zolpidem Tartrate,TRUE,0
+2017,3,ga,Eszopiclone,FALSE,33
+2017,3,ga,Eszopiclone,TRUE,0
+2017,3,ga,Zaleplon,FALSE,98
+2017,3,ga,Zaleplon,TRUE,0
+2017,3,ga,Zolpidem Tartrate,FALSE,15452
+2017,3,ga,Zolpidem Tartrate,TRUE,0
+2017,3,hi,Eszopiclone,FALSE,21
+2017,3,hi,Eszopiclone,TRUE,0
+2017,3,hi,Zaleplon,TRUE,0
+2017,3,hi,Zolpidem Tartrate,FALSE,3050
+2017,3,hi,Zolpidem Tartrate,TRUE,0
+2017,3,ia,Eszopiclone,FALSE,380
+2017,3,ia,Eszopiclone,TRUE,0
+2017,3,ia,Zaleplon,FALSE,208
+2017,3,ia,Zaleplon,TRUE,0
+2017,3,ia,Zolpidem Tartrate,FALSE,3593
+2017,3,ia,Zolpidem Tartrate,TRUE,0
+2017,3,id,Eszopiclone,FALSE,150
+2017,3,id,Eszopiclone,TRUE,0
+2017,3,id,Zaleplon,FALSE,32
+2017,3,id,Zaleplon,TRUE,0
+2017,3,id,Zolpidem Tartrate,FALSE,3246
+2017,3,id,Zolpidem Tartrate,TRUE,0
+2017,3,il,Eszopiclone,FALSE,219
+2017,3,il,Eszopiclone,TRUE,0
+2017,3,il,Zaleplon,FALSE,216
+2017,3,il,Zaleplon,TRUE,0
+2017,3,il,Zolpidem Tartrate,FALSE,16694
+2017,3,il,Zolpidem Tartrate,TRUE,0
+2017,3,in,Eszopiclone,FALSE,1371
+2017,3,in,Eszopiclone,TRUE,0
+2017,3,in,Zaleplon,FALSE,324
+2017,3,in,Zaleplon,TRUE,0
+2017,3,in,Zolpidem Tartrate,FALSE,12187
+2017,3,in,Zolpidem Tartrate,TRUE,0
+2017,3,ks,Eszopiclone,FALSE,139
+2017,3,ks,Eszopiclone,TRUE,0
+2017,3,ks,Zaleplon,FALSE,41
+2017,3,ks,Zaleplon,TRUE,0
+2017,3,ks,Zolpidem Tartrate,FALSE,3599
+2017,3,ks,Zolpidem Tartrate,TRUE,0
+2017,3,ky,Eszopiclone,FALSE,202
+2017,3,ky,Eszopiclone,TRUE,0
+2017,3,ky,Zaleplon,FALSE,38
+2017,3,ky,Zaleplon,TRUE,0
+2017,3,ky,Zolpidem Tartrate,FALSE,12961
+2017,3,ky,Zolpidem Tartrate,TRUE,0
+2017,3,la,Eszopiclone,FALSE,272
+2017,3,la,Eszopiclone,TRUE,0
+2017,3,la,Zaleplon,FALSE,465
+2017,3,la,Zaleplon,TRUE,0
+2017,3,la,Zolpidem Tartrate,FALSE,23056
+2017,3,la,Zolpidem Tartrate,TRUE,0
+2017,3,ma,Eszopiclone,FALSE,363
+2017,3,ma,Eszopiclone,TRUE,0
+2017,3,ma,Zaleplon,FALSE,363
+2017,3,ma,Zaleplon,TRUE,0
+2017,3,ma,Zolpidem Tartrate,FALSE,18299
+2017,3,ma,Zolpidem Tartrate,TRUE,0
+2017,3,md,Eszopiclone,FALSE,950
+2017,3,md,Eszopiclone,TRUE,0
+2017,3,md,Zaleplon,FALSE,378
+2017,3,md,Zaleplon,TRUE,0
+2017,3,md,Zolpidem Tartrate,FALSE,16863
+2017,3,md,Zolpidem Tartrate,TRUE,0
+2017,3,me,Eszopiclone,FALSE,80
+2017,3,me,Eszopiclone,TRUE,0
+2017,3,me,Zaleplon,FALSE,58
+2017,3,me,Zaleplon,TRUE,0
+2017,3,me,Zolpidem Tartrate,FALSE,2056
+2017,3,me,Zolpidem Tartrate,TRUE,0
+2017,3,mi,Eszopiclone,FALSE,564
+2017,3,mi,Eszopiclone,TRUE,0
+2017,3,mi,Zaleplon,FALSE,182
+2017,3,mi,Zaleplon,TRUE,0
+2017,3,mi,Zolpidem Tartrate,FALSE,24205
+2017,3,mi,Zolpidem Tartrate,TRUE,0
+2017,3,mn,Eszopiclone,FALSE,1818
+2017,3,mn,Eszopiclone,TRUE,0
+2017,3,mn,Zaleplon,FALSE,810
+2017,3,mn,Zaleplon,TRUE,0
+2017,3,mn,Zolpidem Tartrate,FALSE,15512
+2017,3,mn,Zolpidem Tartrate,TRUE,0
+2017,3,mo,Eszopiclone,FALSE,2590
+2017,3,mo,Eszopiclone,TRUE,0
+2017,3,mo,Zaleplon,FALSE,393
+2017,3,mo,Zaleplon,TRUE,0
+2017,3,mo,Zolpidem Tartrate,FALSE,12928
+2017,3,mo,Zolpidem Tartrate,TRUE,0
+2017,3,ms,Eszopiclone,TRUE,0
+2017,3,ms,Zaleplon,FALSE,64
+2017,3,ms,Zaleplon,TRUE,0
+2017,3,ms,Zolpidem Tartrate,FALSE,2078
+2017,3,ms,Zolpidem Tartrate,TRUE,0
+2017,3,mt,Eszopiclone,FALSE,191
+2017,3,mt,Eszopiclone,TRUE,0
+2017,3,mt,Zaleplon,FALSE,38
+2017,3,mt,Zaleplon,TRUE,0
+2017,3,mt,Zolpidem Tartrate,FALSE,4103
+2017,3,mt,Zolpidem Tartrate,TRUE,0
+2017,3,nc,Eszopiclone,FALSE,430
+2017,3,nc,Eszopiclone,TRUE,0
+2017,3,nc,Zaleplon,FALSE,86
+2017,3,nc,Zaleplon,TRUE,0
+2017,3,nc,Zolpidem Tartrate,FALSE,15253
+2017,3,nc,Zolpidem Tartrate,TRUE,0
+2017,3,nd,Eszopiclone,FALSE,79
+2017,3,nd,Eszopiclone,TRUE,0
+2017,3,nd,Zaleplon,TRUE,0
+2017,3,nd,Zolpidem Tartrate,FALSE,1327
+2017,3,nd,Zolpidem Tartrate,TRUE,0
+2017,3,ne,Eszopiclone,FALSE,56
+2017,3,ne,Eszopiclone,TRUE,0
+2017,3,ne,Zaleplon,FALSE,214
+2017,3,ne,Zaleplon,TRUE,0
+2017,3,ne,Zolpidem Tartrate,FALSE,2925
+2017,3,ne,Zolpidem Tartrate,TRUE,0
+2017,3,nh,Eszopiclone,FALSE,12
+2017,3,nh,Eszopiclone,TRUE,0
+2017,3,nh,Zaleplon,FALSE,34
+2017,3,nh,Zaleplon,TRUE,0
+2017,3,nh,Zolpidem Tartrate,FALSE,1183
+2017,3,nh,Zolpidem Tartrate,TRUE,0
+2017,3,nj,Eszopiclone,FALSE,303
+2017,3,nj,Eszopiclone,TRUE,0
+2017,3,nj,Zaleplon,FALSE,921
+2017,3,nj,Zaleplon,TRUE,0
+2017,3,nj,Zolpidem Tartrate,FALSE,26969
+2017,3,nj,Zolpidem Tartrate,TRUE,0
+2017,3,nm,Eszopiclone,FALSE,268
+2017,3,nm,Eszopiclone,TRUE,0
+2017,3,nm,Zaleplon,FALSE,122
+2017,3,nm,Zaleplon,TRUE,0
+2017,3,nm,Zolpidem Tartrate,FALSE,7727
+2017,3,nm,Zolpidem Tartrate,TRUE,0
+2017,3,nv,Eszopiclone,FALSE,83
+2017,3,nv,Eszopiclone,TRUE,0
+2017,3,nv,Zaleplon,FALSE,146
+2017,3,nv,Zaleplon,TRUE,0
+2017,3,nv,Zolpidem Tartrate,FALSE,9871
+2017,3,nv,Zolpidem Tartrate,TRUE,0
+2017,3,ny,Eszopiclone,FALSE,1646
+2017,3,ny,Eszopiclone,TRUE,0
+2017,3,ny,Zaleplon,FALSE,1205
+2017,3,ny,Zaleplon,TRUE,0
+2017,3,ny,Zolpidem Tartrate,FALSE,95095
+2017,3,ny,Zolpidem Tartrate,TRUE,0
+2017,3,oh,Eszopiclone,FALSE,1559
+2017,3,oh,Eszopiclone,TRUE,0
+2017,3,oh,Zaleplon,FALSE,1140
+2017,3,oh,Zaleplon,TRUE,0
+2017,3,oh,Zolpidem Tartrate,FALSE,36538
+2017,3,oh,Zolpidem Tartrate,TRUE,0
+2017,3,ok,Eszopiclone,FALSE,582
+2017,3,ok,Eszopiclone,TRUE,0
+2017,3,ok,Zaleplon,FALSE,122
+2017,3,ok,Zaleplon,TRUE,0
+2017,3,ok,Zolpidem Tartrate,FALSE,5455
+2017,3,ok,Zolpidem Tartrate,TRUE,0
+2017,3,or,Eszopiclone,FALSE,45
+2017,3,or,Eszopiclone,TRUE,0
+2017,3,or,Zaleplon,FALSE,102
+2017,3,or,Zaleplon,TRUE,0
+2017,3,or,Zolpidem Tartrate,FALSE,5353
+2017,3,or,Zolpidem Tartrate,TRUE,0
+2017,3,pa,Eszopiclone,FALSE,738
+2017,3,pa,Eszopiclone,TRUE,0
+2017,3,pa,Zaleplon,FALSE,1232
+2017,3,pa,Zaleplon,TRUE,0
+2017,3,pa,Zolpidem Tartrate,FALSE,45907
+2017,3,pa,Zolpidem Tartrate,TRUE,0
+2017,3,ri,Eszopiclone,FALSE,257
+2017,3,ri,Eszopiclone,TRUE,0
+2017,3,ri,Zaleplon,FALSE,156
+2017,3,ri,Zaleplon,TRUE,0
+2017,3,ri,Zolpidem Tartrate,FALSE,4741
+2017,3,ri,Zolpidem Tartrate,TRUE,0
+2017,3,sc,Eszopiclone,FALSE,63
+2017,3,sc,Eszopiclone,TRUE,0
+2017,3,sc,Zaleplon,FALSE,87
+2017,3,sc,Zaleplon,TRUE,0
+2017,3,sc,Zolpidem Tartrate,FALSE,4537
+2017,3,sc,Zolpidem Tartrate,TRUE,0
+2017,3,sd,Eszopiclone,FALSE,47
+2017,3,sd,Eszopiclone,TRUE,0
+2017,3,sd,Zaleplon,FALSE,17
+2017,3,sd,Zaleplon,TRUE,0
+2017,3,sd,Zolpidem Tartrate,FALSE,701
+2017,3,sd,Zolpidem Tartrate,TRUE,0
+2017,3,tn,Eszopiclone,FALSE,21
+2017,3,tn,Eszopiclone,TRUE,0
+2017,3,tn,Zaleplon,FALSE,96
+2017,3,tn,Zaleplon,TRUE,0
+2017,3,tn,Zolpidem Tartrate,FALSE,3179
+2017,3,tn,Zolpidem Tartrate,TRUE,0
+2017,3,tx,Eszopiclone,FALSE,1310
+2017,3,tx,Eszopiclone,TRUE,0
+2017,3,tx,Zaleplon,FALSE,188
+2017,3,tx,Zaleplon,TRUE,0
+2017,3,tx,Zolpidem Tartrate,FALSE,27586
+2017,3,tx,Zolpidem Tartrate,TRUE,0
+2017,3,ut,Eszopiclone,FALSE,185
+2017,3,ut,Eszopiclone,TRUE,0
+2017,3,ut,Zaleplon,FALSE,69
+2017,3,ut,Zaleplon,TRUE,0
+2017,3,ut,Zolpidem Tartrate,FALSE,4672
+2017,3,ut,Zolpidem Tartrate,TRUE,0
+2017,3,va,Eszopiclone,FALSE,265
+2017,3,va,Eszopiclone,TRUE,0
+2017,3,va,Zaleplon,FALSE,113
+2017,3,va,Zaleplon,TRUE,0
+2017,3,va,Zolpidem Tartrate,FALSE,8671
+2017,3,va,Zolpidem Tartrate,TRUE,0
+2017,3,vt,Eszopiclone,FALSE,175
+2017,3,vt,Eszopiclone,TRUE,0
+2017,3,vt,Zaleplon,FALSE,54
+2017,3,vt,Zaleplon,TRUE,0
+2017,3,vt,Zolpidem Tartrate,FALSE,2265
+2017,3,vt,Zolpidem Tartrate,TRUE,0
+2017,3,wa,Eszopiclone,FALSE,580
+2017,3,wa,Eszopiclone,TRUE,0
+2017,3,wa,Zaleplon,FALSE,751
+2017,3,wa,Zaleplon,TRUE,0
+2017,3,wa,Zolpidem Tartrate,FALSE,21487
+2017,3,wa,Zolpidem Tartrate,TRUE,0
+2017,3,wi,Eszopiclone,FALSE,591
+2017,3,wi,Eszopiclone,TRUE,0
+2017,3,wi,Zaleplon,FALSE,763
+2017,3,wi,Zaleplon,TRUE,0
+2017,3,wi,Zolpidem Tartrate,FALSE,18208
+2017,3,wi,Zolpidem Tartrate,TRUE,0
+2017,3,wv,Eszopiclone,FALSE,27
+2017,3,wv,Eszopiclone,TRUE,0
+2017,3,wv,Zaleplon,TRUE,0
+2017,3,wv,Zolpidem Tartrate,FALSE,4123
+2017,3,wv,Zolpidem Tartrate,TRUE,0
+2017,3,wy,Eszopiclone,TRUE,0
+2017,3,wy,Zaleplon,TRUE,0
+2017,3,wy,Zolpidem Tartrate,FALSE,417
+2017,3,wy,Zolpidem Tartrate,TRUE,0
+2017,4,ak,Eszopiclone,FALSE,255
+2017,4,ak,Eszopiclone,TRUE,0
+2017,4,ak,Zaleplon,FALSE,64
+2017,4,ak,Zaleplon,TRUE,0
+2017,4,ak,Zolpidem Tartrate,FALSE,2147
+2017,4,ak,Zolpidem Tartrate,TRUE,0
+2017,4,al,Eszopiclone,FALSE,393
+2017,4,al,Eszopiclone,TRUE,0
+2017,4,al,Zaleplon,FALSE,28
+2017,4,al,Zaleplon,TRUE,0
+2017,4,al,Zolpidem Tartrate,FALSE,3559
+2017,4,al,Zolpidem Tartrate,TRUE,0
+2017,4,ar,Eszopiclone,TRUE,0
+2017,4,ar,Zaleplon,FALSE,455
+2017,4,ar,Zaleplon,TRUE,0
+2017,4,ar,Zolpidem Tartrate,FALSE,6451
+2017,4,ar,Zolpidem Tartrate,TRUE,0
+2017,4,az,Eszopiclone,FALSE,1240
+2017,4,az,Eszopiclone,TRUE,0
+2017,4,az,Zaleplon,FALSE,445
+2017,4,az,Zaleplon,TRUE,0
+2017,4,az,Zolpidem Tartrate,FALSE,15915
+2017,4,az,Zolpidem Tartrate,TRUE,0
+2017,4,ca,Eszopiclone,FALSE,2344
+2017,4,ca,Eszopiclone,TRUE,0
+2017,4,ca,Zaleplon,FALSE,880
+2017,4,ca,Zaleplon,TRUE,0
+2017,4,ca,Zolpidem Tartrate,FALSE,81051
+2017,4,ca,Zolpidem Tartrate,TRUE,0
+2017,4,co,Eszopiclone,FALSE,2622
+2017,4,co,Eszopiclone,TRUE,0
+2017,4,co,Zaleplon,FALSE,434
+2017,4,co,Zaleplon,TRUE,0
+2017,4,co,Zolpidem Tartrate,FALSE,14117
+2017,4,co,Zolpidem Tartrate,TRUE,0
+2017,4,ct,Eszopiclone,FALSE,874
+2017,4,ct,Eszopiclone,TRUE,0
+2017,4,ct,Zaleplon,FALSE,124
+2017,4,ct,Zaleplon,TRUE,0
+2017,4,ct,Zolpidem Tartrate,FALSE,14669
+2017,4,ct,Zolpidem Tartrate,TRUE,0
+2017,4,dc,Eszopiclone,TRUE,0
+2017,4,dc,Zaleplon,TRUE,0
+2017,4,dc,Zolpidem Tartrate,FALSE,1921
+2017,4,dc,Zolpidem Tartrate,TRUE,0
+2017,4,de,Eszopiclone,FALSE,108
+2017,4,de,Eszopiclone,TRUE,0
+2017,4,de,Zaleplon,TRUE,0
+2017,4,de,Zolpidem Tartrate,FALSE,3707
+2017,4,de,Zolpidem Tartrate,TRUE,0
+2017,4,fl,Eszopiclone,FALSE,28
+2017,4,fl,Eszopiclone,TRUE,0
+2017,4,fl,Zaleplon,FALSE,14
+2017,4,fl,Zaleplon,TRUE,0
+2017,4,fl,Zolpidem Tartrate,FALSE,24089
+2017,4,fl,Zolpidem Tartrate,TRUE,0
+2017,4,ga,Eszopiclone,TRUE,0
+2017,4,ga,Zaleplon,FALSE,147
+2017,4,ga,Zaleplon,TRUE,0
+2017,4,ga,Zolpidem Tartrate,FALSE,14788
+2017,4,ga,Zolpidem Tartrate,TRUE,0
+2017,4,hi,Eszopiclone,FALSE,13
+2017,4,hi,Eszopiclone,TRUE,0
+2017,4,hi,Zaleplon,TRUE,0
+2017,4,hi,Zolpidem Tartrate,FALSE,2707
+2017,4,hi,Zolpidem Tartrate,TRUE,0
+2017,4,ia,Eszopiclone,FALSE,458
+2017,4,ia,Eszopiclone,TRUE,0
+2017,4,ia,Zaleplon,FALSE,283
+2017,4,ia,Zaleplon,TRUE,0
+2017,4,ia,Zolpidem Tartrate,FALSE,4703
+2017,4,ia,Zolpidem Tartrate,TRUE,0
+2017,4,id,Eszopiclone,FALSE,188
+2017,4,id,Eszopiclone,TRUE,0
+2017,4,id,Zaleplon,FALSE,34
+2017,4,id,Zaleplon,TRUE,0
+2017,4,id,Zolpidem Tartrate,FALSE,3228
+2017,4,id,Zolpidem Tartrate,TRUE,0
+2017,4,il,Eszopiclone,FALSE,257
+2017,4,il,Eszopiclone,TRUE,0
+2017,4,il,Zaleplon,FALSE,218
+2017,4,il,Zaleplon,TRUE,0
+2017,4,il,Zolpidem Tartrate,FALSE,16013
+2017,4,il,Zolpidem Tartrate,TRUE,0
+2017,4,in,Eszopiclone,FALSE,1518
+2017,4,in,Eszopiclone,TRUE,0
+2017,4,in,Zaleplon,FALSE,282
+2017,4,in,Zaleplon,TRUE,0
+2017,4,in,Zolpidem Tartrate,FALSE,12007
+2017,4,in,Zolpidem Tartrate,TRUE,0
+2017,4,ks,Eszopiclone,FALSE,175
+2017,4,ks,Eszopiclone,TRUE,0
+2017,4,ks,Zaleplon,FALSE,32
+2017,4,ks,Zaleplon,TRUE,0
+2017,4,ks,Zolpidem Tartrate,FALSE,3562
+2017,4,ks,Zolpidem Tartrate,TRUE,0
+2017,4,ky,Eszopiclone,FALSE,225
+2017,4,ky,Eszopiclone,TRUE,0
+2017,4,ky,Zaleplon,FALSE,72
+2017,4,ky,Zaleplon,TRUE,0
+2017,4,ky,Zolpidem Tartrate,FALSE,12636
+2017,4,ky,Zolpidem Tartrate,TRUE,0
+2017,4,la,Eszopiclone,FALSE,304
+2017,4,la,Eszopiclone,TRUE,0
+2017,4,la,Zaleplon,FALSE,459
+2017,4,la,Zaleplon,TRUE,0
+2017,4,la,Zolpidem Tartrate,FALSE,23002
+2017,4,la,Zolpidem Tartrate,TRUE,0
+2017,4,ma,Eszopiclone,FALSE,327
+2017,4,ma,Eszopiclone,TRUE,0
+2017,4,ma,Zaleplon,FALSE,325
+2017,4,ma,Zaleplon,TRUE,0
+2017,4,ma,Zolpidem Tartrate,FALSE,17848
+2017,4,ma,Zolpidem Tartrate,TRUE,0
+2017,4,md,Eszopiclone,FALSE,1061
+2017,4,md,Eszopiclone,TRUE,0
+2017,4,md,Zaleplon,FALSE,389
+2017,4,md,Zaleplon,TRUE,0
+2017,4,md,Zolpidem Tartrate,FALSE,17986
+2017,4,md,Zolpidem Tartrate,TRUE,0
+2017,4,me,Eszopiclone,FALSE,44
+2017,4,me,Eszopiclone,TRUE,0
+2017,4,me,Zaleplon,FALSE,67
+2017,4,me,Zaleplon,TRUE,0
+2017,4,me,Zolpidem Tartrate,FALSE,2043
+2017,4,me,Zolpidem Tartrate,TRUE,0
+2017,4,mi,Eszopiclone,FALSE,556
+2017,4,mi,Eszopiclone,TRUE,0
+2017,4,mi,Zaleplon,FALSE,180
+2017,4,mi,Zaleplon,TRUE,0
+2017,4,mi,Zolpidem Tartrate,FALSE,21964
+2017,4,mi,Zolpidem Tartrate,TRUE,0
+2017,4,mn,Eszopiclone,FALSE,1885
+2017,4,mn,Eszopiclone,TRUE,0
+2017,4,mn,Zaleplon,FALSE,836
+2017,4,mn,Zaleplon,TRUE,0
+2017,4,mn,Zolpidem Tartrate,FALSE,15535
+2017,4,mn,Zolpidem Tartrate,TRUE,0
+2017,4,mo,Eszopiclone,FALSE,2476
+2017,4,mo,Eszopiclone,TRUE,0
+2017,4,mo,Zaleplon,FALSE,381
+2017,4,mo,Zaleplon,TRUE,0
+2017,4,mo,Zolpidem Tartrate,FALSE,12265
+2017,4,mo,Zolpidem Tartrate,TRUE,0
+2017,4,ms,Eszopiclone,TRUE,0
+2017,4,ms,Zaleplon,FALSE,39
+2017,4,ms,Zaleplon,TRUE,0
+2017,4,ms,Zolpidem Tartrate,FALSE,1987
+2017,4,ms,Zolpidem Tartrate,TRUE,0
+2017,4,mt,Eszopiclone,FALSE,206
+2017,4,mt,Eszopiclone,TRUE,0
+2017,4,mt,Zaleplon,FALSE,34
+2017,4,mt,Zaleplon,TRUE,0
+2017,4,mt,Zolpidem Tartrate,FALSE,4365
+2017,4,mt,Zolpidem Tartrate,TRUE,0
+2017,4,nc,Eszopiclone,FALSE,390
+2017,4,nc,Eszopiclone,TRUE,0
+2017,4,nc,Zaleplon,FALSE,39
+2017,4,nc,Zaleplon,TRUE,0
+2017,4,nc,Zolpidem Tartrate,FALSE,12482
+2017,4,nc,Zolpidem Tartrate,TRUE,0
+2017,4,nd,Eszopiclone,FALSE,66
+2017,4,nd,Eszopiclone,TRUE,0
+2017,4,nd,Zaleplon,FALSE,12
+2017,4,nd,Zaleplon,TRUE,0
+2017,4,nd,Zolpidem Tartrate,FALSE,1361
+2017,4,nd,Zolpidem Tartrate,TRUE,0
+2017,4,ne,Eszopiclone,FALSE,48
+2017,4,ne,Eszopiclone,TRUE,0
+2017,4,ne,Zaleplon,FALSE,213
+2017,4,ne,Zaleplon,TRUE,0
+2017,4,ne,Zolpidem Tartrate,FALSE,2878
+2017,4,ne,Zolpidem Tartrate,TRUE,0
+2017,4,nh,Eszopiclone,FALSE,17
+2017,4,nh,Eszopiclone,TRUE,0
+2017,4,nh,Zaleplon,FALSE,62
+2017,4,nh,Zaleplon,TRUE,0
+2017,4,nh,Zolpidem Tartrate,FALSE,1181
+2017,4,nh,Zolpidem Tartrate,TRUE,0
+2017,4,nj,Eszopiclone,FALSE,263
+2017,4,nj,Eszopiclone,TRUE,0
+2017,4,nj,Zaleplon,FALSE,890
+2017,4,nj,Zaleplon,TRUE,0
+2017,4,nj,Zolpidem Tartrate,FALSE,26008
+2017,4,nj,Zolpidem Tartrate,TRUE,0
+2017,4,nm,Eszopiclone,FALSE,277
+2017,4,nm,Eszopiclone,TRUE,0
+2017,4,nm,Zaleplon,FALSE,112
+2017,4,nm,Zaleplon,TRUE,0
+2017,4,nm,Zolpidem Tartrate,FALSE,6814
+2017,4,nm,Zolpidem Tartrate,TRUE,0
+2017,4,nv,Eszopiclone,FALSE,58
+2017,4,nv,Eszopiclone,TRUE,0
+2017,4,nv,Zaleplon,FALSE,160
+2017,4,nv,Zaleplon,TRUE,0
+2017,4,nv,Zolpidem Tartrate,FALSE,9291
+2017,4,nv,Zolpidem Tartrate,TRUE,0
+2017,4,ny,Eszopiclone,FALSE,1529
+2017,4,ny,Eszopiclone,TRUE,0
+2017,4,ny,Zaleplon,FALSE,1160
+2017,4,ny,Zaleplon,TRUE,0
+2017,4,ny,Zolpidem Tartrate,FALSE,90049
+2017,4,ny,Zolpidem Tartrate,TRUE,0
+2017,4,oh,Eszopiclone,FALSE,1498
+2017,4,oh,Eszopiclone,TRUE,0
+2017,4,oh,Zaleplon,FALSE,1152
+2017,4,oh,Zaleplon,TRUE,0
+2017,4,oh,Zolpidem Tartrate,FALSE,34899
+2017,4,oh,Zolpidem Tartrate,TRUE,0
+2017,4,ok,Eszopiclone,FALSE,559
+2017,4,ok,Eszopiclone,TRUE,0
+2017,4,ok,Zaleplon,FALSE,123
+2017,4,ok,Zaleplon,TRUE,0
+2017,4,ok,Zolpidem Tartrate,FALSE,5433
+2017,4,ok,Zolpidem Tartrate,TRUE,0
+2017,4,or,Eszopiclone,FALSE,60
+2017,4,or,Eszopiclone,TRUE,0
+2017,4,or,Zaleplon,FALSE,100
+2017,4,or,Zaleplon,TRUE,0
+2017,4,or,Zolpidem Tartrate,FALSE,5182
+2017,4,or,Zolpidem Tartrate,TRUE,0
+2017,4,pa,Eszopiclone,FALSE,788
+2017,4,pa,Eszopiclone,TRUE,0
+2017,4,pa,Zaleplon,FALSE,1160
+2017,4,pa,Zaleplon,TRUE,0
+2017,4,pa,Zolpidem Tartrate,FALSE,44500
+2017,4,pa,Zolpidem Tartrate,TRUE,0
+2017,4,ri,Eszopiclone,FALSE,214
+2017,4,ri,Eszopiclone,TRUE,0
+2017,4,ri,Zaleplon,FALSE,130
+2017,4,ri,Zaleplon,TRUE,0
+2017,4,ri,Zolpidem Tartrate,FALSE,4431
+2017,4,ri,Zolpidem Tartrate,TRUE,0
+2017,4,sc,Eszopiclone,FALSE,116
+2017,4,sc,Eszopiclone,TRUE,0
+2017,4,sc,Zaleplon,FALSE,87
+2017,4,sc,Zaleplon,TRUE,0
+2017,4,sc,Zolpidem Tartrate,FALSE,4673
+2017,4,sc,Zolpidem Tartrate,TRUE,0
+2017,4,sd,Eszopiclone,FALSE,60
+2017,4,sd,Eszopiclone,TRUE,0
+2017,4,sd,Zaleplon,FALSE,47
+2017,4,sd,Zaleplon,TRUE,0
+2017,4,sd,Zolpidem Tartrate,FALSE,725
+2017,4,sd,Zolpidem Tartrate,TRUE,0
+2017,4,tn,Eszopiclone,FALSE,81
+2017,4,tn,Eszopiclone,TRUE,0
+2017,4,tn,Zaleplon,FALSE,93
+2017,4,tn,Zaleplon,TRUE,0
+2017,4,tn,Zolpidem Tartrate,FALSE,2973
+2017,4,tn,Zolpidem Tartrate,TRUE,0
+2017,4,tx,Eszopiclone,FALSE,1361
+2017,4,tx,Eszopiclone,TRUE,0
+2017,4,tx,Zaleplon,FALSE,203
+2017,4,tx,Zaleplon,TRUE,0
+2017,4,tx,Zolpidem Tartrate,FALSE,26615
+2017,4,tx,Zolpidem Tartrate,TRUE,0
+2017,4,ut,Eszopiclone,FALSE,143
+2017,4,ut,Eszopiclone,TRUE,0
+2017,4,ut,Zaleplon,FALSE,56
+2017,4,ut,Zaleplon,TRUE,0
+2017,4,ut,Zolpidem Tartrate,FALSE,4339
+2017,4,ut,Zolpidem Tartrate,TRUE,0
+2017,4,va,Eszopiclone,FALSE,287
+2017,4,va,Eszopiclone,TRUE,0
+2017,4,va,Zaleplon,FALSE,99
+2017,4,va,Zaleplon,TRUE,0
+2017,4,va,Zolpidem Tartrate,FALSE,8308
+2017,4,va,Zolpidem Tartrate,TRUE,0
+2017,4,vt,Eszopiclone,FALSE,172
+2017,4,vt,Eszopiclone,TRUE,0
+2017,4,vt,Zaleplon,FALSE,53
+2017,4,vt,Zaleplon,TRUE,0
+2017,4,vt,Zolpidem Tartrate,FALSE,2236
+2017,4,vt,Zolpidem Tartrate,TRUE,0
+2017,4,wa,Eszopiclone,FALSE,381
+2017,4,wa,Eszopiclone,TRUE,0
+2017,4,wa,Zaleplon,FALSE,595
+2017,4,wa,Zaleplon,TRUE,0
+2017,4,wa,Zolpidem Tartrate,FALSE,15583
+2017,4,wa,Zolpidem Tartrate,TRUE,0
+2017,4,wi,Eszopiclone,FALSE,645
+2017,4,wi,Eszopiclone,TRUE,0
+2017,4,wi,Zaleplon,FALSE,787
+2017,4,wi,Zaleplon,TRUE,0
+2017,4,wi,Zolpidem Tartrate,FALSE,17757
+2017,4,wi,Zolpidem Tartrate,TRUE,0
+2017,4,wv,Eszopiclone,FALSE,53
+2017,4,wv,Eszopiclone,TRUE,0
+2017,4,wv,Zaleplon,TRUE,0
+2017,4,wv,Zolpidem Tartrate,FALSE,5567
+2017,4,wv,Zolpidem Tartrate,TRUE,0
+2017,4,wy,Eszopiclone,TRUE,0
+2017,4,wy,Zaleplon,TRUE,0
+2017,4,wy,Zolpidem Tartrate,FALSE,413
+2017,4,wy,Zolpidem Tartrate,TRUE,0
+2018,1,ak,Eszopiclone,FALSE,270
+2018,1,ak,Eszopiclone,TRUE,0
+2018,1,ak,Zaleplon,FALSE,57
+2018,1,ak,Zaleplon,TRUE,0
+2018,1,ak,Zolpidem Tartrate,FALSE,2187
+2018,1,ak,Zolpidem Tartrate,TRUE,0
+2018,1,al,Eszopiclone,FALSE,410
+2018,1,al,Eszopiclone,TRUE,0
+2018,1,al,Zaleplon,FALSE,19
+2018,1,al,Zaleplon,TRUE,0
+2018,1,al,Zolpidem Tartrate,FALSE,3431
+2018,1,al,Zolpidem Tartrate,TRUE,0
+2018,1,ar,Eszopiclone,TRUE,0
+2018,1,ar,Zaleplon,FALSE,434
+2018,1,ar,Zaleplon,TRUE,0
+2018,1,ar,Zolpidem Tartrate,FALSE,6327
+2018,1,ar,Zolpidem Tartrate,TRUE,0
+2018,1,az,Eszopiclone,FALSE,1340
+2018,1,az,Eszopiclone,TRUE,0
+2018,1,az,Zaleplon,FALSE,435
+2018,1,az,Zaleplon,TRUE,0
+2018,1,az,Zolpidem Tartrate,FALSE,15239
+2018,1,az,Zolpidem Tartrate,TRUE,0
+2018,1,ca,Eszopiclone,FALSE,2372
+2018,1,ca,Eszopiclone,TRUE,0
+2018,1,ca,Zaleplon,FALSE,865
+2018,1,ca,Zaleplon,TRUE,0
+2018,1,ca,Zolpidem Tartrate,FALSE,77634
+2018,1,ca,Zolpidem Tartrate,TRUE,0
+2018,1,co,Eszopiclone,FALSE,2630
+2018,1,co,Eszopiclone,TRUE,0
+2018,1,co,Zaleplon,FALSE,479
+2018,1,co,Zaleplon,TRUE,0
+2018,1,co,Zolpidem Tartrate,FALSE,13165
+2018,1,co,Zolpidem Tartrate,TRUE,0
+2018,1,ct,Eszopiclone,FALSE,938
+2018,1,ct,Eszopiclone,TRUE,0
+2018,1,ct,Zaleplon,FALSE,133
+2018,1,ct,Zaleplon,TRUE,0
+2018,1,ct,Zolpidem Tartrate,FALSE,14275
+2018,1,ct,Zolpidem Tartrate,TRUE,0
+2018,1,dc,Eszopiclone,TRUE,0
+2018,1,dc,Zaleplon,TRUE,0
+2018,1,dc,Zolpidem Tartrate,FALSE,1768
+2018,1,dc,Zolpidem Tartrate,TRUE,0
+2018,1,de,Eszopiclone,FALSE,131
+2018,1,de,Eszopiclone,TRUE,0
+2018,1,de,Zaleplon,FALSE,31
+2018,1,de,Zaleplon,TRUE,0
+2018,1,de,Zolpidem Tartrate,FALSE,3828
+2018,1,de,Zolpidem Tartrate,TRUE,0
+2018,1,fl,Eszopiclone,FALSE,62
+2018,1,fl,Eszopiclone,TRUE,0
+2018,1,fl,Zaleplon,TRUE,0
+2018,1,fl,Zolpidem Tartrate,FALSE,23712
+2018,1,fl,Zolpidem Tartrate,TRUE,0
+2018,1,ga,Eszopiclone,TRUE,0
+2018,1,ga,Zaleplon,FALSE,106
+2018,1,ga,Zaleplon,TRUE,0
+2018,1,ga,Zolpidem Tartrate,FALSE,13553
+2018,1,ga,Zolpidem Tartrate,TRUE,0
+2018,1,hi,Eszopiclone,FALSE,14
+2018,1,hi,Eszopiclone,TRUE,0
+2018,1,hi,Zolpidem Tartrate,FALSE,3258
+2018,1,hi,Zolpidem Tartrate,TRUE,0
+2018,1,ia,Eszopiclone,FALSE,428
+2018,1,ia,Eszopiclone,TRUE,0
+2018,1,ia,Zaleplon,FALSE,275
+2018,1,ia,Zaleplon,TRUE,0
+2018,1,ia,Zolpidem Tartrate,FALSE,4040
+2018,1,ia,Zolpidem Tartrate,TRUE,0
+2018,1,id,Eszopiclone,FALSE,157
+2018,1,id,Eszopiclone,TRUE,0
+2018,1,id,Zaleplon,FALSE,41
+2018,1,id,Zaleplon,TRUE,0
+2018,1,id,Zolpidem Tartrate,FALSE,3175
+2018,1,id,Zolpidem Tartrate,TRUE,0
+2018,1,il,Eszopiclone,FALSE,254
+2018,1,il,Eszopiclone,TRUE,0
+2018,1,il,Zaleplon,FALSE,219
+2018,1,il,Zaleplon,TRUE,0
+2018,1,il,Zolpidem Tartrate,FALSE,15124
+2018,1,il,Zolpidem Tartrate,TRUE,0
+2018,1,in,Eszopiclone,FALSE,1501
+2018,1,in,Eszopiclone,TRUE,0
+2018,1,in,Zaleplon,FALSE,296
+2018,1,in,Zaleplon,TRUE,0
+2018,1,in,Zolpidem Tartrate,FALSE,11826
+2018,1,in,Zolpidem Tartrate,TRUE,0
+2018,1,ks,Eszopiclone,FALSE,201
+2018,1,ks,Eszopiclone,TRUE,0
+2018,1,ks,Zaleplon,FALSE,29
+2018,1,ks,Zaleplon,TRUE,0
+2018,1,ks,Zolpidem Tartrate,FALSE,3740
+2018,1,ks,Zolpidem Tartrate,TRUE,0
+2018,1,ky,Eszopiclone,FALSE,248
+2018,1,ky,Eszopiclone,TRUE,0
+2018,1,ky,Zaleplon,FALSE,79
+2018,1,ky,Zaleplon,TRUE,0
+2018,1,ky,Zolpidem Tartrate,FALSE,12349
+2018,1,ky,Zolpidem Tartrate,TRUE,0
+2018,1,la,Eszopiclone,FALSE,382
+2018,1,la,Eszopiclone,TRUE,0
+2018,1,la,Zaleplon,FALSE,437
+2018,1,la,Zaleplon,TRUE,0
+2018,1,la,Zolpidem Tartrate,FALSE,22892
+2018,1,la,Zolpidem Tartrate,TRUE,0
+2018,1,ma,Eszopiclone,FALSE,364
+2018,1,ma,Eszopiclone,TRUE,0
+2018,1,ma,Zaleplon,FALSE,304
+2018,1,ma,Zaleplon,TRUE,0
+2018,1,ma,Zolpidem Tartrate,FALSE,18186
+2018,1,ma,Zolpidem Tartrate,TRUE,0
+2018,1,md,Eszopiclone,FALSE,1102
+2018,1,md,Eszopiclone,TRUE,0
+2018,1,md,Zaleplon,FALSE,405
+2018,1,md,Zaleplon,TRUE,0
+2018,1,md,Zolpidem Tartrate,FALSE,17618
+2018,1,md,Zolpidem Tartrate,TRUE,0
+2018,1,me,Eszopiclone,FALSE,49
+2018,1,me,Eszopiclone,TRUE,0
+2018,1,me,Zaleplon,FALSE,57
+2018,1,me,Zaleplon,TRUE,0
+2018,1,me,Zolpidem Tartrate,FALSE,1861
+2018,1,me,Zolpidem Tartrate,TRUE,0
+2018,1,mi,Eszopiclone,FALSE,586
+2018,1,mi,Eszopiclone,TRUE,0
+2018,1,mi,Zaleplon,FALSE,156
+2018,1,mi,Zaleplon,TRUE,0
+2018,1,mi,Zolpidem Tartrate,FALSE,21463
+2018,1,mi,Zolpidem Tartrate,TRUE,0
+2018,1,mn,Eszopiclone,FALSE,1869
+2018,1,mn,Eszopiclone,TRUE,0
+2018,1,mn,Zaleplon,FALSE,864
+2018,1,mn,Zaleplon,TRUE,0
+2018,1,mn,Zolpidem Tartrate,FALSE,14296
+2018,1,mn,Zolpidem Tartrate,TRUE,0
+2018,1,mo,Eszopiclone,FALSE,2413
+2018,1,mo,Eszopiclone,TRUE,0
+2018,1,mo,Zaleplon,FALSE,374
+2018,1,mo,Zaleplon,TRUE,0
+2018,1,mo,Zolpidem Tartrate,FALSE,11790
+2018,1,mo,Zolpidem Tartrate,TRUE,0
+2018,1,ms,Eszopiclone,TRUE,0
+2018,1,ms,Zaleplon,FALSE,46
+2018,1,ms,Zaleplon,TRUE,0
+2018,1,ms,Zolpidem Tartrate,FALSE,2038
+2018,1,ms,Zolpidem Tartrate,TRUE,0
+2018,1,mt,Eszopiclone,FALSE,184
+2018,1,mt,Eszopiclone,TRUE,0
+2018,1,mt,Zaleplon,FALSE,17
+2018,1,mt,Zaleplon,TRUE,0
+2018,1,mt,Zolpidem Tartrate,FALSE,4091
+2018,1,mt,Zolpidem Tartrate,TRUE,0
+2018,1,nc,Eszopiclone,FALSE,494
+2018,1,nc,Eszopiclone,TRUE,0
+2018,1,nc,Zaleplon,FALSE,46
+2018,1,nc,Zaleplon,TRUE,0
+2018,1,nc,Zolpidem Tartrate,FALSE,13654
+2018,1,nc,Zolpidem Tartrate,TRUE,0
+2018,1,nd,Eszopiclone,FALSE,68
+2018,1,nd,Eszopiclone,TRUE,0
+2018,1,nd,Zaleplon,TRUE,0
+2018,1,nd,Zolpidem Tartrate,FALSE,1236
+2018,1,nd,Zolpidem Tartrate,TRUE,0
+2018,1,ne,Eszopiclone,FALSE,109
+2018,1,ne,Eszopiclone,TRUE,0
+2018,1,ne,Zaleplon,FALSE,275
+2018,1,ne,Zaleplon,TRUE,0
+2018,1,ne,Zolpidem Tartrate,FALSE,3240
+2018,1,ne,Zolpidem Tartrate,TRUE,0
+2018,1,nh,Eszopiclone,FALSE,20
+2018,1,nh,Eszopiclone,TRUE,0
+2018,1,nh,Zaleplon,FALSE,74
+2018,1,nh,Zaleplon,TRUE,0
+2018,1,nh,Zolpidem Tartrate,FALSE,1075
+2018,1,nh,Zolpidem Tartrate,TRUE,0
+2018,1,nj,Eszopiclone,FALSE,228
+2018,1,nj,Eszopiclone,TRUE,0
+2018,1,nj,Zaleplon,FALSE,876
+2018,1,nj,Zaleplon,TRUE,0
+2018,1,nj,Zolpidem Tartrate,FALSE,25311
+2018,1,nj,Zolpidem Tartrate,TRUE,0
+2018,1,nm,Eszopiclone,FALSE,326
+2018,1,nm,Eszopiclone,TRUE,0
+2018,1,nm,Zaleplon,FALSE,139
+2018,1,nm,Zaleplon,TRUE,0
+2018,1,nm,Zolpidem Tartrate,FALSE,7443
+2018,1,nm,Zolpidem Tartrate,TRUE,0
+2018,1,nv,Eszopiclone,FALSE,84
+2018,1,nv,Eszopiclone,TRUE,0
+2018,1,nv,Zaleplon,FALSE,195
+2018,1,nv,Zaleplon,TRUE,0
+2018,1,nv,Zolpidem Tartrate,FALSE,8725
+2018,1,nv,Zolpidem Tartrate,TRUE,0
+2018,1,ny,Eszopiclone,FALSE,1665
+2018,1,ny,Eszopiclone,TRUE,0
+2018,1,ny,Zaleplon,FALSE,1227
+2018,1,ny,Zaleplon,TRUE,0
+2018,1,ny,Zolpidem Tartrate,FALSE,91148
+2018,1,ny,Zolpidem Tartrate,TRUE,0
+2018,1,oh,Eszopiclone,FALSE,1414
+2018,1,oh,Eszopiclone,TRUE,0
+2018,1,oh,Zaleplon,FALSE,1099
+2018,1,oh,Zaleplon,TRUE,0
+2018,1,oh,Zolpidem Tartrate,FALSE,33237
+2018,1,oh,Zolpidem Tartrate,TRUE,0
+2018,1,ok,Eszopiclone,FALSE,532
+2018,1,ok,Eszopiclone,TRUE,0
+2018,1,ok,Zaleplon,FALSE,126
+2018,1,ok,Zaleplon,TRUE,0
+2018,1,ok,Zolpidem Tartrate,FALSE,4966
+2018,1,ok,Zolpidem Tartrate,TRUE,0
+2018,1,or,Eszopiclone,FALSE,53
+2018,1,or,Eszopiclone,TRUE,0
+2018,1,or,Zaleplon,FALSE,122
+2018,1,or,Zaleplon,TRUE,0
+2018,1,or,Zolpidem Tartrate,FALSE,5051
+2018,1,or,Zolpidem Tartrate,TRUE,0
+2018,1,pa,Eszopiclone,FALSE,967
+2018,1,pa,Eszopiclone,TRUE,0
+2018,1,pa,Zaleplon,FALSE,1125
+2018,1,pa,Zaleplon,TRUE,0
+2018,1,pa,Zolpidem Tartrate,FALSE,44020
+2018,1,pa,Zolpidem Tartrate,TRUE,0
+2018,1,ri,Eszopiclone,FALSE,202
+2018,1,ri,Eszopiclone,TRUE,0
+2018,1,ri,Zaleplon,FALSE,119
+2018,1,ri,Zaleplon,TRUE,0
+2018,1,ri,Zolpidem Tartrate,FALSE,4417
+2018,1,ri,Zolpidem Tartrate,TRUE,0
+2018,1,sc,Eszopiclone,FALSE,128
+2018,1,sc,Eszopiclone,TRUE,0
+2018,1,sc,Zaleplon,FALSE,102
+2018,1,sc,Zaleplon,TRUE,0
+2018,1,sc,Zolpidem Tartrate,FALSE,4780
+2018,1,sc,Zolpidem Tartrate,TRUE,0
+2018,1,sd,Eszopiclone,FALSE,68
+2018,1,sd,Eszopiclone,TRUE,0
+2018,1,sd,Zaleplon,FALSE,16
+2018,1,sd,Zaleplon,TRUE,0
+2018,1,sd,Zolpidem Tartrate,FALSE,745
+2018,1,sd,Zolpidem Tartrate,TRUE,0
+2018,1,tn,Eszopiclone,FALSE,127
+2018,1,tn,Eszopiclone,TRUE,0
+2018,1,tn,Zaleplon,FALSE,51
+2018,1,tn,Zaleplon,TRUE,0
+2018,1,tn,Zolpidem Tartrate,FALSE,2599
+2018,1,tn,Zolpidem Tartrate,TRUE,0
+2018,1,tx,Eszopiclone,FALSE,1284
+2018,1,tx,Eszopiclone,TRUE,0
+2018,1,tx,Zaleplon,FALSE,190
+2018,1,tx,Zaleplon,TRUE,0
+2018,1,tx,Zolpidem Tartrate,FALSE,25606
+2018,1,tx,Zolpidem Tartrate,TRUE,0
+2018,1,ut,Eszopiclone,FALSE,201
+2018,1,ut,Eszopiclone,TRUE,0
+2018,1,ut,Zaleplon,FALSE,64
+2018,1,ut,Zaleplon,TRUE,0
+2018,1,ut,Zolpidem Tartrate,FALSE,4268
+2018,1,ut,Zolpidem Tartrate,TRUE,0
+2018,1,va,Eszopiclone,FALSE,314
+2018,1,va,Eszopiclone,TRUE,0
+2018,1,va,Zaleplon,FALSE,94
+2018,1,va,Zaleplon,TRUE,0
+2018,1,va,Zolpidem Tartrate,FALSE,8612
+2018,1,va,Zolpidem Tartrate,TRUE,0
+2018,1,vt,Eszopiclone,FALSE,155
+2018,1,vt,Eszopiclone,TRUE,0
+2018,1,vt,Zaleplon,FALSE,70
+2018,1,vt,Zaleplon,TRUE,0
+2018,1,vt,Zolpidem Tartrate,FALSE,2192
+2018,1,vt,Zolpidem Tartrate,TRUE,0
+2018,1,wa,Eszopiclone,FALSE,489
+2018,1,wa,Eszopiclone,TRUE,0
+2018,1,wa,Zaleplon,FALSE,621
+2018,1,wa,Zaleplon,TRUE,0
+2018,1,wa,Zolpidem Tartrate,FALSE,15513
+2018,1,wa,Zolpidem Tartrate,TRUE,0
+2018,1,wi,Eszopiclone,FALSE,941
+2018,1,wi,Eszopiclone,TRUE,0
+2018,1,wi,Zaleplon,FALSE,659
+2018,1,wi,Zaleplon,TRUE,0
+2018,1,wi,Zolpidem Tartrate,FALSE,17391
+2018,1,wi,Zolpidem Tartrate,TRUE,0
+2018,1,wv,Eszopiclone,FALSE,31
+2018,1,wv,Eszopiclone,TRUE,0
+2018,1,wv,Zaleplon,TRUE,0
+2018,1,wv,Zolpidem Tartrate,FALSE,5026
+2018,1,wv,Zolpidem Tartrate,TRUE,0
+2018,1,wy,Eszopiclone,TRUE,0
+2018,1,wy,Zaleplon,TRUE,0
+2018,1,wy,Zolpidem Tartrate,FALSE,397
+2018,1,wy,Zolpidem Tartrate,TRUE,0
+2018,2,ak,Eszopiclone,FALSE,185
+2018,2,ak,Eszopiclone,TRUE,0
+2018,2,ak,Zaleplon,FALSE,26
+2018,2,ak,Zaleplon,TRUE,0
+2018,2,ak,Zolpidem Tartrate,FALSE,1593
+2018,2,ak,Zolpidem Tartrate,TRUE,0
+2018,2,al,Eszopiclone,FALSE,439
+2018,2,al,Eszopiclone,TRUE,0
+2018,2,al,Zaleplon,FALSE,24
+2018,2,al,Zaleplon,TRUE,0
+2018,2,al,Zolpidem Tartrate,FALSE,3158
+2018,2,al,Zolpidem Tartrate,TRUE,0
+2018,2,ar,Eszopiclone,TRUE,0
+2018,2,ar,Zaleplon,FALSE,471
+2018,2,ar,Zaleplon,TRUE,0
+2018,2,ar,Zolpidem Tartrate,FALSE,6091
+2018,2,ar,Zolpidem Tartrate,TRUE,0
+2018,2,az,Eszopiclone,FALSE,1468
+2018,2,az,Eszopiclone,TRUE,0
+2018,2,az,Zaleplon,FALSE,395
+2018,2,az,Zaleplon,TRUE,0
+2018,2,az,Zolpidem Tartrate,FALSE,14016
+2018,2,az,Zolpidem Tartrate,TRUE,0
+2018,2,ca,Eszopiclone,FALSE,2574
+2018,2,ca,Eszopiclone,TRUE,0
+2018,2,ca,Zaleplon,FALSE,871
+2018,2,ca,Zaleplon,TRUE,0
+2018,2,ca,Zolpidem Tartrate,FALSE,70049
+2018,2,ca,Zolpidem Tartrate,TRUE,0
+2018,2,co,Eszopiclone,FALSE,2758
+2018,2,co,Eszopiclone,TRUE,0
+2018,2,co,Zaleplon,FALSE,477
+2018,2,co,Zaleplon,TRUE,0
+2018,2,co,Zolpidem Tartrate,FALSE,12572
+2018,2,co,Zolpidem Tartrate,TRUE,0
+2018,2,ct,Eszopiclone,FALSE,869
+2018,2,ct,Eszopiclone,TRUE,0
+2018,2,ct,Zaleplon,FALSE,120
+2018,2,ct,Zaleplon,TRUE,0
+2018,2,ct,Zolpidem Tartrate,FALSE,13974
+2018,2,ct,Zolpidem Tartrate,TRUE,0
+2018,2,dc,Eszopiclone,TRUE,0
+2018,2,dc,Zaleplon,TRUE,0
+2018,2,dc,Zolpidem Tartrate,FALSE,1694
+2018,2,dc,Zolpidem Tartrate,TRUE,0
+2018,2,de,Eszopiclone,FALSE,109
+2018,2,de,Eszopiclone,TRUE,0
+2018,2,de,Zaleplon,FALSE,56
+2018,2,de,Zaleplon,TRUE,0
+2018,2,de,Zolpidem Tartrate,FALSE,3763
+2018,2,de,Zolpidem Tartrate,TRUE,0
+2018,2,fl,Eszopiclone,FALSE,51
+2018,2,fl,Eszopiclone,TRUE,0
+2018,2,fl,Zaleplon,FALSE,13
+2018,2,fl,Zaleplon,TRUE,0
+2018,2,fl,Zolpidem Tartrate,FALSE,22976
+2018,2,fl,Zolpidem Tartrate,TRUE,0
+2018,2,hi,Eszopiclone,FALSE,24
+2018,2,hi,Eszopiclone,TRUE,0
+2018,2,hi,Zaleplon,TRUE,0
+2018,2,hi,Zolpidem Tartrate,FALSE,3158
+2018,2,hi,Zolpidem Tartrate,TRUE,0
+2018,2,ia,Eszopiclone,FALSE,446
+2018,2,ia,Eszopiclone,TRUE,0
+2018,2,ia,Zaleplon,FALSE,300
+2018,2,ia,Zaleplon,TRUE,0
+2018,2,ia,Zolpidem Tartrate,FALSE,4003
+2018,2,ia,Zolpidem Tartrate,TRUE,0
+2018,2,id,Eszopiclone,FALSE,159
+2018,2,id,Eszopiclone,TRUE,0
+2018,2,id,Zaleplon,FALSE,25
+2018,2,id,Zaleplon,TRUE,0
+2018,2,id,Zolpidem Tartrate,FALSE,2970
+2018,2,id,Zolpidem Tartrate,TRUE,0
+2018,2,il,Eszopiclone,FALSE,243
+2018,2,il,Eszopiclone,TRUE,0
+2018,2,il,Zaleplon,FALSE,226
+2018,2,il,Zaleplon,TRUE,0
+2018,2,il,Zolpidem Tartrate,FALSE,16906
+2018,2,il,Zolpidem Tartrate,TRUE,0
+2018,2,in,Eszopiclone,FALSE,1481
+2018,2,in,Eszopiclone,TRUE,0
+2018,2,in,Zaleplon,FALSE,289
+2018,2,in,Zaleplon,TRUE,0
+2018,2,in,Zolpidem Tartrate,FALSE,11246
+2018,2,in,Zolpidem Tartrate,TRUE,0
+2018,2,ks,Eszopiclone,FALSE,174
+2018,2,ks,Eszopiclone,TRUE,0
+2018,2,ks,Zaleplon,FALSE,40
+2018,2,ks,Zaleplon,TRUE,0
+2018,2,ks,Zolpidem Tartrate,FALSE,3626
+2018,2,ks,Zolpidem Tartrate,TRUE,0
+2018,2,ky,Eszopiclone,FALSE,245
+2018,2,ky,Eszopiclone,TRUE,0
+2018,2,ky,Zaleplon,FALSE,89
+2018,2,ky,Zaleplon,TRUE,0
+2018,2,ky,Zolpidem Tartrate,FALSE,11758
+2018,2,ky,Zolpidem Tartrate,TRUE,0
+2018,2,la,Eszopiclone,FALSE,457
+2018,2,la,Eszopiclone,TRUE,0
+2018,2,la,Zaleplon,FALSE,412
+2018,2,la,Zaleplon,TRUE,0
+2018,2,la,Zolpidem Tartrate,FALSE,23424
+2018,2,la,Zolpidem Tartrate,TRUE,0
+2018,2,ma,Eszopiclone,FALSE,388
+2018,2,ma,Eszopiclone,TRUE,0
+2018,2,ma,Zaleplon,FALSE,325
+2018,2,ma,Zaleplon,TRUE,0
+2018,2,ma,Zolpidem Tartrate,FALSE,18950
+2018,2,ma,Zolpidem Tartrate,TRUE,0
+2018,2,md,Eszopiclone,FALSE,1060
+2018,2,md,Eszopiclone,TRUE,0
+2018,2,md,Zaleplon,FALSE,383
+2018,2,md,Zaleplon,TRUE,0
+2018,2,md,Zolpidem Tartrate,FALSE,16637
+2018,2,md,Zolpidem Tartrate,TRUE,0
+2018,2,me,Eszopiclone,FALSE,85
+2018,2,me,Eszopiclone,TRUE,0
+2018,2,me,Zaleplon,FALSE,59
+2018,2,me,Zaleplon,TRUE,0
+2018,2,me,Zolpidem Tartrate,FALSE,1952
+2018,2,me,Zolpidem Tartrate,TRUE,0
+2018,2,mi,Eszopiclone,FALSE,541
+2018,2,mi,Eszopiclone,TRUE,0
+2018,2,mi,Zaleplon,FALSE,147
+2018,2,mi,Zaleplon,TRUE,0
+2018,2,mi,Zolpidem Tartrate,FALSE,19664
+2018,2,mi,Zolpidem Tartrate,TRUE,0
+2018,2,mn,Eszopiclone,FALSE,1876
+2018,2,mn,Eszopiclone,TRUE,0
+2018,2,mn,Zaleplon,FALSE,867
+2018,2,mn,Zaleplon,TRUE,0
+2018,2,mn,Zolpidem Tartrate,FALSE,14193
+2018,2,mn,Zolpidem Tartrate,TRUE,0
+2018,2,mo,Eszopiclone,FALSE,2410
+2018,2,mo,Eszopiclone,TRUE,0
+2018,2,mo,Zaleplon,FALSE,339
+2018,2,mo,Zaleplon,TRUE,0
+2018,2,mo,Zolpidem Tartrate,FALSE,11263
+2018,2,mo,Zolpidem Tartrate,TRUE,0
+2018,2,ms,Eszopiclone,TRUE,0
+2018,2,ms,Zaleplon,FALSE,69
+2018,2,ms,Zaleplon,TRUE,0
+2018,2,ms,Zolpidem Tartrate,FALSE,1885
+2018,2,ms,Zolpidem Tartrate,TRUE,0
+2018,2,mt,Eszopiclone,FALSE,198
+2018,2,mt,Eszopiclone,TRUE,0
+2018,2,mt,Zaleplon,FALSE,38
+2018,2,mt,Zaleplon,TRUE,0
+2018,2,mt,Zolpidem Tartrate,FALSE,4443
+2018,2,mt,Zolpidem Tartrate,TRUE,0
+2018,2,nc,Eszopiclone,FALSE,434
+2018,2,nc,Eszopiclone,TRUE,0
+2018,2,nc,Zaleplon,FALSE,39
+2018,2,nc,Zaleplon,TRUE,0
+2018,2,nc,Zolpidem Tartrate,FALSE,10872
+2018,2,nc,Zolpidem Tartrate,TRUE,0
+2018,2,nd,Eszopiclone,FALSE,60
+2018,2,nd,Eszopiclone,TRUE,0
+2018,2,nd,Zaleplon,TRUE,0
+2018,2,nd,Zolpidem Tartrate,FALSE,1186
+2018,2,nd,Zolpidem Tartrate,TRUE,0
+2018,2,ne,Eszopiclone,FALSE,74
+2018,2,ne,Eszopiclone,TRUE,0
+2018,2,ne,Zaleplon,FALSE,277
+2018,2,ne,Zaleplon,TRUE,0
+2018,2,ne,Zolpidem Tartrate,FALSE,3328
+2018,2,ne,Zolpidem Tartrate,TRUE,0
+2018,2,nh,Eszopiclone,FALSE,39
+2018,2,nh,Eszopiclone,TRUE,0
+2018,2,nh,Zaleplon,FALSE,64
+2018,2,nh,Zaleplon,TRUE,0
+2018,2,nh,Zolpidem Tartrate,FALSE,1069
+2018,2,nh,Zolpidem Tartrate,TRUE,0
+2018,2,nj,Eszopiclone,FALSE,190
+2018,2,nj,Eszopiclone,TRUE,0
+2018,2,nj,Zaleplon,FALSE,816
+2018,2,nj,Zaleplon,TRUE,0
+2018,2,nj,Zolpidem Tartrate,FALSE,24742
+2018,2,nj,Zolpidem Tartrate,TRUE,0
+2018,2,nm,Eszopiclone,FALSE,340
+2018,2,nm,Eszopiclone,TRUE,0
+2018,2,nm,Zaleplon,FALSE,117
+2018,2,nm,Zaleplon,TRUE,0
+2018,2,nm,Zolpidem Tartrate,FALSE,6562
+2018,2,nm,Zolpidem Tartrate,TRUE,0
+2018,2,nv,Eszopiclone,FALSE,62
+2018,2,nv,Eszopiclone,TRUE,0
+2018,2,nv,Zaleplon,FALSE,173
+2018,2,nv,Zaleplon,TRUE,0
+2018,2,nv,Zolpidem Tartrate,FALSE,8277
+2018,2,nv,Zolpidem Tartrate,TRUE,0
+2018,2,ny,Eszopiclone,FALSE,1568
+2018,2,ny,Eszopiclone,TRUE,0
+2018,2,ny,Zaleplon,FALSE,1179
+2018,2,ny,Zaleplon,TRUE,0
+2018,2,ny,Zolpidem Tartrate,FALSE,85027
+2018,2,ny,Zolpidem Tartrate,TRUE,0
+2018,2,oh,Eszopiclone,FALSE,1555
+2018,2,oh,Eszopiclone,TRUE,0
+2018,2,oh,Zaleplon,FALSE,1131
+2018,2,oh,Zaleplon,TRUE,0
+2018,2,oh,Zolpidem Tartrate,FALSE,33775
+2018,2,oh,Zolpidem Tartrate,TRUE,0
+2018,2,ok,Eszopiclone,FALSE,587
+2018,2,ok,Eszopiclone,TRUE,0
+2018,2,ok,Zaleplon,FALSE,138
+2018,2,ok,Zaleplon,TRUE,0
+2018,2,ok,Zolpidem Tartrate,FALSE,4815
+2018,2,ok,Zolpidem Tartrate,TRUE,0
+2018,2,or,Eszopiclone,FALSE,35
+2018,2,or,Eszopiclone,TRUE,0
+2018,2,or,Zaleplon,FALSE,124
+2018,2,or,Zaleplon,TRUE,0
+2018,2,or,Zolpidem Tartrate,FALSE,4991
+2018,2,or,Zolpidem Tartrate,TRUE,0
+2018,2,pa,Eszopiclone,FALSE,1000
+2018,2,pa,Eszopiclone,TRUE,0
+2018,2,pa,Zaleplon,FALSE,1148
+2018,2,pa,Zaleplon,TRUE,0
+2018,2,pa,Zolpidem Tartrate,FALSE,42079
+2018,2,pa,Zolpidem Tartrate,TRUE,0
+2018,2,ri,Eszopiclone,FALSE,207
+2018,2,ri,Eszopiclone,TRUE,0
+2018,2,ri,Zaleplon,FALSE,142
+2018,2,ri,Zaleplon,TRUE,0
+2018,2,ri,Zolpidem Tartrate,FALSE,4229
+2018,2,ri,Zolpidem Tartrate,TRUE,0
+2018,2,sc,Eszopiclone,FALSE,134
+2018,2,sc,Eszopiclone,TRUE,0
+2018,2,sc,Zaleplon,FALSE,108
+2018,2,sc,Zaleplon,TRUE,0
+2018,2,sc,Zolpidem Tartrate,FALSE,2786
+2018,2,sc,Zolpidem Tartrate,TRUE,0
+2018,2,sd,Eszopiclone,FALSE,73
+2018,2,sd,Eszopiclone,TRUE,0
+2018,2,sd,Zaleplon,FALSE,18
+2018,2,sd,Zaleplon,TRUE,0
+2018,2,sd,Zolpidem Tartrate,FALSE,740
+2018,2,sd,Zolpidem Tartrate,TRUE,0
+2018,2,tn,Eszopiclone,FALSE,138
+2018,2,tn,Eszopiclone,TRUE,0
+2018,2,tn,Zaleplon,FALSE,63
+2018,2,tn,Zaleplon,TRUE,0
+2018,2,tn,Zolpidem Tartrate,FALSE,2325
+2018,2,tn,Zolpidem Tartrate,TRUE,0
+2018,2,tx,Eszopiclone,FALSE,1241
+2018,2,tx,Eszopiclone,TRUE,0
+2018,2,tx,Zaleplon,FALSE,195
+2018,2,tx,Zaleplon,TRUE,0
+2018,2,tx,Zolpidem Tartrate,FALSE,24796
+2018,2,tx,Zolpidem Tartrate,TRUE,0
+2018,2,ut,Eszopiclone,FALSE,203
+2018,2,ut,Eszopiclone,TRUE,0
+2018,2,ut,Zaleplon,FALSE,69
+2018,2,ut,Zaleplon,TRUE,0
+2018,2,ut,Zolpidem Tartrate,FALSE,4128
+2018,2,ut,Zolpidem Tartrate,TRUE,0
+2018,2,va,Eszopiclone,FALSE,340
+2018,2,va,Eszopiclone,TRUE,0
+2018,2,va,Zaleplon,FALSE,63
+2018,2,va,Zaleplon,TRUE,0
+2018,2,va,Zolpidem Tartrate,FALSE,7779
+2018,2,va,Zolpidem Tartrate,TRUE,0
+2018,2,vt,Eszopiclone,FALSE,149
+2018,2,vt,Eszopiclone,TRUE,0
+2018,2,vt,Zaleplon,FALSE,68
+2018,2,vt,Zaleplon,TRUE,0
+2018,2,vt,Zolpidem Tartrate,FALSE,2016
+2018,2,vt,Zolpidem Tartrate,TRUE,0
+2018,2,wa,Eszopiclone,FALSE,494
+2018,2,wa,Eszopiclone,TRUE,0
+2018,2,wa,Zaleplon,FALSE,621
+2018,2,wa,Zaleplon,TRUE,0
+2018,2,wa,Zolpidem Tartrate,FALSE,14714
+2018,2,wa,Zolpidem Tartrate,TRUE,0
+2018,2,wi,Eszopiclone,FALSE,1013
+2018,2,wi,Eszopiclone,TRUE,0
+2018,2,wi,Zaleplon,FALSE,611
+2018,2,wi,Zaleplon,TRUE,0
+2018,2,wi,Zolpidem Tartrate,FALSE,16476
+2018,2,wi,Zolpidem Tartrate,TRUE,0
+2018,2,wv,Eszopiclone,FALSE,32
+2018,2,wv,Eszopiclone,TRUE,0
+2018,2,wv,Zaleplon,TRUE,0
+2018,2,wv,Zolpidem Tartrate,FALSE,4567
+2018,2,wv,Zolpidem Tartrate,TRUE,0
+2018,2,wy,Eszopiclone,TRUE,0
+2018,2,wy,Zaleplon,TRUE,0
+2018,2,wy,Zolpidem Tartrate,FALSE,378
+2018,2,wy,Zolpidem Tartrate,TRUE,0
+2018,3,ak,Eszopiclone,FALSE,301
+2018,3,ak,Eszopiclone,TRUE,0
+2018,3,ak,Zaleplon,FALSE,79
+2018,3,ak,Zaleplon,TRUE,0
+2018,3,ak,Zolpidem Tartrate,FALSE,2439
+2018,3,ak,Zolpidem Tartrate,TRUE,0
+2018,3,al,Eszopiclone,FALSE,441
+2018,3,al,Eszopiclone,TRUE,0
+2018,3,al,Zaleplon,FALSE,34
+2018,3,al,Zaleplon,TRUE,0
+2018,3,al,Zolpidem Tartrate,FALSE,3104
+2018,3,al,Zolpidem Tartrate,TRUE,0
+2018,3,ar,Eszopiclone,TRUE,0
+2018,3,ar,Zaleplon,FALSE,471
+2018,3,ar,Zaleplon,TRUE,0
+2018,3,ar,Zolpidem Tartrate,FALSE,5989
+2018,3,ar,Zolpidem Tartrate,TRUE,0
+2018,3,az,Eszopiclone,FALSE,1107
+2018,3,az,Eszopiclone,TRUE,0
+2018,3,az,Zaleplon,FALSE,311
+2018,3,az,Zaleplon,TRUE,0
+2018,3,az,Zolpidem Tartrate,FALSE,13505
+2018,3,az,Zolpidem Tartrate,TRUE,0
+2018,3,ca,Eszopiclone,FALSE,2650
+2018,3,ca,Eszopiclone,TRUE,0
+2018,3,ca,Zaleplon,FALSE,772
+2018,3,ca,Zaleplon,TRUE,0
+2018,3,ca,Zolpidem Tartrate,FALSE,66188
+2018,3,ca,Zolpidem Tartrate,TRUE,0
+2018,3,co,Eszopiclone,FALSE,2526
+2018,3,co,Eszopiclone,TRUE,0
+2018,3,co,Zaleplon,FALSE,431
+2018,3,co,Zaleplon,TRUE,0
+2018,3,co,Zolpidem Tartrate,FALSE,11720
+2018,3,co,Zolpidem Tartrate,TRUE,0
+2018,3,ct,Eszopiclone,FALSE,854
+2018,3,ct,Eszopiclone,TRUE,0
+2018,3,ct,Zaleplon,FALSE,92
+2018,3,ct,Zaleplon,TRUE,0
+2018,3,ct,Zolpidem Tartrate,FALSE,13506
+2018,3,ct,Zolpidem Tartrate,TRUE,0
+2018,3,dc,Eszopiclone,TRUE,0
+2018,3,dc,Zaleplon,TRUE,0
+2018,3,dc,Zolpidem Tartrate,FALSE,1635
+2018,3,dc,Zolpidem Tartrate,TRUE,0
+2018,3,de,Eszopiclone,FALSE,125
+2018,3,de,Eszopiclone,TRUE,0
+2018,3,de,Zaleplon,FALSE,37
+2018,3,de,Zaleplon,TRUE,0
+2018,3,de,Zolpidem Tartrate,FALSE,3363
+2018,3,de,Zolpidem Tartrate,TRUE,0
+2018,3,fl,Eszopiclone,FALSE,55
+2018,3,fl,Eszopiclone,TRUE,0
+2018,3,fl,Zaleplon,FALSE,19
+2018,3,fl,Zaleplon,TRUE,0
+2018,3,fl,Zolpidem Tartrate,FALSE,20871
+2018,3,fl,Zolpidem Tartrate,TRUE,0
+2018,3,hi,Eszopiclone,FALSE,25
+2018,3,hi,Eszopiclone,TRUE,0
+2018,3,hi,Zaleplon,TRUE,0
+2018,3,hi,Zolpidem Tartrate,FALSE,2778
+2018,3,hi,Zolpidem Tartrate,TRUE,0
+2018,3,ia,Eszopiclone,FALSE,428
+2018,3,ia,Eszopiclone,TRUE,0
+2018,3,ia,Zaleplon,FALSE,268
+2018,3,ia,Zaleplon,TRUE,0
+2018,3,ia,Zolpidem Tartrate,FALSE,3724
+2018,3,ia,Zolpidem Tartrate,TRUE,0
+2018,3,id,Eszopiclone,FALSE,140
+2018,3,id,Eszopiclone,TRUE,0
+2018,3,id,Zaleplon,FALSE,14
+2018,3,id,Zaleplon,TRUE,0
+2018,3,id,Zolpidem Tartrate,FALSE,2865
+2018,3,id,Zolpidem Tartrate,TRUE,0
+2018,3,il,Eszopiclone,FALSE,230
+2018,3,il,Eszopiclone,TRUE,0
+2018,3,il,Zaleplon,FALSE,233
+2018,3,il,Zaleplon,TRUE,0
+2018,3,il,Zolpidem Tartrate,FALSE,17318
+2018,3,il,Zolpidem Tartrate,TRUE,0
+2018,3,in,Eszopiclone,FALSE,1529
+2018,3,in,Eszopiclone,TRUE,0
+2018,3,in,Zaleplon,FALSE,268
+2018,3,in,Zaleplon,TRUE,0
+2018,3,in,Zolpidem Tartrate,FALSE,10817
+2018,3,in,Zolpidem Tartrate,TRUE,0
+2018,3,ks,Eszopiclone,FALSE,198
+2018,3,ks,Eszopiclone,TRUE,0
+2018,3,ks,Zaleplon,FALSE,18
+2018,3,ks,Zaleplon,TRUE,0
+2018,3,ks,Zolpidem Tartrate,FALSE,3375
+2018,3,ks,Zolpidem Tartrate,TRUE,0
+2018,3,ky,Eszopiclone,FALSE,295
+2018,3,ky,Eszopiclone,TRUE,0
+2018,3,ky,Zaleplon,FALSE,91
+2018,3,ky,Zaleplon,TRUE,0
+2018,3,ky,Zolpidem Tartrate,FALSE,11442
+2018,3,ky,Zolpidem Tartrate,TRUE,0
+2018,3,la,Eszopiclone,FALSE,455
+2018,3,la,Eszopiclone,TRUE,0
+2018,3,la,Zaleplon,FALSE,431
+2018,3,la,Zaleplon,TRUE,0
+2018,3,la,Zolpidem Tartrate,FALSE,23518
+2018,3,la,Zolpidem Tartrate,TRUE,0
+2018,3,ma,Eszopiclone,FALSE,378
+2018,3,ma,Eszopiclone,TRUE,0
+2018,3,ma,Zaleplon,FALSE,289
+2018,3,ma,Zaleplon,TRUE,0
+2018,3,ma,Zolpidem Tartrate,FALSE,16759
+2018,3,ma,Zolpidem Tartrate,TRUE,0
+2018,3,md,Eszopiclone,FALSE,1175
+2018,3,md,Eszopiclone,TRUE,0
+2018,3,md,Zaleplon,FALSE,361
+2018,3,md,Zaleplon,TRUE,0
+2018,3,md,Zolpidem Tartrate,FALSE,15940
+2018,3,md,Zolpidem Tartrate,TRUE,0
+2018,3,me,Eszopiclone,FALSE,79
+2018,3,me,Eszopiclone,TRUE,0
+2018,3,me,Zaleplon,FALSE,57
+2018,3,me,Zaleplon,TRUE,0
+2018,3,me,Zolpidem Tartrate,FALSE,1747
+2018,3,me,Zolpidem Tartrate,TRUE,0
+2018,3,mi,Eszopiclone,FALSE,530
+2018,3,mi,Eszopiclone,TRUE,0
+2018,3,mi,Zaleplon,FALSE,73
+2018,3,mi,Zaleplon,TRUE,0
+2018,3,mi,Zolpidem Tartrate,FALSE,18028
+2018,3,mi,Zolpidem Tartrate,TRUE,0
+2018,3,mn,Eszopiclone,FALSE,1821
+2018,3,mn,Eszopiclone,TRUE,0
+2018,3,mn,Zaleplon,FALSE,747
+2018,3,mn,Zaleplon,TRUE,0
+2018,3,mn,Zolpidem Tartrate,FALSE,12864
+2018,3,mn,Zolpidem Tartrate,TRUE,0
+2018,3,mo,Eszopiclone,FALSE,2295
+2018,3,mo,Eszopiclone,TRUE,0
+2018,3,mo,Zaleplon,FALSE,353
+2018,3,mo,Zaleplon,TRUE,0
+2018,3,mo,Zolpidem Tartrate,FALSE,10559
+2018,3,mo,Zolpidem Tartrate,TRUE,0
+2018,3,ms,Eszopiclone,TRUE,0
+2018,3,ms,Zaleplon,FALSE,47
+2018,3,ms,Zaleplon,TRUE,0
+2018,3,ms,Zolpidem Tartrate,FALSE,1788
+2018,3,ms,Zolpidem Tartrate,TRUE,0
+2018,3,mt,Eszopiclone,FALSE,174
+2018,3,mt,Eszopiclone,TRUE,0
+2018,3,mt,Zaleplon,FALSE,67
+2018,3,mt,Zaleplon,TRUE,0
+2018,3,mt,Zolpidem Tartrate,FALSE,3859
+2018,3,mt,Zolpidem Tartrate,TRUE,0
+2018,3,nc,Eszopiclone,FALSE,538
+2018,3,nc,Eszopiclone,TRUE,0
+2018,3,nc,Zaleplon,FALSE,56
+2018,3,nc,Zaleplon,TRUE,0
+2018,3,nc,Zolpidem Tartrate,FALSE,12325
+2018,3,nc,Zolpidem Tartrate,TRUE,0
+2018,3,nd,Eszopiclone,FALSE,30
+2018,3,nd,Eszopiclone,TRUE,0
+2018,3,nd,Zaleplon,FALSE,17
+2018,3,nd,Zaleplon,TRUE,0
+2018,3,nd,Zolpidem Tartrate,FALSE,1008
+2018,3,nd,Zolpidem Tartrate,TRUE,0
+2018,3,ne,Eszopiclone,FALSE,41
+2018,3,ne,Eszopiclone,TRUE,0
+2018,3,ne,Zaleplon,FALSE,244
+2018,3,ne,Zaleplon,TRUE,0
+2018,3,ne,Zolpidem Tartrate,FALSE,2940
+2018,3,ne,Zolpidem Tartrate,TRUE,0
+2018,3,nh,Eszopiclone,FALSE,22
+2018,3,nh,Eszopiclone,TRUE,0
+2018,3,nh,Zaleplon,FALSE,25
+2018,3,nh,Zaleplon,TRUE,0
+2018,3,nh,Zolpidem Tartrate,FALSE,1030
+2018,3,nh,Zolpidem Tartrate,TRUE,0
+2018,3,nj,Eszopiclone,FALSE,190
+2018,3,nj,Eszopiclone,TRUE,0
+2018,3,nj,Zaleplon,FALSE,836
+2018,3,nj,Zaleplon,TRUE,0
+2018,3,nj,Zolpidem Tartrate,FALSE,24220
+2018,3,nj,Zolpidem Tartrate,TRUE,0
+2018,3,nm,Eszopiclone,FALSE,378
+2018,3,nm,Eszopiclone,TRUE,0
+2018,3,nm,Zaleplon,FALSE,115
+2018,3,nm,Zaleplon,TRUE,0
+2018,3,nm,Zolpidem Tartrate,FALSE,6613
+2018,3,nm,Zolpidem Tartrate,TRUE,0
+2018,3,nv,Eszopiclone,FALSE,80
+2018,3,nv,Eszopiclone,TRUE,0
+2018,3,nv,Zaleplon,FALSE,150
+2018,3,nv,Zaleplon,TRUE,0
+2018,3,nv,Zolpidem Tartrate,FALSE,7548
+2018,3,nv,Zolpidem Tartrate,TRUE,0
+2018,3,ny,Eszopiclone,FALSE,1525
+2018,3,ny,Eszopiclone,TRUE,0
+2018,3,ny,Zaleplon,FALSE,1149
+2018,3,ny,Zaleplon,TRUE,0
+2018,3,ny,Zolpidem Tartrate,FALSE,83318
+2018,3,ny,Zolpidem Tartrate,TRUE,0
+2018,3,oh,Eszopiclone,FALSE,1428
+2018,3,oh,Eszopiclone,TRUE,0
+2018,3,oh,Zaleplon,FALSE,972
+2018,3,oh,Zaleplon,TRUE,0
+2018,3,oh,Zolpidem Tartrate,FALSE,29564
+2018,3,oh,Zolpidem Tartrate,TRUE,0
+2018,3,ok,Eszopiclone,FALSE,570
+2018,3,ok,Eszopiclone,TRUE,0
+2018,3,ok,Zaleplon,FALSE,132
+2018,3,ok,Zaleplon,TRUE,0
+2018,3,ok,Zolpidem Tartrate,FALSE,4435
+2018,3,ok,Zolpidem Tartrate,TRUE,0
+2018,3,or,Eszopiclone,FALSE,20
+2018,3,or,Eszopiclone,TRUE,0
+2018,3,or,Zaleplon,FALSE,117
+2018,3,or,Zaleplon,TRUE,0
+2018,3,or,Zolpidem Tartrate,FALSE,4685
+2018,3,or,Zolpidem Tartrate,TRUE,0
+2018,3,pa,Eszopiclone,FALSE,1001
+2018,3,pa,Eszopiclone,TRUE,0
+2018,3,pa,Zaleplon,FALSE,1144
+2018,3,pa,Zaleplon,TRUE,0
+2018,3,pa,Zolpidem Tartrate,FALSE,40217
+2018,3,pa,Zolpidem Tartrate,TRUE,0
+2018,3,ri,Eszopiclone,FALSE,224
+2018,3,ri,Eszopiclone,TRUE,0
+2018,3,ri,Zaleplon,FALSE,162
+2018,3,ri,Zaleplon,TRUE,0
+2018,3,ri,Zolpidem Tartrate,FALSE,4237
+2018,3,ri,Zolpidem Tartrate,TRUE,0
+2018,3,sc,Eszopiclone,FALSE,135
+2018,3,sc,Eszopiclone,TRUE,0
+2018,3,sc,Zaleplon,FALSE,63
+2018,3,sc,Zaleplon,TRUE,0
+2018,3,sc,Zolpidem Tartrate,FALSE,2553
+2018,3,sc,Zolpidem Tartrate,TRUE,0
+2018,3,sd,Eszopiclone,FALSE,50
+2018,3,sd,Eszopiclone,TRUE,0
+2018,3,sd,Zaleplon,FALSE,14
+2018,3,sd,Zaleplon,TRUE,0
+2018,3,sd,Zolpidem Tartrate,FALSE,686
+2018,3,sd,Zolpidem Tartrate,TRUE,0
+2018,3,tn,Eszopiclone,FALSE,169
+2018,3,tn,Eszopiclone,TRUE,0
+2018,3,tn,Zaleplon,FALSE,40
+2018,3,tn,Zaleplon,TRUE,0
+2018,3,tn,Zolpidem Tartrate,FALSE,2191
+2018,3,tn,Zolpidem Tartrate,TRUE,0
+2018,3,tx,Eszopiclone,FALSE,1227
+2018,3,tx,Eszopiclone,TRUE,0
+2018,3,tx,Zaleplon,FALSE,153
+2018,3,tx,Zaleplon,TRUE,0
+2018,3,tx,Zolpidem Tartrate,FALSE,23783
+2018,3,tx,Zolpidem Tartrate,TRUE,0
+2018,3,ut,Eszopiclone,FALSE,177
+2018,3,ut,Eszopiclone,TRUE,0
+2018,3,ut,Zaleplon,FALSE,67
+2018,3,ut,Zaleplon,TRUE,0
+2018,3,ut,Zolpidem Tartrate,FALSE,3809
+2018,3,ut,Zolpidem Tartrate,TRUE,0
+2018,3,va,Eszopiclone,FALSE,332
+2018,3,va,Eszopiclone,TRUE,0
+2018,3,va,Zaleplon,FALSE,69
+2018,3,va,Zaleplon,TRUE,0
+2018,3,va,Zolpidem Tartrate,FALSE,7770
+2018,3,va,Zolpidem Tartrate,TRUE,0
+2018,3,vt,Eszopiclone,FALSE,130
+2018,3,vt,Eszopiclone,TRUE,0
+2018,3,vt,Zaleplon,FALSE,45
+2018,3,vt,Zaleplon,TRUE,0
+2018,3,vt,Zolpidem Tartrate,FALSE,1858
+2018,3,vt,Zolpidem Tartrate,TRUE,0
+2018,3,wa,Eszopiclone,FALSE,472
+2018,3,wa,Eszopiclone,TRUE,0
+2018,3,wa,Zaleplon,FALSE,638
+2018,3,wa,Zaleplon,TRUE,0
+2018,3,wa,Zolpidem Tartrate,FALSE,14071
+2018,3,wa,Zolpidem Tartrate,TRUE,0
+2018,3,wi,Eszopiclone,FALSE,1073
+2018,3,wi,Eszopiclone,TRUE,0
+2018,3,wi,Zaleplon,FALSE,557
+2018,3,wi,Zaleplon,TRUE,0
+2018,3,wi,Zolpidem Tartrate,FALSE,15653
+2018,3,wi,Zolpidem Tartrate,TRUE,0
+2018,3,wv,Eszopiclone,FALSE,26
+2018,3,wv,Eszopiclone,TRUE,0
+2018,3,wv,Zaleplon,TRUE,0
+2018,3,wv,Zolpidem Tartrate,FALSE,4262
+2018,3,wv,Zolpidem Tartrate,TRUE,0
+2018,3,wy,Eszopiclone,TRUE,0
+2018,3,wy,Zaleplon,TRUE,0
+2018,3,wy,Zolpidem Tartrate,FALSE,403
+2018,3,wy,Zolpidem Tartrate,TRUE,0
+2018,4,ak,Eszopiclone,FALSE,230
+2018,4,ak,Eszopiclone,TRUE,0
+2018,4,ak,Zaleplon,FALSE,26
+2018,4,ak,Zaleplon,TRUE,0
+2018,4,ak,Zolpidem Tartrate,FALSE,1866
+2018,4,ak,Zolpidem Tartrate,TRUE,0
+2018,4,al,Eszopiclone,FALSE,512
+2018,4,al,Eszopiclone,TRUE,0
+2018,4,al,Zaleplon,FALSE,36
+2018,4,al,Zaleplon,TRUE,0
+2018,4,al,Zolpidem Tartrate,FALSE,2965
+2018,4,al,Zolpidem Tartrate,TRUE,0
+2018,4,ar,Eszopiclone,TRUE,0
+2018,4,ar,Zaleplon,FALSE,424
+2018,4,ar,Zolpidem Tartrate,FALSE,6100
+2018,4,ar,Zolpidem Tartrate,TRUE,0
+2018,4,az,Eszopiclone,FALSE,940
+2018,4,az,Eszopiclone,TRUE,0
+2018,4,az,Zaleplon,FALSE,273
+2018,4,az,Zaleplon,TRUE,0
+2018,4,az,Zolpidem Tartrate,FALSE,12935
+2018,4,az,Zolpidem Tartrate,TRUE,0
+2018,4,ca,Eszopiclone,FALSE,2724
+2018,4,ca,Eszopiclone,TRUE,0
+2018,4,ca,Zaleplon,FALSE,785
+2018,4,ca,Zaleplon,TRUE,0
+2018,4,ca,Zolpidem Tartrate,FALSE,67561
+2018,4,ca,Zolpidem Tartrate,TRUE,0
+2018,4,co,Eszopiclone,FALSE,2765
+2018,4,co,Eszopiclone,TRUE,0
+2018,4,co,Zaleplon,FALSE,436
+2018,4,co,Zaleplon,TRUE,0
+2018,4,co,Zolpidem Tartrate,FALSE,12079
+2018,4,co,Zolpidem Tartrate,TRUE,0
+2018,4,ct,Eszopiclone,FALSE,923
+2018,4,ct,Eszopiclone,TRUE,0
+2018,4,ct,Zaleplon,FALSE,62
+2018,4,ct,Zaleplon,TRUE,0
+2018,4,ct,Zolpidem Tartrate,FALSE,13316
+2018,4,ct,Zolpidem Tartrate,TRUE,0
+2018,4,dc,Eszopiclone,TRUE,0
+2018,4,dc,Zaleplon,TRUE,0
+2018,4,dc,Zolpidem Tartrate,FALSE,1696
+2018,4,dc,Zolpidem Tartrate,TRUE,0
+2018,4,de,Eszopiclone,FALSE,127
+2018,4,de,Eszopiclone,TRUE,0
+2018,4,de,Zaleplon,FALSE,25
+2018,4,de,Zaleplon,TRUE,0
+2018,4,de,Zolpidem Tartrate,FALSE,3267
+2018,4,de,Zolpidem Tartrate,TRUE,0
+2018,4,fl,Eszopiclone,FALSE,59
+2018,4,fl,Eszopiclone,TRUE,0
+2018,4,fl,Zaleplon,FALSE,20
+2018,4,fl,Zaleplon,TRUE,0
+2018,4,fl,Zolpidem Tartrate,FALSE,19360
+2018,4,fl,Zolpidem Tartrate,TRUE,0
+2018,4,hi,Eszopiclone,FALSE,18
+2018,4,hi,Eszopiclone,TRUE,0
+2018,4,hi,Zaleplon,TRUE,0
+2018,4,hi,Zolpidem Tartrate,FALSE,2384
+2018,4,hi,Zolpidem Tartrate,TRUE,0
+2018,4,ia,Eszopiclone,FALSE,490
+2018,4,ia,Eszopiclone,TRUE,0
+2018,4,ia,Zaleplon,FALSE,249
+2018,4,ia,Zaleplon,TRUE,0
+2018,4,ia,Zolpidem Tartrate,FALSE,3754
+2018,4,ia,Zolpidem Tartrate,TRUE,0
+2018,4,id,Eszopiclone,FALSE,210
+2018,4,id,Eszopiclone,TRUE,0
+2018,4,id,Zaleplon,FALSE,15
+2018,4,id,Zaleplon,TRUE,0
+2018,4,id,Zolpidem Tartrate,FALSE,3017
+2018,4,id,Zolpidem Tartrate,TRUE,0
+2018,4,il,Eszopiclone,FALSE,260
+2018,4,il,Eszopiclone,TRUE,0
+2018,4,il,Zaleplon,FALSE,264
+2018,4,il,Zaleplon,TRUE,0
+2018,4,il,Zolpidem Tartrate,FALSE,17115
+2018,4,il,Zolpidem Tartrate,TRUE,0
+2018,4,in,Eszopiclone,FALSE,1592
+2018,4,in,Eszopiclone,TRUE,0
+2018,4,in,Zaleplon,FALSE,255
+2018,4,in,Zaleplon,TRUE,0
+2018,4,in,Zolpidem Tartrate,FALSE,10501
+2018,4,in,Zolpidem Tartrate,TRUE,0
+2018,4,ks,Eszopiclone,FALSE,162
+2018,4,ks,Eszopiclone,TRUE,0
+2018,4,ks,Zaleplon,FALSE,16
+2018,4,ks,Zaleplon,TRUE,0
+2018,4,ks,Zolpidem Tartrate,FALSE,3341
+2018,4,ks,Zolpidem Tartrate,TRUE,0
+2018,4,ky,Eszopiclone,FALSE,340
+2018,4,ky,Eszopiclone,TRUE,0
+2018,4,ky,Zaleplon,FALSE,58
+2018,4,ky,Zaleplon,TRUE,0
+2018,4,ky,Zolpidem Tartrate,FALSE,11294
+2018,4,ky,Zolpidem Tartrate,TRUE,0
+2018,4,la,Eszopiclone,FALSE,471
+2018,4,la,Eszopiclone,TRUE,0
+2018,4,la,Zaleplon,FALSE,423
+2018,4,la,Zaleplon,TRUE,0
+2018,4,la,Zolpidem Tartrate,FALSE,23438
+2018,4,la,Zolpidem Tartrate,TRUE,0
+2018,4,ma,Eszopiclone,FALSE,399
+2018,4,ma,Eszopiclone,TRUE,0
+2018,4,ma,Zaleplon,FALSE,287
+2018,4,ma,Zaleplon,TRUE,0
+2018,4,ma,Zolpidem Tartrate,FALSE,17917
+2018,4,ma,Zolpidem Tartrate,TRUE,0
+2018,4,md,Eszopiclone,FALSE,1132
+2018,4,md,Eszopiclone,TRUE,0
+2018,4,md,Zaleplon,FALSE,349
+2018,4,md,Zaleplon,TRUE,0
+2018,4,md,Zolpidem Tartrate,FALSE,15434
+2018,4,md,Zolpidem Tartrate,TRUE,0
+2018,4,me,Eszopiclone,FALSE,52
+2018,4,me,Eszopiclone,TRUE,0
+2018,4,me,Zaleplon,FALSE,27
+2018,4,me,Zaleplon,TRUE,0
+2018,4,me,Zolpidem Tartrate,FALSE,1677
+2018,4,me,Zolpidem Tartrate,TRUE,0
+2018,4,mi,Eszopiclone,FALSE,502
+2018,4,mi,Eszopiclone,TRUE,0
+2018,4,mi,Zaleplon,FALSE,96
+2018,4,mi,Zaleplon,TRUE,0
+2018,4,mi,Zolpidem Tartrate,FALSE,17045
+2018,4,mi,Zolpidem Tartrate,TRUE,0
+2018,4,mn,Eszopiclone,FALSE,1800
+2018,4,mn,Eszopiclone,TRUE,0
+2018,4,mn,Zaleplon,FALSE,806
+2018,4,mn,Zaleplon,TRUE,0
+2018,4,mn,Zolpidem Tartrate,FALSE,12818
+2018,4,mn,Zolpidem Tartrate,TRUE,0
+2018,4,mo,Eszopiclone,FALSE,2172
+2018,4,mo,Eszopiclone,TRUE,0
+2018,4,mo,Zaleplon,FALSE,345
+2018,4,mo,Zaleplon,TRUE,0
+2018,4,mo,Zolpidem Tartrate,FALSE,10110
+2018,4,mo,Zolpidem Tartrate,TRUE,0
+2018,4,ms,Eszopiclone,TRUE,0
+2018,4,ms,Zaleplon,FALSE,17
+2018,4,ms,Zaleplon,TRUE,0
+2018,4,ms,Zolpidem Tartrate,FALSE,1639
+2018,4,ms,Zolpidem Tartrate,TRUE,0
+2018,4,mt,Eszopiclone,FALSE,233
+2018,4,mt,Eszopiclone,TRUE,0
+2018,4,mt,Zaleplon,FALSE,33
+2018,4,mt,Zaleplon,TRUE,0
+2018,4,mt,Zolpidem Tartrate,FALSE,4526
+2018,4,mt,Zolpidem Tartrate,TRUE,0
+2018,4,nc,Eszopiclone,FALSE,487
+2018,4,nc,Eszopiclone,TRUE,0
+2018,4,nc,Zaleplon,FALSE,17
+2018,4,nc,Zaleplon,TRUE,0
+2018,4,nc,Zolpidem Tartrate,FALSE,10084
+2018,4,nc,Zolpidem Tartrate,TRUE,0
+2018,4,nd,Eszopiclone,FALSE,77
+2018,4,nd,Eszopiclone,TRUE,0
+2018,4,nd,Zaleplon,FALSE,14
+2018,4,nd,Zaleplon,TRUE,0
+2018,4,nd,Zolpidem Tartrate,FALSE,1095
+2018,4,nd,Zolpidem Tartrate,TRUE,0
+2018,4,ne,Eszopiclone,FALSE,80
+2018,4,ne,Eszopiclone,TRUE,0
+2018,4,ne,Zaleplon,FALSE,214
+2018,4,ne,Zaleplon,TRUE,0
+2018,4,ne,Zolpidem Tartrate,FALSE,2738
+2018,4,ne,Zolpidem Tartrate,TRUE,0
+2018,4,nh,Eszopiclone,FALSE,71
+2018,4,nh,Eszopiclone,TRUE,0
+2018,4,nh,Zaleplon,FALSE,45
+2018,4,nh,Zaleplon,TRUE,0
+2018,4,nh,Zolpidem Tartrate,FALSE,1289
+2018,4,nh,Zolpidem Tartrate,TRUE,0
+2018,4,nj,Eszopiclone,FALSE,202
+2018,4,nj,Eszopiclone,TRUE,0
+2018,4,nj,Zaleplon,FALSE,780
+2018,4,nj,Zaleplon,TRUE,0
+2018,4,nj,Zolpidem Tartrate,FALSE,23454
+2018,4,nj,Zolpidem Tartrate,TRUE,0
+2018,4,nm,Eszopiclone,FALSE,365
+2018,4,nm,Eszopiclone,TRUE,0
+2018,4,nm,Zaleplon,FALSE,99
+2018,4,nm,Zaleplon,TRUE,0
+2018,4,nm,Zolpidem Tartrate,FALSE,5738
+2018,4,nm,Zolpidem Tartrate,TRUE,0
+2018,4,nv,Eszopiclone,FALSE,84
+2018,4,nv,Eszopiclone,TRUE,0
+2018,4,nv,Zaleplon,FALSE,138
+2018,4,nv,Zaleplon,TRUE,0
+2018,4,nv,Zolpidem Tartrate,FALSE,7238
+2018,4,nv,Zolpidem Tartrate,TRUE,0
+2018,4,ny,Eszopiclone,FALSE,1574
+2018,4,ny,Eszopiclone,TRUE,0
+2018,4,ny,Zaleplon,FALSE,1107
+2018,4,ny,Zaleplon,TRUE,0
+2018,4,ny,Zolpidem Tartrate,FALSE,81791
+2018,4,ny,Zolpidem Tartrate,TRUE,0
+2018,4,oh,Eszopiclone,FALSE,1407
+2018,4,oh,Eszopiclone,TRUE,0
+2018,4,oh,Zaleplon,FALSE,931
+2018,4,oh,Zaleplon,TRUE,0
+2018,4,oh,Zolpidem Tartrate,FALSE,28174
+2018,4,oh,Zolpidem Tartrate,TRUE,0
+2018,4,ok,Eszopiclone,FALSE,637
+2018,4,ok,Eszopiclone,TRUE,0
+2018,4,ok,Zaleplon,FALSE,126
+2018,4,ok,Zaleplon,TRUE,0
+2018,4,ok,Zolpidem Tartrate,FALSE,4285
+2018,4,ok,Zolpidem Tartrate,TRUE,0
+2018,4,or,Eszopiclone,FALSE,45
+2018,4,or,Eszopiclone,TRUE,0
+2018,4,or,Zaleplon,FALSE,112
+2018,4,or,Zaleplon,TRUE,0
+2018,4,or,Zolpidem Tartrate,FALSE,4589
+2018,4,or,Zolpidem Tartrate,TRUE,0
+2018,4,pa,Eszopiclone,FALSE,1046
+2018,4,pa,Eszopiclone,TRUE,0
+2018,4,pa,Zaleplon,FALSE,985
+2018,4,pa,Zaleplon,TRUE,0
+2018,4,pa,Zolpidem Tartrate,FALSE,38840
+2018,4,pa,Zolpidem Tartrate,TRUE,0
+2018,4,ri,Eszopiclone,FALSE,250
+2018,4,ri,Eszopiclone,TRUE,0
+2018,4,ri,Zaleplon,FALSE,133
+2018,4,ri,Zaleplon,TRUE,0
+2018,4,ri,Zolpidem Tartrate,FALSE,4081
+2018,4,ri,Zolpidem Tartrate,TRUE,0
+2018,4,sc,Eszopiclone,FALSE,192
+2018,4,sc,Eszopiclone,TRUE,0
+2018,4,sc,Zaleplon,FALSE,59
+2018,4,sc,Zaleplon,TRUE,0
+2018,4,sc,Zolpidem Tartrate,FALSE,2476
+2018,4,sc,Zolpidem Tartrate,TRUE,0
+2018,4,sd,Eszopiclone,FALSE,68
+2018,4,sd,Eszopiclone,TRUE,0
+2018,4,sd,Zaleplon,TRUE,0
+2018,4,sd,Zolpidem Tartrate,FALSE,632
+2018,4,sd,Zolpidem Tartrate,TRUE,0
+2018,4,tn,Eszopiclone,FALSE,188
+2018,4,tn,Eszopiclone,TRUE,0
+2018,4,tn,Zaleplon,FALSE,13
+2018,4,tn,Zaleplon,TRUE,0
+2018,4,tn,Zolpidem Tartrate,FALSE,1974
+2018,4,tn,Zolpidem Tartrate,TRUE,0
+2018,4,tx,Eszopiclone,FALSE,1193
+2018,4,tx,Eszopiclone,TRUE,0
+2018,4,tx,Zaleplon,FALSE,145
+2018,4,tx,Zaleplon,TRUE,0
+2018,4,tx,Zolpidem Tartrate,FALSE,22864
+2018,4,tx,Zolpidem Tartrate,TRUE,0
+2018,4,ut,Eszopiclone,FALSE,221
+2018,4,ut,Eszopiclone,TRUE,0
+2018,4,ut,Zaleplon,FALSE,80
+2018,4,ut,Zaleplon,TRUE,0
+2018,4,ut,Zolpidem Tartrate,FALSE,3712
+2018,4,ut,Zolpidem Tartrate,TRUE,0
+2018,4,va,Eszopiclone,FALSE,358
+2018,4,va,Eszopiclone,TRUE,0
+2018,4,va,Zaleplon,FALSE,33
+2018,4,va,Zaleplon,TRUE,0
+2018,4,va,Zolpidem Tartrate,FALSE,7612
+2018,4,va,Zolpidem Tartrate,TRUE,0
+2018,4,vt,Eszopiclone,FALSE,102
+2018,4,vt,Eszopiclone,TRUE,0
+2018,4,vt,Zaleplon,FALSE,56
+2018,4,vt,Zaleplon,TRUE,0
+2018,4,vt,Zolpidem Tartrate,FALSE,1779
+2018,4,vt,Zolpidem Tartrate,TRUE,0
+2018,4,wa,Eszopiclone,FALSE,478
+2018,4,wa,Eszopiclone,TRUE,0
+2018,4,wa,Zaleplon,FALSE,645
+2018,4,wa,Zaleplon,TRUE,0
+2018,4,wa,Zolpidem Tartrate,FALSE,13660
+2018,4,wa,Zolpidem Tartrate,TRUE,0
+2018,4,wi,Eszopiclone,FALSE,1143
+2018,4,wi,Eszopiclone,TRUE,0
+2018,4,wi,Zaleplon,FALSE,634
+2018,4,wi,Zolpidem Tartrate,FALSE,15372
+2018,4,wi,Zolpidem Tartrate,TRUE,0
+2018,4,wv,Eszopiclone,FALSE,14
+2018,4,wv,Eszopiclone,TRUE,0
+2018,4,wv,Zaleplon,TRUE,0
+2018,4,wv,Zolpidem Tartrate,FALSE,3991
+2018,4,wv,Zolpidem Tartrate,TRUE,0
+2018,4,wy,Eszopiclone,TRUE,0
+2018,4,wy,Zaleplon,TRUE,0
+2018,4,wy,Zolpidem Tartrate,FALSE,375
+2018,4,wy,Zolpidem Tartrate,TRUE,0
+2019,1,ak,Eszopiclone,FALSE,220
+2019,1,ak,Eszopiclone,TRUE,0
+2019,1,ak,Zaleplon,FALSE,45
+2019,1,ak,Zaleplon,TRUE,0
+2019,1,ak,Zolpidem Tartrate,FALSE,1926
+2019,1,ak,Zolpidem Tartrate,TRUE,0
+2019,1,al,Eszopiclone,FALSE,455
+2019,1,al,Eszopiclone,TRUE,0
+2019,1,al,Zaleplon,FALSE,29
+2019,1,al,Zaleplon,TRUE,0
+2019,1,al,Zolpidem Tartrate,FALSE,2941
+2019,1,al,Zolpidem Tartrate,TRUE,0
+2019,1,ar,Eszopiclone,TRUE,0
+2019,1,ar,Zaleplon,FALSE,408
+2019,1,ar,Zaleplon,TRUE,0
+2019,1,ar,Zolpidem Tartrate,FALSE,5732
+2019,1,ar,Zolpidem Tartrate,TRUE,0
+2019,1,az,Eszopiclone,FALSE,909
+2019,1,az,Eszopiclone,TRUE,0
+2019,1,az,Zaleplon,FALSE,233
+2019,1,az,Zaleplon,TRUE,0
+2019,1,az,Zolpidem Tartrate,FALSE,12821
+2019,1,az,Zolpidem Tartrate,TRUE,0
+2019,1,ca,Eszopiclone,FALSE,2718
+2019,1,ca,Eszopiclone,TRUE,0
+2019,1,ca,Zaleplon,FALSE,791
+2019,1,ca,Zaleplon,TRUE,0
+2019,1,ca,Zolpidem Tartrate,FALSE,62402
+2019,1,ca,Zolpidem Tartrate,TRUE,0
+2019,1,co,Eszopiclone,FALSE,2257
+2019,1,co,Eszopiclone,TRUE,0
+2019,1,co,Zaleplon,FALSE,362
+2019,1,co,Zaleplon,TRUE,0
+2019,1,co,Zolpidem Tartrate,FALSE,10162
+2019,1,co,Zolpidem Tartrate,TRUE,0
+2019,1,ct,Eszopiclone,FALSE,932
+2019,1,ct,Eszopiclone,TRUE,0
+2019,1,ct,Zaleplon,FALSE,56
+2019,1,ct,Zaleplon,TRUE,0
+2019,1,ct,Zolpidem Tartrate,FALSE,13202
+2019,1,ct,Zolpidem Tartrate,TRUE,0
+2019,1,dc,Eszopiclone,TRUE,0
+2019,1,dc,Zaleplon,TRUE,0
+2019,1,dc,Zolpidem Tartrate,FALSE,1598
+2019,1,dc,Zolpidem Tartrate,TRUE,0
+2019,1,de,Eszopiclone,FALSE,117
+2019,1,de,Eszopiclone,TRUE,0
+2019,1,de,Zaleplon,FALSE,54
+2019,1,de,Zaleplon,TRUE,0
+2019,1,de,Zolpidem Tartrate,FALSE,3158
+2019,1,de,Zolpidem Tartrate,TRUE,0
+2019,1,fl,Eszopiclone,FALSE,139
+2019,1,fl,Eszopiclone,TRUE,0
+2019,1,fl,Zaleplon,FALSE,57
+2019,1,fl,Zaleplon,TRUE,0
+2019,1,fl,Zolpidem Tartrate,FALSE,15520
+2019,1,fl,Zolpidem Tartrate,TRUE,0
+2019,1,ga,Zolpidem Tartrate,TRUE,0
+2019,1,hi,Eszopiclone,FALSE,12
+2019,1,hi,Eszopiclone,TRUE,0
+2019,1,hi,Zaleplon,TRUE,0
+2019,1,hi,Zolpidem Tartrate,FALSE,2518
+2019,1,hi,Zolpidem Tartrate,TRUE,0
+2019,1,ia,Eszopiclone,FALSE,520
+2019,1,ia,Eszopiclone,TRUE,0
+2019,1,ia,Zaleplon,FALSE,241
+2019,1,ia,Zaleplon,TRUE,0
+2019,1,ia,Zolpidem Tartrate,FALSE,3713
+2019,1,ia,Zolpidem Tartrate,TRUE,0
+2019,1,id,Eszopiclone,FALSE,195
+2019,1,id,Eszopiclone,TRUE,0
+2019,1,id,Zaleplon,FALSE,15
+2019,1,id,Zaleplon,TRUE,0
+2019,1,id,Zolpidem Tartrate,FALSE,2525
+2019,1,id,Zolpidem Tartrate,TRUE,0
+2019,1,il,Eszopiclone,FALSE,268
+2019,1,il,Eszopiclone,TRUE,0
+2019,1,il,Zaleplon,FALSE,290
+2019,1,il,Zaleplon,TRUE,0
+2019,1,il,Zolpidem Tartrate,FALSE,16732
+2019,1,il,Zolpidem Tartrate,TRUE,0
+2019,1,in,Eszopiclone,FALSE,1592
+2019,1,in,Eszopiclone,TRUE,0
+2019,1,in,Zaleplon,FALSE,289
+2019,1,in,Zaleplon,TRUE,0
+2019,1,in,Zolpidem Tartrate,FALSE,10184
+2019,1,in,Zolpidem Tartrate,TRUE,0
+2019,1,ks,Eszopiclone,FALSE,178
+2019,1,ks,Eszopiclone,TRUE,0
+2019,1,ks,Zaleplon,FALSE,13
+2019,1,ks,Zaleplon,TRUE,0
+2019,1,ks,Zolpidem Tartrate,FALSE,3162
+2019,1,ks,Zolpidem Tartrate,TRUE,0
+2019,1,ky,Eszopiclone,FALSE,309
+2019,1,ky,Eszopiclone,TRUE,0
+2019,1,ky,Zaleplon,FALSE,42
+2019,1,ky,Zaleplon,TRUE,0
+2019,1,ky,Zolpidem Tartrate,FALSE,10678
+2019,1,ky,Zolpidem Tartrate,TRUE,0
+2019,1,la,Eszopiclone,FALSE,500
+2019,1,la,Eszopiclone,TRUE,0
+2019,1,la,Zaleplon,FALSE,375
+2019,1,la,Zaleplon,TRUE,0
+2019,1,la,Zolpidem Tartrate,FALSE,23245
+2019,1,la,Zolpidem Tartrate,TRUE,0
+2019,1,ma,Eszopiclone,FALSE,415
+2019,1,ma,Eszopiclone,TRUE,0
+2019,1,ma,Zaleplon,FALSE,255
+2019,1,ma,Zaleplon,TRUE,0
+2019,1,ma,Zolpidem Tartrate,FALSE,16361
+2019,1,ma,Zolpidem Tartrate,TRUE,0
+2019,1,md,Eszopiclone,FALSE,1138
+2019,1,md,Eszopiclone,TRUE,0
+2019,1,md,Zaleplon,FALSE,325
+2019,1,md,Zaleplon,TRUE,0
+2019,1,md,Zolpidem Tartrate,FALSE,15607
+2019,1,md,Zolpidem Tartrate,TRUE,0
+2019,1,me,Eszopiclone,FALSE,34
+2019,1,me,Eszopiclone,TRUE,0
+2019,1,me,Zaleplon,FALSE,27
+2019,1,me,Zaleplon,TRUE,0
+2019,1,me,Zolpidem Tartrate,FALSE,1629
+2019,1,me,Zolpidem Tartrate,TRUE,0
+2019,1,mi,Eszopiclone,FALSE,517
+2019,1,mi,Eszopiclone,TRUE,0
+2019,1,mi,Zaleplon,FALSE,109
+2019,1,mi,Zaleplon,TRUE,0
+2019,1,mi,Zolpidem Tartrate,FALSE,16759
+2019,1,mi,Zolpidem Tartrate,TRUE,0
+2019,1,mn,Eszopiclone,FALSE,1794
+2019,1,mn,Eszopiclone,TRUE,0
+2019,1,mn,Zaleplon,FALSE,752
+2019,1,mn,Zaleplon,TRUE,0
+2019,1,mn,Zolpidem Tartrate,FALSE,11837
+2019,1,mn,Zolpidem Tartrate,TRUE,0
+2019,1,mo,Eszopiclone,FALSE,2066
+2019,1,mo,Eszopiclone,TRUE,0
+2019,1,mo,Zaleplon,FALSE,314
+2019,1,mo,Zaleplon,TRUE,0
+2019,1,mo,Zolpidem Tartrate,FALSE,9753
+2019,1,mo,Zolpidem Tartrate,TRUE,0
+2019,1,ms,Eszopiclone,TRUE,0
+2019,1,ms,Zaleplon,FALSE,19
+2019,1,ms,Zaleplon,TRUE,0
+2019,1,ms,Zolpidem Tartrate,FALSE,1624
+2019,1,ms,Zolpidem Tartrate,TRUE,0
+2019,1,mt,Eszopiclone,FALSE,194
+2019,1,mt,Eszopiclone,TRUE,0
+2019,1,mt,Zaleplon,FALSE,32
+2019,1,mt,Zaleplon,TRUE,0
+2019,1,mt,Zolpidem Tartrate,FALSE,4029
+2019,1,mt,Zolpidem Tartrate,TRUE,0
+2019,1,nc,Eszopiclone,FALSE,592
+2019,1,nc,Eszopiclone,TRUE,0
+2019,1,nc,Zaleplon,FALSE,48
+2019,1,nc,Zaleplon,TRUE,0
+2019,1,nc,Zolpidem Tartrate,FALSE,11383
+2019,1,nc,Zolpidem Tartrate,TRUE,0
+2019,1,nd,Eszopiclone,FALSE,67
+2019,1,nd,Eszopiclone,TRUE,0
+2019,1,nd,Zaleplon,TRUE,0
+2019,1,nd,Zolpidem Tartrate,FALSE,970
+2019,1,nd,Zolpidem Tartrate,TRUE,0
+2019,1,ne,Eszopiclone,FALSE,45
+2019,1,ne,Eszopiclone,TRUE,0
+2019,1,ne,Zaleplon,FALSE,167
+2019,1,ne,Zaleplon,TRUE,0
+2019,1,ne,Zolpidem Tartrate,FALSE,2255
+2019,1,ne,Zolpidem Tartrate,TRUE,0
+2019,1,nh,Eszopiclone,FALSE,140
+2019,1,nh,Eszopiclone,TRUE,0
+2019,1,nh,Zaleplon,FALSE,92
+2019,1,nh,Zaleplon,TRUE,0
+2019,1,nh,Zolpidem Tartrate,FALSE,1966
+2019,1,nh,Zolpidem Tartrate,TRUE,0
+2019,1,nj,Eszopiclone,FALSE,199
+2019,1,nj,Eszopiclone,TRUE,0
+2019,1,nj,Zaleplon,FALSE,694
+2019,1,nj,Zaleplon,TRUE,0
+2019,1,nj,Zolpidem Tartrate,FALSE,22528
+2019,1,nj,Zolpidem Tartrate,TRUE,0
+2019,1,nm,Eszopiclone,FALSE,415
+2019,1,nm,Eszopiclone,TRUE,0
+2019,1,nm,Zaleplon,FALSE,107
+2019,1,nm,Zaleplon,TRUE,0
+2019,1,nm,Zolpidem Tartrate,FALSE,5870
+2019,1,nm,Zolpidem Tartrate,TRUE,0
+2019,1,nv,Eszopiclone,FALSE,39
+2019,1,nv,Eszopiclone,TRUE,0
+2019,1,nv,Zaleplon,FALSE,132
+2019,1,nv,Zaleplon,TRUE,0
+2019,1,nv,Zolpidem Tartrate,FALSE,6960
+2019,1,nv,Zolpidem Tartrate,TRUE,0
+2019,1,ny,Eszopiclone,FALSE,1636
+2019,1,ny,Eszopiclone,TRUE,0
+2019,1,ny,Zaleplon,FALSE,1107
+2019,1,ny,Zaleplon,TRUE,0
+2019,1,ny,Zolpidem Tartrate,FALSE,82652
+2019,1,ny,Zolpidem Tartrate,TRUE,0
+2019,1,oh,Eszopiclone,FALSE,1542
+2019,1,oh,Eszopiclone,TRUE,0
+2019,1,oh,Zaleplon,FALSE,898
+2019,1,oh,Zaleplon,TRUE,0
+2019,1,oh,Zolpidem Tartrate,FALSE,26987
+2019,1,oh,Zolpidem Tartrate,TRUE,0
+2019,1,ok,Eszopiclone,FALSE,638
+2019,1,ok,Eszopiclone,TRUE,0
+2019,1,ok,Zaleplon,FALSE,118
+2019,1,ok,Zaleplon,TRUE,0
+2019,1,ok,Zolpidem Tartrate,FALSE,4012
+2019,1,ok,Zolpidem Tartrate,TRUE,0
+2019,1,or,Eszopiclone,FALSE,30
+2019,1,or,Eszopiclone,TRUE,0
+2019,1,or,Zaleplon,FALSE,125
+2019,1,or,Zaleplon,TRUE,0
+2019,1,or,Zolpidem Tartrate,FALSE,4335
+2019,1,or,Zolpidem Tartrate,TRUE,0
+2019,1,pa,Eszopiclone,FALSE,1053
+2019,1,pa,Eszopiclone,TRUE,0
+2019,1,pa,Zaleplon,FALSE,1175
+2019,1,pa,Zaleplon,TRUE,0
+2019,1,pa,Zolpidem Tartrate,FALSE,35546
+2019,1,pa,Zolpidem Tartrate,TRUE,0
+2019,1,ri,Eszopiclone,FALSE,194
+2019,1,ri,Eszopiclone,TRUE,0
+2019,1,ri,Zaleplon,FALSE,147
+2019,1,ri,Zaleplon,TRUE,0
+2019,1,ri,Zolpidem Tartrate,FALSE,3865
+2019,1,ri,Zolpidem Tartrate,TRUE,0
+2019,1,sc,Eszopiclone,FALSE,195
+2019,1,sc,Eszopiclone,TRUE,0
+2019,1,sc,Zaleplon,FALSE,75
+2019,1,sc,Zaleplon,TRUE,0
+2019,1,sc,Zolpidem Tartrate,FALSE,1726
+2019,1,sc,Zolpidem Tartrate,TRUE,0
+2019,1,sd,Eszopiclone,FALSE,83
+2019,1,sd,Eszopiclone,TRUE,0
+2019,1,sd,Zaleplon,TRUE,0
+2019,1,sd,Zolpidem Tartrate,FALSE,620
+2019,1,sd,Zolpidem Tartrate,TRUE,0
+2019,1,tn,Eszopiclone,FALSE,220
+2019,1,tn,Eszopiclone,TRUE,0
+2019,1,tn,Zaleplon,FALSE,13
+2019,1,tn,Zaleplon,TRUE,0
+2019,1,tn,Zolpidem Tartrate,FALSE,1812
+2019,1,tn,Zolpidem Tartrate,TRUE,0
+2019,1,tx,Eszopiclone,FALSE,1200
+2019,1,tx,Eszopiclone,TRUE,0
+2019,1,tx,Zaleplon,FALSE,142
+2019,1,tx,Zaleplon,TRUE,0
+2019,1,tx,Zolpidem Tartrate,FALSE,22050
+2019,1,tx,Zolpidem Tartrate,TRUE,0
+2019,1,ut,Eszopiclone,FALSE,209
+2019,1,ut,Eszopiclone,TRUE,0
+2019,1,ut,Zaleplon,FALSE,48
+2019,1,ut,Zaleplon,TRUE,0
+2019,1,ut,Zolpidem Tartrate,FALSE,3608
+2019,1,ut,Zolpidem Tartrate,TRUE,0
+2019,1,va,Eszopiclone,FALSE,631
+2019,1,va,Eszopiclone,TRUE,0
+2019,1,va,Zaleplon,FALSE,96
+2019,1,va,Zaleplon,TRUE,0
+2019,1,va,Zolpidem Tartrate,FALSE,9690
+2019,1,va,Zolpidem Tartrate,TRUE,0
+2019,1,vt,Eszopiclone,FALSE,120
+2019,1,vt,Eszopiclone,TRUE,0
+2019,1,vt,Zaleplon,FALSE,52
+2019,1,vt,Zaleplon,TRUE,0
+2019,1,vt,Zolpidem Tartrate,FALSE,1683
+2019,1,vt,Zolpidem Tartrate,TRUE,0
+2019,1,wa,Eszopiclone,FALSE,464
+2019,1,wa,Eszopiclone,TRUE,0
+2019,1,wa,Zaleplon,FALSE,421
+2019,1,wa,Zaleplon,TRUE,0
+2019,1,wa,Zolpidem Tartrate,FALSE,13066
+2019,1,wa,Zolpidem Tartrate,TRUE,0
+2019,1,wi,Eszopiclone,FALSE,1290
+2019,1,wi,Eszopiclone,TRUE,0
+2019,1,wi,Zaleplon,FALSE,626
+2019,1,wi,Zaleplon,TRUE,0
+2019,1,wi,Zolpidem Tartrate,FALSE,15330
+2019,1,wi,Zolpidem Tartrate,TRUE,0
+2019,1,wv,Eszopiclone,FALSE,19
+2019,1,wv,Eszopiclone,TRUE,0
+2019,1,wv,Zaleplon,TRUE,0
+2019,1,wv,Zolpidem Tartrate,FALSE,3771
+2019,1,wv,Zolpidem Tartrate,TRUE,0
+2019,1,wy,Eszopiclone,TRUE,0
+2019,1,wy,Zaleplon,TRUE,0
+2019,1,wy,Zolpidem Tartrate,FALSE,333
+2019,1,wy,Zolpidem Tartrate,TRUE,0
+2019,2,ak,Eszopiclone,FALSE,217
+2019,2,ak,Eszopiclone,TRUE,0
+2019,2,ak,Zaleplon,FALSE,39
+2019,2,ak,Zaleplon,TRUE,0
+2019,2,ak,Zolpidem Tartrate,FALSE,1800
+2019,2,ak,Zolpidem Tartrate,TRUE,0
+2019,2,al,Eszopiclone,FALSE,471
+2019,2,al,Eszopiclone,TRUE,0
+2019,2,al,Zaleplon,FALSE,12
+2019,2,al,Zaleplon,TRUE,0
+2019,2,al,Zolpidem Tartrate,FALSE,2781
+2019,2,al,Zolpidem Tartrate,TRUE,0
+2019,2,ar,Eszopiclone,TRUE,0
+2019,2,ar,Zaleplon,FALSE,421
+2019,2,ar,Zaleplon,TRUE,0
+2019,2,ar,Zolpidem Tartrate,FALSE,5656
+2019,2,ar,Zolpidem Tartrate,TRUE,0
+2019,2,az,Eszopiclone,FALSE,915
+2019,2,az,Eszopiclone,TRUE,0
+2019,2,az,Zaleplon,FALSE,197
+2019,2,az,Zaleplon,TRUE,0
+2019,2,az,Zolpidem Tartrate,FALSE,12199
+2019,2,az,Zolpidem Tartrate,TRUE,0
+2019,2,ca,Eszopiclone,FALSE,2851
+2019,2,ca,Eszopiclone,TRUE,0
+2019,2,ca,Zaleplon,FALSE,717
+2019,2,ca,Zaleplon,TRUE,0
+2019,2,ca,Zolpidem Tartrate,FALSE,60388
+2019,2,ca,Zolpidem Tartrate,TRUE,0
+2019,2,co,Eszopiclone,FALSE,2327
+2019,2,co,Eszopiclone,TRUE,0
+2019,2,co,Zaleplon,FALSE,317
+2019,2,co,Zaleplon,TRUE,0
+2019,2,co,Zolpidem Tartrate,FALSE,10414
+2019,2,co,Zolpidem Tartrate,TRUE,0
+2019,2,ct,Eszopiclone,FALSE,927
+2019,2,ct,Eszopiclone,TRUE,0
+2019,2,ct,Zaleplon,FALSE,53
+2019,2,ct,Zaleplon,TRUE,0
+2019,2,ct,Zolpidem Tartrate,FALSE,12767
+2019,2,ct,Zolpidem Tartrate,TRUE,0
+2019,2,dc,Eszopiclone,TRUE,0
+2019,2,dc,Zaleplon,TRUE,0
+2019,2,dc,Zolpidem Tartrate,FALSE,1529
+2019,2,dc,Zolpidem Tartrate,TRUE,0
+2019,2,de,Eszopiclone,FALSE,120
+2019,2,de,Eszopiclone,TRUE,0
+2019,2,de,Zaleplon,FALSE,62
+2019,2,de,Zaleplon,TRUE,0
+2019,2,de,Zolpidem Tartrate,FALSE,3209
+2019,2,de,Zolpidem Tartrate,TRUE,0
+2019,2,fl,Eszopiclone,FALSE,90
+2019,2,fl,Eszopiclone,TRUE,0
+2019,2,fl,Zaleplon,FALSE,140
+2019,2,fl,Zaleplon,TRUE,0
+2019,2,fl,Zolpidem Tartrate,FALSE,15235
+2019,2,fl,Zolpidem Tartrate,TRUE,0
+2019,2,ga,Eszopiclone,TRUE,0
+2019,2,ga,Zaleplon,TRUE,0
+2019,2,ga,Zolpidem Tartrate,FALSE,785
+2019,2,ga,Zolpidem Tartrate,TRUE,0
+2019,2,hi,Eszopiclone,TRUE,0
+2019,2,hi,Zolpidem Tartrate,FALSE,2303
+2019,2,hi,Zolpidem Tartrate,TRUE,0
+2019,2,ia,Eszopiclone,FALSE,525
+2019,2,ia,Eszopiclone,TRUE,0
+2019,2,ia,Zaleplon,FALSE,257
+2019,2,ia,Zaleplon,TRUE,0
+2019,2,ia,Zolpidem Tartrate,FALSE,3584
+2019,2,ia,Zolpidem Tartrate,TRUE,0
+2019,2,id,Eszopiclone,FALSE,194
+2019,2,id,Eszopiclone,TRUE,0
+2019,2,id,Zaleplon,FALSE,15
+2019,2,id,Zaleplon,TRUE,0
+2019,2,id,Zolpidem Tartrate,FALSE,2718
+2019,2,id,Zolpidem Tartrate,TRUE,0
+2019,2,il,Eszopiclone,FALSE,281
+2019,2,il,Eszopiclone,TRUE,0
+2019,2,il,Zaleplon,FALSE,279
+2019,2,il,Zaleplon,TRUE,0
+2019,2,il,Zolpidem Tartrate,FALSE,16663
+2019,2,il,Zolpidem Tartrate,TRUE,0
+2019,2,in,Eszopiclone,FALSE,1511
+2019,2,in,Eszopiclone,TRUE,0
+2019,2,in,Zaleplon,FALSE,261
+2019,2,in,Zaleplon,TRUE,0
+2019,2,in,Zolpidem Tartrate,FALSE,10131
+2019,2,in,Zolpidem Tartrate,TRUE,0
+2019,2,ks,Eszopiclone,FALSE,175
+2019,2,ks,Eszopiclone,TRUE,0
+2019,2,ks,Zaleplon,FALSE,18
+2019,2,ks,Zaleplon,TRUE,0
+2019,2,ks,Zolpidem Tartrate,FALSE,3096
+2019,2,ks,Zolpidem Tartrate,TRUE,0
+2019,2,ky,Eszopiclone,FALSE,326
+2019,2,ky,Eszopiclone,TRUE,0
+2019,2,ky,Zaleplon,FALSE,41
+2019,2,ky,Zaleplon,TRUE,0
+2019,2,ky,Zolpidem Tartrate,FALSE,10051
+2019,2,ky,Zolpidem Tartrate,TRUE,0
+2019,2,la,Eszopiclone,FALSE,493
+2019,2,la,Eszopiclone,TRUE,0
+2019,2,la,Zaleplon,FALSE,202
+2019,2,la,Zaleplon,TRUE,0
+2019,2,la,Zolpidem Tartrate,FALSE,21815
+2019,2,la,Zolpidem Tartrate,TRUE,0
+2019,2,ma,Eszopiclone,FALSE,454
+2019,2,ma,Eszopiclone,TRUE,0
+2019,2,ma,Zaleplon,FALSE,316
+2019,2,ma,Zaleplon,TRUE,0
+2019,2,ma,Zolpidem Tartrate,FALSE,17994
+2019,2,ma,Zolpidem Tartrate,TRUE,0
+2019,2,md,Eszopiclone,FALSE,1041
+2019,2,md,Eszopiclone,TRUE,0
+2019,2,md,Zaleplon,FALSE,337
+2019,2,md,Zaleplon,TRUE,0
+2019,2,md,Zolpidem Tartrate,FALSE,14766
+2019,2,md,Zolpidem Tartrate,TRUE,0
+2019,2,me,Eszopiclone,FALSE,84
+2019,2,me,Eszopiclone,TRUE,0
+2019,2,me,Zaleplon,FALSE,18
+2019,2,me,Zaleplon,TRUE,0
+2019,2,me,Zolpidem Tartrate,FALSE,1838
+2019,2,me,Zolpidem Tartrate,TRUE,0
+2019,2,mi,Eszopiclone,FALSE,483
+2019,2,mi,Eszopiclone,TRUE,0
+2019,2,mi,Zaleplon,FALSE,95
+2019,2,mi,Zaleplon,TRUE,0
+2019,2,mi,Zolpidem Tartrate,FALSE,15393
+2019,2,mi,Zolpidem Tartrate,TRUE,0
+2019,2,mn,Eszopiclone,FALSE,1883
+2019,2,mn,Eszopiclone,TRUE,0
+2019,2,mn,Zaleplon,FALSE,733
+2019,2,mn,Zaleplon,TRUE,0
+2019,2,mn,Zolpidem Tartrate,FALSE,12055
+2019,2,mn,Zolpidem Tartrate,TRUE,0
+2019,2,mo,Eszopiclone,FALSE,1956
+2019,2,mo,Eszopiclone,TRUE,0
+2019,2,mo,Zaleplon,FALSE,340
+2019,2,mo,Zaleplon,TRUE,0
+2019,2,mo,Zolpidem Tartrate,FALSE,9270
+2019,2,mo,Zolpidem Tartrate,TRUE,0
+2019,2,ms,Eszopiclone,TRUE,0
+2019,2,ms,Zaleplon,FALSE,14
+2019,2,ms,Zaleplon,TRUE,0
+2019,2,ms,Zolpidem Tartrate,FALSE,1508
+2019,2,ms,Zolpidem Tartrate,TRUE,0
+2019,2,mt,Eszopiclone,FALSE,185
+2019,2,mt,Eszopiclone,TRUE,0
+2019,2,mt,Zaleplon,FALSE,17
+2019,2,mt,Zaleplon,TRUE,0
+2019,2,mt,Zolpidem Tartrate,FALSE,3866
+2019,2,mt,Zolpidem Tartrate,TRUE,0
+2019,2,nc,Eszopiclone,FALSE,438
+2019,2,nc,Eszopiclone,TRUE,0
+2019,2,nc,Zaleplon,FALSE,16
+2019,2,nc,Zaleplon,TRUE,0
+2019,2,nc,Zolpidem Tartrate,FALSE,9134
+2019,2,nc,Zolpidem Tartrate,TRUE,0
+2019,2,nd,Eszopiclone,FALSE,50
+2019,2,nd,Eszopiclone,TRUE,0
+2019,2,nd,Zaleplon,TRUE,0
+2019,2,nd,Zolpidem Tartrate,FALSE,811
+2019,2,nd,Zolpidem Tartrate,TRUE,0
+2019,2,ne,Eszopiclone,FALSE,47
+2019,2,ne,Eszopiclone,TRUE,0
+2019,2,ne,Zaleplon,FALSE,140
+2019,2,ne,Zaleplon,TRUE,0
+2019,2,ne,Zolpidem Tartrate,FALSE,2134
+2019,2,ne,Zolpidem Tartrate,TRUE,0
+2019,2,nh,Eszopiclone,FALSE,132
+2019,2,nh,Eszopiclone,TRUE,0
+2019,2,nh,Zaleplon,FALSE,81
+2019,2,nh,Zaleplon,TRUE,0
+2019,2,nh,Zolpidem Tartrate,FALSE,1897
+2019,2,nh,Zolpidem Tartrate,TRUE,0
+2019,2,nj,Eszopiclone,FALSE,205
+2019,2,nj,Eszopiclone,TRUE,0
+2019,2,nj,Zaleplon,FALSE,722
+2019,2,nj,Zaleplon,TRUE,0
+2019,2,nj,Zolpidem Tartrate,FALSE,22488
+2019,2,nj,Zolpidem Tartrate,TRUE,0
+2019,2,nm,Eszopiclone,FALSE,54
+2019,2,nm,Eszopiclone,TRUE,0
+2019,2,nm,Zaleplon,TRUE,0
+2019,2,nm,Zolpidem Tartrate,FALSE,4563
+2019,2,nm,Zolpidem Tartrate,TRUE,0
+2019,2,nv,Eszopiclone,FALSE,43
+2019,2,nv,Eszopiclone,TRUE,0
+2019,2,nv,Zaleplon,FALSE,101
+2019,2,nv,Zaleplon,TRUE,0
+2019,2,nv,Zolpidem Tartrate,FALSE,6243
+2019,2,nv,Zolpidem Tartrate,TRUE,0
+2019,2,ny,Eszopiclone,FALSE,1620
+2019,2,ny,Eszopiclone,TRUE,0
+2019,2,ny,Zaleplon,FALSE,990
+2019,2,ny,Zaleplon,TRUE,0
+2019,2,ny,Zolpidem Tartrate,FALSE,76655
+2019,2,ny,Zolpidem Tartrate,TRUE,0
+2019,2,oh,Eszopiclone,FALSE,1354
+2019,2,oh,Eszopiclone,TRUE,0
+2019,2,oh,Zaleplon,FALSE,738
+2019,2,oh,Zaleplon,TRUE,0
+2019,2,oh,Zolpidem Tartrate,FALSE,26061
+2019,2,oh,Zolpidem Tartrate,TRUE,0
+2019,2,ok,Eszopiclone,FALSE,588
+2019,2,ok,Eszopiclone,TRUE,0
+2019,2,ok,Zaleplon,FALSE,126
+2019,2,ok,Zaleplon,TRUE,0
+2019,2,ok,Zolpidem Tartrate,FALSE,3973
+2019,2,ok,Zolpidem Tartrate,TRUE,0
+2019,2,or,Eszopiclone,FALSE,26
+2019,2,or,Eszopiclone,TRUE,0
+2019,2,or,Zaleplon,FALSE,121
+2019,2,or,Zaleplon,TRUE,0
+2019,2,or,Zolpidem Tartrate,FALSE,4113
+2019,2,or,Zolpidem Tartrate,TRUE,0
+2019,2,pa,Eszopiclone,FALSE,1103
+2019,2,pa,Eszopiclone,TRUE,0
+2019,2,pa,Zaleplon,FALSE,1148
+2019,2,pa,Zaleplon,TRUE,0
+2019,2,pa,Zolpidem Tartrate,FALSE,33009
+2019,2,pa,Zolpidem Tartrate,TRUE,0
+2019,2,ri,Eszopiclone,FALSE,215
+2019,2,ri,Eszopiclone,TRUE,0
+2019,2,ri,Zaleplon,FALSE,107
+2019,2,ri,Zaleplon,TRUE,0
+2019,2,ri,Zolpidem Tartrate,FALSE,3873
+2019,2,ri,Zolpidem Tartrate,TRUE,0
+2019,2,sc,Eszopiclone,FALSE,172
+2019,2,sc,Eszopiclone,TRUE,0
+2019,2,sc,Zaleplon,FALSE,46
+2019,2,sc,Zaleplon,TRUE,0
+2019,2,sc,Zolpidem Tartrate,FALSE,1363
+2019,2,sc,Zolpidem Tartrate,TRUE,0
+2019,2,sd,Eszopiclone,FALSE,74
+2019,2,sd,Eszopiclone,TRUE,0
+2019,2,sd,Zaleplon,TRUE,0
+2019,2,sd,Zolpidem Tartrate,FALSE,503
+2019,2,sd,Zolpidem Tartrate,TRUE,0
+2019,2,tn,Eszopiclone,FALSE,160
+2019,2,tn,Eszopiclone,TRUE,0
+2019,2,tn,Zaleplon,FALSE,18
+2019,2,tn,Zaleplon,TRUE,0
+2019,2,tn,Zolpidem Tartrate,FALSE,1663
+2019,2,tn,Zolpidem Tartrate,TRUE,0
+2019,2,tx,Eszopiclone,FALSE,1184
+2019,2,tx,Eszopiclone,TRUE,0
+2019,2,tx,Zaleplon,FALSE,126
+2019,2,tx,Zaleplon,TRUE,0
+2019,2,tx,Zolpidem Tartrate,FALSE,21404
+2019,2,tx,Zolpidem Tartrate,TRUE,0
+2019,2,ut,Eszopiclone,FALSE,239
+2019,2,ut,Eszopiclone,TRUE,0
+2019,2,ut,Zaleplon,FALSE,102
+2019,2,ut,Zaleplon,TRUE,0
+2019,2,ut,Zolpidem Tartrate,FALSE,3967
+2019,2,ut,Zolpidem Tartrate,TRUE,0
+2019,2,va,Eszopiclone,FALSE,792
+2019,2,va,Eszopiclone,TRUE,0
+2019,2,va,Zaleplon,FALSE,94
+2019,2,va,Zaleplon,TRUE,0
+2019,2,va,Zolpidem Tartrate,FALSE,10364
+2019,2,va,Zolpidem Tartrate,TRUE,0
+2019,2,vt,Eszopiclone,FALSE,127
+2019,2,vt,Eszopiclone,TRUE,0
+2019,2,vt,Zaleplon,FALSE,65
+2019,2,vt,Zaleplon,TRUE,0
+2019,2,vt,Zolpidem Tartrate,FALSE,1637
+2019,2,vt,Zolpidem Tartrate,TRUE,0
+2019,2,wa,Eszopiclone,FALSE,539
+2019,2,wa,Eszopiclone,TRUE,0
+2019,2,wa,Zaleplon,FALSE,393
+2019,2,wa,Zaleplon,TRUE,0
+2019,2,wa,Zolpidem Tartrate,FALSE,12536
+2019,2,wa,Zolpidem Tartrate,TRUE,0
+2019,2,wi,Eszopiclone,FALSE,1274
+2019,2,wi,Eszopiclone,TRUE,0
+2019,2,wi,Zaleplon,FALSE,561
+2019,2,wi,Zaleplon,TRUE,0
+2019,2,wi,Zolpidem Tartrate,FALSE,14634
+2019,2,wi,Zolpidem Tartrate,TRUE,0
+2019,2,wv,Eszopiclone,FALSE,30
+2019,2,wv,Eszopiclone,TRUE,0
+2019,2,wv,Zaleplon,TRUE,0
+2019,2,wv,Zolpidem Tartrate,FALSE,3595
+2019,2,wv,Zolpidem Tartrate,TRUE,0
+2019,2,wy,Eszopiclone,TRUE,0
+2019,2,wy,Zaleplon,TRUE,0
+2019,2,wy,Zolpidem Tartrate,FALSE,415
+2019,2,wy,Zolpidem Tartrate,TRUE,0
+2019,3,ak,Eszopiclone,FALSE,237
+2019,3,ak,Eszopiclone,TRUE,0
+2019,3,ak,Zaleplon,FALSE,49
+2019,3,ak,Zaleplon,TRUE,0
+2019,3,ak,Zolpidem Tartrate,FALSE,1640
+2019,3,ak,Zolpidem Tartrate,TRUE,0
+2019,3,al,Eszopiclone,FALSE,458
+2019,3,al,Eszopiclone,TRUE,0
+2019,3,al,Zaleplon,TRUE,0
+2019,3,al,Zolpidem Tartrate,FALSE,2254
+2019,3,al,Zolpidem Tartrate,TRUE,0
+2019,3,ar,Eszopiclone,TRUE,0
+2019,3,ar,Zaleplon,FALSE,386
+2019,3,ar,Zaleplon,TRUE,0
+2019,3,ar,Zolpidem Tartrate,FALSE,5220
+2019,3,ar,Zolpidem Tartrate,TRUE,0
+2019,3,az,Eszopiclone,FALSE,834
+2019,3,az,Eszopiclone,TRUE,0
+2019,3,az,Zaleplon,FALSE,199
+2019,3,az,Zaleplon,TRUE,0
+2019,3,az,Zolpidem Tartrate,FALSE,11588
+2019,3,az,Zolpidem Tartrate,TRUE,0
+2019,3,ca,Eszopiclone,FALSE,2671
+2019,3,ca,Eszopiclone,TRUE,0
+2019,3,ca,Zaleplon,FALSE,628
+2019,3,ca,Zaleplon,TRUE,0
+2019,3,ca,Zolpidem Tartrate,FALSE,57577
+2019,3,ca,Zolpidem Tartrate,TRUE,0
+2019,3,co,Eszopiclone,FALSE,2408
+2019,3,co,Eszopiclone,TRUE,0
+2019,3,co,Zaleplon,FALSE,382
+2019,3,co,Zaleplon,TRUE,0
+2019,3,co,Zolpidem Tartrate,FALSE,10617
+2019,3,co,Zolpidem Tartrate,TRUE,0
+2019,3,ct,Eszopiclone,FALSE,880
+2019,3,ct,Eszopiclone,TRUE,0
+2019,3,ct,Zaleplon,FALSE,65
+2019,3,ct,Zaleplon,TRUE,0
+2019,3,ct,Zolpidem Tartrate,FALSE,12120
+2019,3,ct,Zolpidem Tartrate,TRUE,0
+2019,3,dc,Eszopiclone,TRUE,0
+2019,3,dc,Zaleplon,TRUE,0
+2019,3,dc,Zolpidem Tartrate,FALSE,1539
+2019,3,dc,Zolpidem Tartrate,TRUE,0
+2019,3,de,Eszopiclone,FALSE,126
+2019,3,de,Eszopiclone,TRUE,0
+2019,3,de,Zaleplon,FALSE,64
+2019,3,de,Zaleplon,TRUE,0
+2019,3,de,Zolpidem Tartrate,FALSE,3154
+2019,3,de,Zolpidem Tartrate,TRUE,0
+2019,3,fl,Eszopiclone,FALSE,59
+2019,3,fl,Eszopiclone,TRUE,0
+2019,3,fl,Zaleplon,FALSE,183
+2019,3,fl,Zaleplon,TRUE,0
+2019,3,fl,Zolpidem Tartrate,FALSE,14208
+2019,3,fl,Zolpidem Tartrate,TRUE,0
+2019,3,ga,Eszopiclone,FALSE,28
+2019,3,ga,Eszopiclone,TRUE,0
+2019,3,ga,Zaleplon,FALSE,120
+2019,3,ga,Zaleplon,TRUE,0
+2019,3,ga,Zolpidem Tartrate,FALSE,11155
+2019,3,ga,Zolpidem Tartrate,TRUE,0
+2019,3,hi,Eszopiclone,FALSE,13
+2019,3,hi,Eszopiclone,TRUE,0
+2019,3,hi,Zaleplon,TRUE,0
+2019,3,hi,Zolpidem Tartrate,FALSE,2302
+2019,3,hi,Zolpidem Tartrate,TRUE,0
+2019,3,ia,Eszopiclone,FALSE,529
+2019,3,ia,Eszopiclone,TRUE,0
+2019,3,ia,Zaleplon,FALSE,209
+2019,3,ia,Zaleplon,TRUE,0
+2019,3,ia,Zolpidem Tartrate,FALSE,3493
+2019,3,ia,Zolpidem Tartrate,TRUE,0
+2019,3,id,Eszopiclone,FALSE,189
+2019,3,id,Eszopiclone,TRUE,0
+2019,3,id,Zaleplon,FALSE,18
+2019,3,id,Zaleplon,TRUE,0
+2019,3,id,Zolpidem Tartrate,FALSE,2880
+2019,3,id,Zolpidem Tartrate,TRUE,0
+2019,3,il,Eszopiclone,FALSE,269
+2019,3,il,Eszopiclone,TRUE,0
+2019,3,il,Zaleplon,FALSE,307
+2019,3,il,Zaleplon,TRUE,0
+2019,3,il,Zolpidem Tartrate,FALSE,16758
+2019,3,il,Zolpidem Tartrate,TRUE,0
+2019,3,in,Eszopiclone,FALSE,1590
+2019,3,in,Eszopiclone,TRUE,0
+2019,3,in,Zaleplon,FALSE,248
+2019,3,in,Zaleplon,TRUE,0
+2019,3,in,Zolpidem Tartrate,FALSE,9889
+2019,3,in,Zolpidem Tartrate,TRUE,0
+2019,3,ks,Eszopiclone,FALSE,181
+2019,3,ks,Eszopiclone,TRUE,0
+2019,3,ks,Zaleplon,FALSE,37
+2019,3,ks,Zaleplon,TRUE,0
+2019,3,ks,Zolpidem Tartrate,FALSE,2951
+2019,3,ks,Zolpidem Tartrate,TRUE,0
+2019,3,ky,Eszopiclone,FALSE,320
+2019,3,ky,Eszopiclone,TRUE,0
+2019,3,ky,Zaleplon,FALSE,39
+2019,3,ky,Zaleplon,TRUE,0
+2019,3,ky,Zolpidem Tartrate,FALSE,9881
+2019,3,ky,Zolpidem Tartrate,TRUE,0
+2019,3,la,Eszopiclone,FALSE,578
+2019,3,la,Eszopiclone,TRUE,0
+2019,3,la,Zaleplon,FALSE,90
+2019,3,la,Zaleplon,TRUE,0
+2019,3,la,Zolpidem Tartrate,FALSE,21747
+2019,3,la,Zolpidem Tartrate,TRUE,0
+2019,3,ma,Eszopiclone,FALSE,489
+2019,3,ma,Eszopiclone,TRUE,0
+2019,3,ma,Zaleplon,FALSE,285
+2019,3,ma,Zaleplon,TRUE,0
+2019,3,ma,Zolpidem Tartrate,FALSE,15824
+2019,3,ma,Zolpidem Tartrate,TRUE,0
+2019,3,md,Eszopiclone,FALSE,1022
+2019,3,md,Eszopiclone,TRUE,0
+2019,3,md,Zaleplon,FALSE,280
+2019,3,md,Zaleplon,TRUE,0
+2019,3,md,Zolpidem Tartrate,FALSE,13160
+2019,3,md,Zolpidem Tartrate,TRUE,0
+2019,3,me,Eszopiclone,FALSE,92
+2019,3,me,Eszopiclone,TRUE,0
+2019,3,me,Zaleplon,FALSE,20
+2019,3,me,Zaleplon,TRUE,0
+2019,3,me,Zolpidem Tartrate,FALSE,1880
+2019,3,me,Zolpidem Tartrate,TRUE,0
+2019,3,mi,Eszopiclone,FALSE,484
+2019,3,mi,Eszopiclone,TRUE,0
+2019,3,mi,Zaleplon,FALSE,72
+2019,3,mi,Zaleplon,TRUE,0
+2019,3,mi,Zolpidem Tartrate,FALSE,14588
+2019,3,mi,Zolpidem Tartrate,TRUE,0
+2019,3,mn,Eszopiclone,FALSE,1922
+2019,3,mn,Eszopiclone,TRUE,0
+2019,3,mn,Zaleplon,FALSE,705
+2019,3,mn,Zaleplon,TRUE,0
+2019,3,mn,Zolpidem Tartrate,FALSE,11176
+2019,3,mn,Zolpidem Tartrate,TRUE,0
+2019,3,mo,Eszopiclone,FALSE,2079
+2019,3,mo,Eszopiclone,TRUE,0
+2019,3,mo,Zaleplon,FALSE,372
+2019,3,mo,Zaleplon,TRUE,0
+2019,3,mo,Zolpidem Tartrate,FALSE,9405
+2019,3,mo,Zolpidem Tartrate,TRUE,0
+2019,3,ms,Eszopiclone,TRUE,0
+2019,3,ms,Zaleplon,FALSE,14
+2019,3,ms,Zaleplon,TRUE,0
+2019,3,ms,Zolpidem Tartrate,FALSE,1471
+2019,3,ms,Zolpidem Tartrate,TRUE,0
+2019,3,mt,Eszopiclone,FALSE,226
+2019,3,mt,Eszopiclone,TRUE,0
+2019,3,mt,Zaleplon,FALSE,19
+2019,3,mt,Zaleplon,TRUE,0
+2019,3,mt,Zolpidem Tartrate,FALSE,4033
+2019,3,mt,Zolpidem Tartrate,TRUE,0
+2019,3,nc,Eszopiclone,FALSE,582
+2019,3,nc,Eszopiclone,TRUE,0
+2019,3,nc,Zaleplon,FALSE,33
+2019,3,nc,Zaleplon,TRUE,0
+2019,3,nc,Zolpidem Tartrate,FALSE,10289
+2019,3,nc,Zolpidem Tartrate,TRUE,0
+2019,3,nd,Eszopiclone,FALSE,84
+2019,3,nd,Eszopiclone,TRUE,0
+2019,3,nd,Zaleplon,FALSE,17
+2019,3,nd,Zaleplon,TRUE,0
+2019,3,nd,Zolpidem Tartrate,FALSE,895
+2019,3,nd,Zolpidem Tartrate,TRUE,0
+2019,3,ne,Eszopiclone,FALSE,50
+2019,3,ne,Eszopiclone,TRUE,0
+2019,3,ne,Zaleplon,FALSE,138
+2019,3,ne,Zaleplon,TRUE,0
+2019,3,ne,Zolpidem Tartrate,FALSE,2230
+2019,3,ne,Zolpidem Tartrate,TRUE,0
+2019,3,nh,Eszopiclone,FALSE,166
+2019,3,nh,Eszopiclone,TRUE,0
+2019,3,nh,Zaleplon,FALSE,61
+2019,3,nh,Zaleplon,TRUE,0
+2019,3,nh,Zolpidem Tartrate,FALSE,1669
+2019,3,nh,Zolpidem Tartrate,TRUE,0
+2019,3,nj,Eszopiclone,FALSE,172
+2019,3,nj,Eszopiclone,TRUE,0
+2019,3,nj,Zaleplon,FALSE,719
+2019,3,nj,Zaleplon,TRUE,0
+2019,3,nj,Zolpidem Tartrate,FALSE,22230
+2019,3,nj,Zolpidem Tartrate,TRUE,0
+2019,3,nm,Eszopiclone,FALSE,411
+2019,3,nm,Eszopiclone,TRUE,0
+2019,3,nm,Zaleplon,FALSE,103
+2019,3,nm,Zaleplon,TRUE,0
+2019,3,nm,Zolpidem Tartrate,FALSE,5409
+2019,3,nm,Zolpidem Tartrate,TRUE,0
+2019,3,nv,Eszopiclone,FALSE,82
+2019,3,nv,Eszopiclone,TRUE,0
+2019,3,nv,Zaleplon,FALSE,157
+2019,3,nv,Zaleplon,TRUE,0
+2019,3,nv,Zolpidem Tartrate,FALSE,6501
+2019,3,nv,Zolpidem Tartrate,TRUE,0
+2019,3,ny,Eszopiclone,FALSE,1693
+2019,3,ny,Eszopiclone,TRUE,0
+2019,3,ny,Zaleplon,FALSE,908
+2019,3,ny,Zaleplon,TRUE,0
+2019,3,ny,Zolpidem Tartrate,FALSE,74956
+2019,3,ny,Zolpidem Tartrate,TRUE,0
+2019,3,oh,Eszopiclone,FALSE,1269
+2019,3,oh,Eszopiclone,TRUE,0
+2019,3,oh,Zaleplon,FALSE,753
+2019,3,oh,Zaleplon,TRUE,0
+2019,3,oh,Zolpidem Tartrate,FALSE,25155
+2019,3,oh,Zolpidem Tartrate,TRUE,0
+2019,3,ok,Eszopiclone,FALSE,583
+2019,3,ok,Eszopiclone,TRUE,0
+2019,3,ok,Zaleplon,FALSE,77
+2019,3,ok,Zaleplon,TRUE,0
+2019,3,ok,Zolpidem Tartrate,FALSE,3620
+2019,3,ok,Zolpidem Tartrate,TRUE,0
+2019,3,or,Eszopiclone,FALSE,27
+2019,3,or,Eszopiclone,TRUE,0
+2019,3,or,Zaleplon,FALSE,102
+2019,3,or,Zaleplon,TRUE,0
+2019,3,or,Zolpidem Tartrate,FALSE,3808
+2019,3,or,Zolpidem Tartrate,TRUE,0
+2019,3,pa,Eszopiclone,FALSE,1100
+2019,3,pa,Eszopiclone,TRUE,0
+2019,3,pa,Zaleplon,FALSE,1114
+2019,3,pa,Zaleplon,TRUE,0
+2019,3,pa,Zolpidem Tartrate,FALSE,30874
+2019,3,pa,Zolpidem Tartrate,TRUE,0
+2019,3,ri,Eszopiclone,FALSE,178
+2019,3,ri,Eszopiclone,TRUE,0
+2019,3,ri,Zaleplon,FALSE,106
+2019,3,ri,Zaleplon,TRUE,0
+2019,3,ri,Zolpidem Tartrate,FALSE,3563
+2019,3,ri,Zolpidem Tartrate,TRUE,0
+2019,3,sc,Eszopiclone,FALSE,173
+2019,3,sc,Eszopiclone,TRUE,0
+2019,3,sc,Zaleplon,FALSE,44
+2019,3,sc,Zaleplon,TRUE,0
+2019,3,sc,Zolpidem Tartrate,FALSE,2907
+2019,3,sc,Zolpidem Tartrate,TRUE,0
+2019,3,sd,Eszopiclone,FALSE,72
+2019,3,sd,Eszopiclone,TRUE,0
+2019,3,sd,Zaleplon,TRUE,0
+2019,3,sd,Zolpidem Tartrate,FALSE,450
+2019,3,sd,Zolpidem Tartrate,TRUE,0
+2019,3,tn,Eszopiclone,FALSE,162
+2019,3,tn,Eszopiclone,TRUE,0
+2019,3,tn,Zaleplon,FALSE,14
+2019,3,tn,Zaleplon,TRUE,0
+2019,3,tn,Zolpidem Tartrate,FALSE,1523
+2019,3,tn,Zolpidem Tartrate,TRUE,0
+2019,3,tx,Eszopiclone,FALSE,1211
+2019,3,tx,Eszopiclone,TRUE,0
+2019,3,tx,Zaleplon,FALSE,86
+2019,3,tx,Zaleplon,TRUE,0
+2019,3,tx,Zolpidem Tartrate,FALSE,20950
+2019,3,tx,Zolpidem Tartrate,TRUE,0
+2019,3,ut,Eszopiclone,FALSE,278
+2019,3,ut,Eszopiclone,TRUE,0
+2019,3,ut,Zaleplon,FALSE,106
+2019,3,ut,Zaleplon,TRUE,0
+2019,3,ut,Zolpidem Tartrate,FALSE,4019
+2019,3,ut,Zolpidem Tartrate,TRUE,0
+2019,3,va,Eszopiclone,FALSE,805
+2019,3,va,Eszopiclone,TRUE,0
+2019,3,va,Zaleplon,FALSE,68
+2019,3,va,Zaleplon,TRUE,0
+2019,3,va,Zolpidem Tartrate,FALSE,10726
+2019,3,va,Zolpidem Tartrate,TRUE,0
+2019,3,vt,Eszopiclone,FALSE,100
+2019,3,vt,Eszopiclone,TRUE,0
+2019,3,vt,Zaleplon,FALSE,67
+2019,3,vt,Zaleplon,TRUE,0
+2019,3,vt,Zolpidem Tartrate,FALSE,1516
+2019,3,vt,Zolpidem Tartrate,TRUE,0
+2019,3,wa,Eszopiclone,FALSE,602
+2019,3,wa,Eszopiclone,TRUE,0
+2019,3,wa,Zaleplon,FALSE,318
+2019,3,wa,Zaleplon,TRUE,0
+2019,3,wa,Zolpidem Tartrate,FALSE,12547
+2019,3,wa,Zolpidem Tartrate,TRUE,0
+2019,3,wi,Eszopiclone,FALSE,1240
+2019,3,wi,Eszopiclone,TRUE,0
+2019,3,wi,Zaleplon,FALSE,581
+2019,3,wi,Zaleplon,TRUE,0
+2019,3,wi,Zolpidem Tartrate,FALSE,14150
+2019,3,wi,Zolpidem Tartrate,TRUE,0
+2019,3,wv,Eszopiclone,FALSE,29
+2019,3,wv,Eszopiclone,TRUE,0
+2019,3,wv,Zaleplon,TRUE,0
+2019,3,wv,Zolpidem Tartrate,FALSE,3321
+2019,3,wv,Zolpidem Tartrate,TRUE,0
+2019,3,wy,Eszopiclone,TRUE,0
+2019,3,wy,Zaleplon,TRUE,0
+2019,3,wy,Zolpidem Tartrate,FALSE,320
+2019,3,wy,Zolpidem Tartrate,TRUE,0
+2019,4,ak,Eszopiclone,FALSE,179
+2019,4,ak,Eszopiclone,TRUE,0
+2019,4,ak,Zaleplon,FALSE,55
+2019,4,ak,Zaleplon,TRUE,0
+2019,4,ak,Zolpidem Tartrate,FALSE,1447
+2019,4,ak,Zolpidem Tartrate,TRUE,0
+2019,4,al,Eszopiclone,FALSE,477
+2019,4,al,Eszopiclone,TRUE,0
+2019,4,al,Zaleplon,FALSE,15
+2019,4,al,Zaleplon,TRUE,0
+2019,4,al,Zolpidem Tartrate,FALSE,2259
+2019,4,al,Zolpidem Tartrate,TRUE,0
+2019,4,ar,Eszopiclone,TRUE,0
+2019,4,ar,Zaleplon,FALSE,394
+2019,4,ar,Zaleplon,TRUE,0
+2019,4,ar,Zolpidem Tartrate,FALSE,4828
+2019,4,ar,Zolpidem Tartrate,TRUE,0
+2019,4,az,Eszopiclone,FALSE,780
+2019,4,az,Eszopiclone,TRUE,0
+2019,4,az,Zaleplon,FALSE,139
+2019,4,az,Zaleplon,TRUE,0
+2019,4,az,Zolpidem Tartrate,FALSE,11064
+2019,4,az,Zolpidem Tartrate,TRUE,0
+2019,4,ca,Eszopiclone,FALSE,2660
+2019,4,ca,Eszopiclone,TRUE,0
+2019,4,ca,Zaleplon,FALSE,642
+2019,4,ca,Zaleplon,TRUE,0
+2019,4,ca,Zolpidem Tartrate,FALSE,55363
+2019,4,ca,Zolpidem Tartrate,TRUE,0
+2019,4,co,Eszopiclone,FALSE,2223
+2019,4,co,Eszopiclone,TRUE,0
+2019,4,co,Zaleplon,FALSE,323
+2019,4,co,Zaleplon,TRUE,0
+2019,4,co,Zolpidem Tartrate,FALSE,9510
+2019,4,co,Zolpidem Tartrate,TRUE,0
+2019,4,ct,Eszopiclone,FALSE,892
+2019,4,ct,Eszopiclone,TRUE,0
+2019,4,ct,Zaleplon,FALSE,50
+2019,4,ct,Zaleplon,TRUE,0
+2019,4,ct,Zolpidem Tartrate,FALSE,11740
+2019,4,ct,Zolpidem Tartrate,TRUE,0
+2019,4,dc,Eszopiclone,TRUE,0
+2019,4,dc,Zaleplon,TRUE,0
+2019,4,dc,Zolpidem Tartrate,FALSE,1445
+2019,4,dc,Zolpidem Tartrate,TRUE,0
+2019,4,de,Eszopiclone,FALSE,84
+2019,4,de,Eszopiclone,TRUE,0
+2019,4,de,Zaleplon,FALSE,75
+2019,4,de,Zaleplon,TRUE,0
+2019,4,de,Zolpidem Tartrate,FALSE,3022
+2019,4,de,Zolpidem Tartrate,TRUE,0
+2019,4,fl,Eszopiclone,FALSE,66
+2019,4,fl,Eszopiclone,TRUE,0
+2019,4,fl,Zaleplon,FALSE,134
+2019,4,fl,Zaleplon,TRUE,0
+2019,4,fl,Zolpidem Tartrate,FALSE,13697
+2019,4,fl,Zolpidem Tartrate,TRUE,0
+2019,4,ga,Eszopiclone,FALSE,13
+2019,4,ga,Eszopiclone,TRUE,0
+2019,4,ga,Zaleplon,FALSE,123
+2019,4,ga,Zaleplon,TRUE,0
+2019,4,ga,Zolpidem Tartrate,FALSE,10214
+2019,4,ga,Zolpidem Tartrate,TRUE,0
+2019,4,hi,Eszopiclone,FALSE,13
+2019,4,hi,Eszopiclone,TRUE,0
+2019,4,hi,Zolpidem Tartrate,FALSE,2224
+2019,4,hi,Zolpidem Tartrate,TRUE,0
+2019,4,ia,Eszopiclone,FALSE,503
+2019,4,ia,Eszopiclone,TRUE,0
+2019,4,ia,Zaleplon,FALSE,177
+2019,4,ia,Zaleplon,TRUE,0
+2019,4,ia,Zolpidem Tartrate,FALSE,3308
+2019,4,ia,Zolpidem Tartrate,TRUE,0
+2019,4,id,Eszopiclone,FALSE,160
+2019,4,id,Eszopiclone,TRUE,0
+2019,4,id,Zaleplon,FALSE,20
+2019,4,id,Zaleplon,TRUE,0
+2019,4,id,Zolpidem Tartrate,FALSE,2519
+2019,4,id,Zolpidem Tartrate,TRUE,0
+2019,4,il,Eszopiclone,FALSE,282
+2019,4,il,Eszopiclone,TRUE,0
+2019,4,il,Zaleplon,FALSE,296
+2019,4,il,Zaleplon,TRUE,0
+2019,4,il,Zolpidem Tartrate,FALSE,16255
+2019,4,il,Zolpidem Tartrate,TRUE,0
+2019,4,in,Eszopiclone,FALSE,1620
+2019,4,in,Eszopiclone,TRUE,0
+2019,4,in,Zaleplon,FALSE,221
+2019,4,in,Zaleplon,TRUE,0
+2019,4,in,Zolpidem Tartrate,FALSE,9783
+2019,4,in,Zolpidem Tartrate,TRUE,0
+2019,4,ks,Eszopiclone,FALSE,164
+2019,4,ks,Eszopiclone,TRUE,0
+2019,4,ks,Zaleplon,FALSE,30
+2019,4,ks,Zaleplon,TRUE,0
+2019,4,ks,Zolpidem Tartrate,FALSE,2858
+2019,4,ks,Zolpidem Tartrate,TRUE,0
+2019,4,ky,Eszopiclone,FALSE,264
+2019,4,ky,Eszopiclone,TRUE,0
+2019,4,ky,Zaleplon,FALSE,43
+2019,4,ky,Zaleplon,TRUE,0
+2019,4,ky,Zolpidem Tartrate,FALSE,9418
+2019,4,ky,Zolpidem Tartrate,TRUE,0
+2019,4,la,Eszopiclone,FALSE,545
+2019,4,la,Eszopiclone,TRUE,0
+2019,4,la,Zaleplon,FALSE,90
+2019,4,la,Zaleplon,TRUE,0
+2019,4,la,Zolpidem Tartrate,FALSE,20926
+2019,4,la,Zolpidem Tartrate,TRUE,0
+2019,4,ma,Eszopiclone,FALSE,556
+2019,4,ma,Eszopiclone,TRUE,0
+2019,4,ma,Zaleplon,FALSE,257
+2019,4,ma,Zaleplon,TRUE,0
+2019,4,ma,Zolpidem Tartrate,FALSE,15881
+2019,4,ma,Zolpidem Tartrate,TRUE,0
+2019,4,md,Eszopiclone,FALSE,1083
+2019,4,md,Eszopiclone,TRUE,0
+2019,4,md,Zaleplon,FALSE,269
+2019,4,md,Zaleplon,TRUE,0
+2019,4,md,Zolpidem Tartrate,FALSE,14110
+2019,4,md,Zolpidem Tartrate,TRUE,0
+2019,4,me,Eszopiclone,FALSE,107
+2019,4,me,Eszopiclone,TRUE,0
+2019,4,me,Zaleplon,FALSE,18
+2019,4,me,Zaleplon,TRUE,0
+2019,4,me,Zolpidem Tartrate,FALSE,1836
+2019,4,me,Zolpidem Tartrate,TRUE,0
+2019,4,mi,Eszopiclone,FALSE,500
+2019,4,mi,Eszopiclone,TRUE,0
+2019,4,mi,Zaleplon,FALSE,71
+2019,4,mi,Zaleplon,TRUE,0
+2019,4,mi,Zolpidem Tartrate,FALSE,14013
+2019,4,mi,Zolpidem Tartrate,TRUE,0
+2019,4,mn,Eszopiclone,FALSE,2038
+2019,4,mn,Eszopiclone,TRUE,0
+2019,4,mn,Zaleplon,FALSE,700
+2019,4,mn,Zaleplon,TRUE,0
+2019,4,mn,Zolpidem Tartrate,FALSE,10859
+2019,4,mn,Zolpidem Tartrate,TRUE,0
+2019,4,mo,Eszopiclone,FALSE,1895
+2019,4,mo,Eszopiclone,TRUE,0
+2019,4,mo,Zaleplon,FALSE,300
+2019,4,mo,Zaleplon,TRUE,0
+2019,4,mo,Zolpidem Tartrate,FALSE,8408
+2019,4,mo,Zolpidem Tartrate,TRUE,0
+2019,4,ms,Eszopiclone,FALSE,14
+2019,4,ms,Eszopiclone,TRUE,0
+2019,4,ms,Zaleplon,FALSE,32
+2019,4,ms,Zaleplon,TRUE,0
+2019,4,ms,Zolpidem Tartrate,FALSE,1459
+2019,4,ms,Zolpidem Tartrate,TRUE,0
+2019,4,mt,Eszopiclone,FALSE,197
+2019,4,mt,Eszopiclone,TRUE,0
+2019,4,mt,Zaleplon,FALSE,24
+2019,4,mt,Zaleplon,TRUE,0
+2019,4,mt,Zolpidem Tartrate,FALSE,3662
+2019,4,mt,Zolpidem Tartrate,TRUE,0
+2019,4,nc,Eszopiclone,FALSE,599
+2019,4,nc,Eszopiclone,TRUE,0
+2019,4,nc,Zaleplon,FALSE,40
+2019,4,nc,Zaleplon,TRUE,0
+2019,4,nc,Zolpidem Tartrate,FALSE,9606
+2019,4,nc,Zolpidem Tartrate,TRUE,0
+2019,4,nd,Eszopiclone,FALSE,56
+2019,4,nd,Eszopiclone,TRUE,0
+2019,4,nd,Zaleplon,FALSE,13
+2019,4,nd,Zaleplon,TRUE,0
+2019,4,nd,Zolpidem Tartrate,FALSE,825
+2019,4,nd,Zolpidem Tartrate,TRUE,0
+2019,4,ne,Eszopiclone,FALSE,47
+2019,4,ne,Eszopiclone,TRUE,0
+2019,4,ne,Zaleplon,FALSE,81
+2019,4,ne,Zaleplon,TRUE,0
+2019,4,ne,Zolpidem Tartrate,FALSE,2032
+2019,4,ne,Zolpidem Tartrate,TRUE,0
+2019,4,nh,Eszopiclone,FALSE,156
+2019,4,nh,Eszopiclone,TRUE,0
+2019,4,nh,Zaleplon,FALSE,51
+2019,4,nh,Zaleplon,TRUE,0
+2019,4,nh,Zolpidem Tartrate,FALSE,1411
+2019,4,nh,Zolpidem Tartrate,TRUE,0
+2019,4,nj,Eszopiclone,FALSE,174
+2019,4,nj,Eszopiclone,TRUE,0
+2019,4,nj,Zaleplon,FALSE,730
+2019,4,nj,Zaleplon,TRUE,0
+2019,4,nj,Zolpidem Tartrate,FALSE,21447
+2019,4,nj,Zolpidem Tartrate,TRUE,0
+2019,4,nm,Eszopiclone,FALSE,333
+2019,4,nm,Eszopiclone,TRUE,0
+2019,4,nm,Zaleplon,FALSE,76
+2019,4,nm,Zaleplon,TRUE,0
+2019,4,nm,Zolpidem Tartrate,FALSE,4491
+2019,4,nm,Zolpidem Tartrate,TRUE,0
+2019,4,nv,Eszopiclone,FALSE,73
+2019,4,nv,Eszopiclone,TRUE,0
+2019,4,nv,Zaleplon,FALSE,126
+2019,4,nv,Zaleplon,TRUE,0
+2019,4,nv,Zolpidem Tartrate,FALSE,6376
+2019,4,nv,Zolpidem Tartrate,TRUE,0
+2019,4,ny,Eszopiclone,FALSE,1699
+2019,4,ny,Eszopiclone,TRUE,0
+2019,4,ny,Zaleplon,FALSE,941
+2019,4,ny,Zaleplon,TRUE,0
+2019,4,ny,Zolpidem Tartrate,FALSE,72223
+2019,4,ny,Zolpidem Tartrate,TRUE,0
+2019,4,oh,Eszopiclone,FALSE,1197
+2019,4,oh,Eszopiclone,TRUE,0
+2019,4,oh,Zaleplon,FALSE,724
+2019,4,oh,Zaleplon,TRUE,0
+2019,4,oh,Zolpidem Tartrate,FALSE,24286
+2019,4,oh,Zolpidem Tartrate,TRUE,0
+2019,4,ok,Eszopiclone,FALSE,546
+2019,4,ok,Eszopiclone,TRUE,0
+2019,4,ok,Zaleplon,FALSE,82
+2019,4,ok,Zaleplon,TRUE,0
+2019,4,ok,Zolpidem Tartrate,FALSE,3671
+2019,4,ok,Zolpidem Tartrate,TRUE,0
+2019,4,or,Eszopiclone,FALSE,20
+2019,4,or,Eszopiclone,TRUE,0
+2019,4,or,Zaleplon,FALSE,91
+2019,4,or,Zaleplon,TRUE,0
+2019,4,or,Zolpidem Tartrate,FALSE,3785
+2019,4,or,Zolpidem Tartrate,TRUE,0
+2019,4,pa,Eszopiclone,FALSE,1153
+2019,4,pa,Eszopiclone,TRUE,0
+2019,4,pa,Zaleplon,FALSE,1049
+2019,4,pa,Zaleplon,TRUE,0
+2019,4,pa,Zolpidem Tartrate,FALSE,30816
+2019,4,pa,Zolpidem Tartrate,TRUE,0
+2019,4,ri,Eszopiclone,FALSE,164
+2019,4,ri,Eszopiclone,TRUE,0
+2019,4,ri,Zaleplon,FALSE,85
+2019,4,ri,Zaleplon,TRUE,0
+2019,4,ri,Zolpidem Tartrate,FALSE,3170
+2019,4,ri,Zolpidem Tartrate,TRUE,0
+2019,4,sc,Eszopiclone,FALSE,158
+2019,4,sc,Eszopiclone,TRUE,0
+2019,4,sc,Zaleplon,FALSE,50
+2019,4,sc,Zaleplon,TRUE,0
+2019,4,sc,Zolpidem Tartrate,FALSE,3178
+2019,4,sc,Zolpidem Tartrate,TRUE,0
+2019,4,sd,Eszopiclone,FALSE,54
+2019,4,sd,Eszopiclone,TRUE,0
+2019,4,sd,Zaleplon,TRUE,0
+2019,4,sd,Zolpidem Tartrate,FALSE,388
+2019,4,sd,Zolpidem Tartrate,TRUE,0
+2019,4,tn,Eszopiclone,FALSE,162
+2019,4,tn,Eszopiclone,TRUE,0
+2019,4,tn,Zaleplon,FALSE,26
+2019,4,tn,Zaleplon,TRUE,0
+2019,4,tn,Zolpidem Tartrate,FALSE,1499
+2019,4,tn,Zolpidem Tartrate,TRUE,0
+2019,4,tx,Eszopiclone,FALSE,1085
+2019,4,tx,Eszopiclone,TRUE,0
+2019,4,tx,Zaleplon,FALSE,42
+2019,4,tx,Zaleplon,TRUE,0
+2019,4,tx,Zolpidem Tartrate,FALSE,18814
+2019,4,tx,Zolpidem Tartrate,TRUE,0
+2019,4,ut,Eszopiclone,FALSE,228
+2019,4,ut,Eszopiclone,TRUE,0
+2019,4,ut,Zaleplon,FALSE,113
+2019,4,ut,Zaleplon,TRUE,0
+2019,4,ut,Zolpidem Tartrate,FALSE,4019
+2019,4,ut,Zolpidem Tartrate,TRUE,0
+2019,4,va,Eszopiclone,FALSE,812
+2019,4,va,Eszopiclone,TRUE,0
+2019,4,va,Zaleplon,FALSE,66
+2019,4,va,Zaleplon,TRUE,0
+2019,4,va,Zolpidem Tartrate,FALSE,10690
+2019,4,va,Zolpidem Tartrate,TRUE,0
+2019,4,vt,Eszopiclone,FALSE,93
+2019,4,vt,Eszopiclone,TRUE,0
+2019,4,vt,Zaleplon,FALSE,72
+2019,4,vt,Zaleplon,TRUE,0
+2019,4,vt,Zolpidem Tartrate,FALSE,1520
+2019,4,vt,Zolpidem Tartrate,TRUE,0
+2019,4,wa,Eszopiclone,FALSE,594
+2019,4,wa,Eszopiclone,TRUE,0
+2019,4,wa,Zaleplon,FALSE,291
+2019,4,wa,Zaleplon,TRUE,0
+2019,4,wa,Zolpidem Tartrate,FALSE,11789
+2019,4,wa,Zolpidem Tartrate,TRUE,0
+2019,4,wi,Eszopiclone,FALSE,1292
+2019,4,wi,Eszopiclone,TRUE,0
+2019,4,wi,Zaleplon,FALSE,562
+2019,4,wi,Zaleplon,TRUE,0
+2019,4,wi,Zolpidem Tartrate,FALSE,13756
+2019,4,wi,Zolpidem Tartrate,TRUE,0
+2019,4,wv,Eszopiclone,FALSE,13
+2019,4,wv,Eszopiclone,TRUE,0
+2019,4,wv,Zaleplon,TRUE,0
+2019,4,wv,Zolpidem Tartrate,FALSE,3363
+2019,4,wv,Zolpidem Tartrate,TRUE,0
+2019,4,wy,Eszopiclone,TRUE,0
+2019,4,wy,Zaleplon,TRUE,0
+2019,4,wy,Zolpidem Tartrate,FALSE,346
+2019,4,wy,Zolpidem Tartrate,TRUE,0
+2020,1,ak,Eszopiclone,NA,164
+2020,1,ak,Zaleplon,NA,39
+2020,1,ak,Zolpidem Tartrate,NA,1348
+2020,1,al,Eszopiclone,NA,493
+2020,1,al,Zaleplon,NA,0
+2020,1,al,Zolpidem Tartrate,NA,2377
+2020,1,ar,Eszopiclone,NA,0
+2020,1,ar,Zaleplon,NA,433
+2020,1,ar,Zolpidem Tartrate,NA,4669
+2020,1,az,Eszopiclone,NA,1125
+2020,1,az,Zaleplon,NA,172
+2020,1,az,Zolpidem Tartrate,NA,11063
+2020,1,ca,Eszopiclone,NA,2623
+2020,1,ca,Zaleplon,NA,561
+2020,1,ca,Zolpidem Tartrate,NA,53597
+2020,1,co,Eszopiclone,NA,2487
+2020,1,co,Zaleplon,NA,276
+2020,1,co,Zolpidem Tartrate,NA,9699
+2020,1,ct,Eszopiclone,NA,891
+2020,1,ct,Zaleplon,NA,37
+2020,1,ct,Zolpidem Tartrate,NA,11574
+2020,1,dc,Eszopiclone,NA,0
+2020,1,dc,Zaleplon,NA,0
+2020,1,dc,Zolpidem Tartrate,NA,1418
+2020,1,de,Eszopiclone,NA,125
+2020,1,de,Zaleplon,NA,64
+2020,1,de,Zolpidem Tartrate,NA,2984
+2020,1,fl,Eszopiclone,NA,63
+2020,1,fl,Zaleplon,NA,147
+2020,1,fl,Zolpidem Tartrate,NA,13358
+2020,1,ga,Eszopiclone,NA,28
+2020,1,ga,Zaleplon,NA,96
+2020,1,ga,Zolpidem Tartrate,NA,10016
+2020,1,hi,Eszopiclone,NA,19
+2020,1,hi,Zolpidem Tartrate,NA,2320
+2020,1,ia,Eszopiclone,NA,565
+2020,1,ia,Zaleplon,NA,194
+2020,1,ia,Zolpidem Tartrate,NA,3156
+2020,1,id,Eszopiclone,NA,216
+2020,1,id,Zaleplon,NA,27
+2020,1,id,Zolpidem Tartrate,NA,3806
+2020,1,il,Eszopiclone,NA,261
+2020,1,il,Zaleplon,NA,109
+2020,1,il,Zolpidem Tartrate,NA,15767
+2020,1,in,Eszopiclone,NA,1656
+2020,1,in,Zaleplon,NA,268
+2020,1,in,Zolpidem Tartrate,NA,9803
+2020,1,ks,Eszopiclone,NA,168
+2020,1,ks,Zaleplon,NA,24
+2020,1,ks,Zolpidem Tartrate,NA,2870
+2020,1,ky,Eszopiclone,NA,378
+2020,1,ky,Zaleplon,NA,65
+2020,1,ky,Zolpidem Tartrate,NA,9294
+2020,1,la,Eszopiclone,NA,601
+2020,1,la,Zaleplon,NA,80
+2020,1,la,Zolpidem Tartrate,NA,21059
+2020,1,ma,Eszopiclone,NA,660
+2020,1,ma,Zaleplon,NA,295
+2020,1,ma,Zolpidem Tartrate,NA,16607
+2020,1,md,Eszopiclone,NA,997
+2020,1,md,Zaleplon,NA,223
+2020,1,md,Zolpidem Tartrate,NA,12694
+2020,1,me,Eszopiclone,NA,94
+2020,1,me,Zaleplon,NA,40
+2020,1,me,Zolpidem Tartrate,NA,1886
+2020,1,mn,Eszopiclone,NA,2103
+2020,1,mn,Zaleplon,NA,772
+2020,1,mn,Zolpidem Tartrate,NA,11473
+2020,1,mo,Eszopiclone,NA,1850
+2020,1,mo,Zaleplon,NA,334
+2020,1,mo,Zolpidem Tartrate,NA,8110
+2020,1,ms,Eszopiclone,NA,13
+2020,1,ms,Zaleplon,NA,17
+2020,1,ms,Zolpidem Tartrate,NA,1395
+2020,1,mt,Eszopiclone,NA,148
+2020,1,mt,Zaleplon,NA,21
+2020,1,mt,Zolpidem Tartrate,NA,3644
+2020,1,nc,Eszopiclone,NA,364
+2020,1,nc,Zaleplon,NA,30
+2020,1,nc,Zolpidem Tartrate,NA,6146
+2020,1,nd,Eszopiclone,NA,107
+2020,1,nd,Zaleplon,NA,23
+2020,1,nd,Zolpidem Tartrate,NA,859
+2020,1,ne,Eszopiclone,NA,78
+2020,1,ne,Zaleplon,NA,91
+2020,1,ne,Zolpidem Tartrate,NA,2033
+2020,1,nh,Eszopiclone,NA,173
+2020,1,nh,Zaleplon,NA,41
+2020,1,nh,Zolpidem Tartrate,NA,1976
+2020,1,nj,Eszopiclone,NA,156
+2020,1,nj,Zaleplon,NA,693
+2020,1,nj,Zolpidem Tartrate,NA,21303
+2020,1,nm,Eszopiclone,NA,0
+2020,1,nm,Zolpidem Tartrate,NA,100
+2020,1,nv,Eszopiclone,NA,55
+2020,1,nv,Zaleplon,NA,164
+2020,1,nv,Zolpidem Tartrate,NA,6213
+2020,1,ny,Eszopiclone,NA,1883
+2020,1,ny,Zaleplon,NA,942
+2020,1,ny,Zolpidem Tartrate,NA,71069
+2020,1,oh,Eszopiclone,NA,1308
+2020,1,oh,Zaleplon,NA,751
+2020,1,oh,Zolpidem Tartrate,NA,23533
+2020,1,ok,Eszopiclone,NA,517
+2020,1,ok,Zaleplon,NA,73
+2020,1,ok,Zolpidem Tartrate,NA,3346
+2020,1,or,Eszopiclone,NA,112
+2020,1,or,Zaleplon,NA,143
+2020,1,or,Zolpidem Tartrate,NA,3766
+2020,1,pa,Eszopiclone,NA,1502
+2020,1,pa,Zaleplon,NA,1012
+2020,1,pa,Zolpidem Tartrate,NA,28151
+2020,1,ri,Eszopiclone,NA,185
+2020,1,ri,Zaleplon,NA,94
+2020,1,ri,Zolpidem Tartrate,NA,3367
+2020,1,sc,Eszopiclone,NA,165
+2020,1,sc,Zaleplon,NA,51
+2020,1,sc,Zolpidem Tartrate,NA,2306
+2020,1,sd,Eszopiclone,NA,45
+2020,1,sd,Zaleplon,NA,0
+2020,1,sd,Zolpidem Tartrate,NA,383
+2020,1,tn,Eszopiclone,NA,256
+2020,1,tn,Zaleplon,NA,71
+2020,1,tn,Zolpidem Tartrate,NA,2121
+2020,1,tx,Eszopiclone,NA,1012
+2020,1,tx,Zaleplon,NA,65
+2020,1,tx,Zolpidem Tartrate,NA,17438
+2020,1,ut,Eszopiclone,NA,381
+2020,1,ut,Zaleplon,NA,137
+2020,1,ut,Zolpidem Tartrate,NA,4273
+2020,1,va,Eszopiclone,NA,985
+2020,1,va,Zaleplon,NA,101
+2020,1,va,Zolpidem Tartrate,NA,11235
+2020,1,vt,Eszopiclone,NA,84
+2020,1,vt,Zaleplon,NA,64
+2020,1,vt,Zolpidem Tartrate,NA,1448
+2020,1,wa,Eszopiclone,NA,609
+2020,1,wa,Zaleplon,NA,246
+2020,1,wa,Zolpidem Tartrate,NA,12357
+2020,1,wi,Eszopiclone,NA,1349
+2020,1,wi,Zaleplon,NA,554
+2020,1,wi,Zolpidem Tartrate,NA,13834
+2020,1,wv,Eszopiclone,NA,0
+2020,1,wv,Zaleplon,NA,0
+2020,1,wv,Zolpidem Tartrate,NA,3056
+2020,1,wy,Eszopiclone,NA,14
+2020,1,wy,Zaleplon,NA,0
+2020,1,wy,Zolpidem Tartrate,NA,353
